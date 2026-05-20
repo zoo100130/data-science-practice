@@ -1,0 +1,16 @@
+# Windows / macOS metadata
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temporary Office files
+~$*
+
+# Python / notebook temporary files
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Large local archives can be added manually when needed.
