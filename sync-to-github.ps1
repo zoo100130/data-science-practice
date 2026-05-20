@@ -29,8 +29,14 @@ if ($hasChanges) {
     Write-Host "No local changes to commit."
 }
 
-$remote = git remote get-url origin 2>$null
-if ($LASTEXITCODE -eq 0 -and -not [string]::IsNullOrWhiteSpace($remote)) {
+$remote = ""
+try {
+    $remote = git remote get-url origin 2>$null
+} catch {
+    $remote = ""
+}
+
+if (-not [string]::IsNullOrWhiteSpace($remote)) {
     git push -u origin main
 } else {
     Write-Host "No GitHub remote is configured yet."
