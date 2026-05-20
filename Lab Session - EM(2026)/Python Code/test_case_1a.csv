@@ -1,0 +1,11 @@
+lot_name,lot_machine_step1,lot_machine_step2,lot_machine_step3,lot_step,processed,bad_pieces
+LOT A,LS-24,,,1,2,0
+LOT A,LS-24,LK-06,,-1,2,1
+LOT B,MS-14,,,1,10,2
+LOT B,MS-14,LK-12,,-1,8,2
+LOT C,MS-14,,,1,10,2
+LOT C,MS-14,SP-06,,2,8,3
+LOT C,MS-14,SP-06,LK-12,-1,5,1
+LOT D,LS-29,,,1,2,0
+LOT D,LS-29,MS-30,,2,2,0
+LOT D,LS-29,MS-30,LS-29,-1,2,1
