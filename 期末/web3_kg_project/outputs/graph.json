@@ -1,0 +1,2726 @@
+{
+  "nodes": [
+    {
+      "id": "post_w001",
+      "label": "Post",
+      "name": "Ethereum developers prepare Pectra upgrade for validator and wallet improvements",
+      "post_id": "w001",
+      "subreddit": "ethereum",
+      "score": 812.0,
+      "created_utc": "2026-05-01",
+      "url": "https://example.com/web3/w001",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_ethereum",
+      "label": "Entity",
+      "name": "Ethereum",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Blockchain",
+      "mentions": 7.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_pectra",
+      "label": "Entity",
+      "name": "Pectra",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Event",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "topic_security",
+      "label": "Topic",
+      "name": "Security",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "topic_restaking",
+      "label": "Topic",
+      "name": "Restaking",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w002",
+      "label": "Post",
+      "name": "Uniswap governance debates fee switch proposal",
+      "post_id": "w002",
+      "subreddit": "defi",
+      "score": 643.0,
+      "created_utc": "2026-05-02",
+      "url": "https://example.com/web3/w002",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_defi",
+      "label": "Entity",
+      "name": "DeFi",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": 3.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_uni",
+      "label": "Entity",
+      "name": "UNI",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Token",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_uniswap",
+      "label": "Entity",
+      "name": "Uniswap",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_uniswap_dao",
+      "label": "Entity",
+      "name": "Uniswap DAO",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "DAO",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "topic_defi",
+      "label": "Topic",
+      "name": "DeFi",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "topic_governance",
+      "label": "Topic",
+      "name": "Governance",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w003",
+      "label": "Post",
+      "name": "Bitcoin ETF inflows rise as institutional demand returns",
+      "post_id": "w003",
+      "subreddit": "cryptocurrency",
+      "score": 932.0,
+      "created_utc": "2026-05-03",
+      "url": "https://example.com/web3/w003",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_bitcoin",
+      "label": "Entity",
+      "name": "Bitcoin",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Blockchain",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_bitcoin_etf",
+      "label": "Entity",
+      "name": "Bitcoin ETF",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_blackrock",
+      "label": "Entity",
+      "name": "BlackRock",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_fidelity",
+      "label": "Entity",
+      "name": "Fidelity",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "topic_institutional_crypto",
+      "label": "Topic",
+      "name": "Institutional Crypto",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w004",
+      "label": "Post",
+      "name": "Solana ecosystem growth continues after new DePIN and memecoin activity",
+      "post_id": "w004",
+      "subreddit": "solana",
+      "score": 557.0,
+      "created_utc": "2026-05-04",
+      "url": "https://example.com/web3/w004",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_depin",
+      "label": "Entity",
+      "name": "DePIN",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "entity_jupiter",
+      "label": "Entity",
+      "name": "Jupiter",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "entity_solana",
+      "label": "Entity",
+      "name": "Solana",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Blockchain",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "post_w005",
+      "label": "Post",
+      "name": "Polygon and Arbitrum teams compare Layer 2 scaling roadmaps",
+      "post_id": "w005",
+      "subreddit": "web3",
+      "score": 488.0,
+      "created_utc": "2026-05-05",
+      "url": "https://example.com/web3/w005",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_arbitrum",
+      "label": "Entity",
+      "name": "Arbitrum",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_base",
+      "label": "Entity",
+      "name": "Base",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 2.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_layer",
+      "label": "Entity",
+      "name": "Layer",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_layer_2",
+      "label": "Entity",
+      "name": "Layer 2",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_optimism",
+      "label": "Entity",
+      "name": "Optimism",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_polygon",
+      "label": "Entity",
+      "name": "Polygon",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 4.0,
+      "community": 4.0
+    },
+    {
+      "id": "topic_layer2_scaling",
+      "label": "Topic",
+      "name": "Layer2 Scaling",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "topic_cross_chain",
+      "label": "Topic",
+      "name": "Cross-chain",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w006",
+      "label": "Post",
+      "name": "NFT gaming projects experiment with on-chain assets",
+      "post_id": "w006",
+      "subreddit": "nft",
+      "score": 354.0,
+      "created_utc": "2026-05-06",
+      "url": "https://example.com/web3/w006",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_immutable",
+      "label": "Entity",
+      "name": "Immutable",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_nft",
+      "label": "Entity",
+      "name": "NFT",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_ronin",
+      "label": "Entity",
+      "name": "Ronin",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Blockchain",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "topic_nft_and_gaming",
+      "label": "Topic",
+      "name": "NFT and Gaming",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w007",
+      "label": "Post",
+      "name": "Aave risk managers propose new stablecoin parameters",
+      "post_id": "w007",
+      "subreddit": "defi",
+      "score": 601.0,
+      "created_utc": "2026-05-07",
+      "url": "https://example.com/web3/w007",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_aave",
+      "label": "Entity",
+      "name": "Aave",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_chainlink",
+      "label": "Entity",
+      "name": "Chainlink",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Oracle",
+      "mentions": 2.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_dai",
+      "label": "Entity",
+      "name": "DAI",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Stablecoin",
+      "mentions": 2.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_usdc",
+      "label": "Entity",
+      "name": "USDC",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Stablecoin",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_usdt",
+      "label": "Entity",
+      "name": "USDT",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Stablecoin",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "topic_stablecoins",
+      "label": "Topic",
+      "name": "Stablecoins",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w008",
+      "label": "Post",
+      "name": "MakerDAO governance votes on real-world asset allocation",
+      "post_id": "w008",
+      "subreddit": "dao",
+      "score": 438.0,
+      "created_utc": "2026-05-08",
+      "url": "https://example.com/web3/w008",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_makerdao",
+      "label": "Entity",
+      "name": "MakerDAO",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "DAO",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_the",
+      "label": "Entity",
+      "name": "The",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_us_treasury",
+      "label": "Entity",
+      "name": "US Treasury",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "post_w009",
+      "label": "Post",
+      "name": "Chainlink expands cross-chain interoperability protocol",
+      "post_id": "w009",
+      "subreddit": "web3",
+      "score": 512.0,
+      "created_utc": "2026-05-09",
+      "url": "https://example.com/web3/w009",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_avalanche",
+      "label": "Entity",
+      "name": "Avalanche",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Blockchain",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_ccip",
+      "label": "Entity",
+      "name": "CCIP",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "post_w010",
+      "label": "Post",
+      "name": "Ledger phishing campaign targets wallet users",
+      "post_id": "w010",
+      "subreddit": "security",
+      "score": 729.0,
+      "created_utc": "2026-05-10",
+      "url": "https://example.com/web3/w010",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_ledger",
+      "label": "Entity",
+      "name": "Ledger",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Wallet",
+      "mentions": 1.0,
+      "community": 6.0
+    },
+    {
+      "id": "post_w011",
+      "label": "Post",
+      "name": "EigenLayer restaking protocols attract new AVS projects",
+      "post_id": "w011",
+      "subreddit": "ethereum",
+      "score": 686.0,
+      "created_utc": "2026-05-11",
+      "url": "https://example.com/web3/w011",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_avs",
+      "label": "Entity",
+      "name": "AVS",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 7.0
+    },
+    {
+      "id": "entity_actively_validated_services",
+      "label": "Entity",
+      "name": "Actively Validated Services",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Concept",
+      "mentions": 1.0,
+      "community": 7.0
+    },
+    {
+      "id": "entity_eigenlayer",
+      "label": "Entity",
+      "name": "EigenLayer",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 7.0
+    },
+    {
+      "id": "entity_renzo",
+      "label": "Entity",
+      "name": "Renzo",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 7.0
+    },
+    {
+      "id": "entity_ether_fi",
+      "label": "Entity",
+      "name": "ether.fi",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 7.0
+    },
+    {
+      "id": "post_w012",
+      "label": "Post",
+      "name": "SEC reviews new crypto market structure proposals",
+      "post_id": "w012",
+      "subreddit": "cryptocurrency",
+      "score": 775.0,
+      "created_utc": "2026-05-12",
+      "url": "https://example.com/web3/w012",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_binance",
+      "label": "Entity",
+      "name": "Binance",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Exchange",
+      "mentions": 1.0,
+      "community": 8.0
+    },
+    {
+      "id": "entity_coinbase",
+      "label": "Entity",
+      "name": "Coinbase",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Exchange",
+      "mentions": 2.0,
+      "community": 8.0
+    },
+    {
+      "id": "entity_sec",
+      "label": "Entity",
+      "name": "SEC",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Regulator",
+      "mentions": 1.0,
+      "community": 8.0
+    },
+    {
+      "id": "entity_the_sec",
+      "label": "Entity",
+      "name": "The SEC",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 8.0
+    },
+    {
+      "id": "entity_united_states",
+      "label": "Entity",
+      "name": "United States",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 8.0
+    },
+    {
+      "id": "post_w013",
+      "label": "Post",
+      "name": "Curve and Lido liquidity pools react to Ethereum staking demand",
+      "post_id": "w013",
+      "subreddit": "defi",
+      "score": 476.0,
+      "created_utc": "2026-05-13",
+      "url": "https://example.com/web3/w013",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_curve",
+      "label": "Entity",
+      "name": "Curve",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_lido",
+      "label": "Entity",
+      "name": "Lido",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_steth",
+      "label": "Entity",
+      "name": "stETH",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Token",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "post_w014",
+      "label": "Post",
+      "name": "Base developers launch consumer crypto apps",
+      "post_id": "w014",
+      "subreddit": "web3",
+      "score": 533.0,
+      "created_utc": "2026-05-14",
+      "url": "https://example.com/web3/w014",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_w015",
+      "label": "Post",
+      "name": "ZK projects push privacy and scaling roadmap",
+      "post_id": "w015",
+      "subreddit": "privacy",
+      "score": 447.0,
+      "created_utc": "2026-05-15",
+      "url": "https://example.com/web3/w015",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_aztec",
+      "label": "Entity",
+      "name": "Aztec",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Protocol",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_polygon_zkevm",
+      "label": "Entity",
+      "name": "Polygon zkEVM",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_starknet",
+      "label": "Entity",
+      "name": "Starknet",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_zksync",
+      "label": "Entity",
+      "name": "zkSync",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Layer2",
+      "mentions": 1.0,
+      "community": 3.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "post_w001",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w001",
+      "target": "entity_pectra",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_pectra",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_pectra",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_pectra",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w002",
+      "target": "entity_defi",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w002",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w002",
+      "target": "entity_uni",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w002",
+      "target": "entity_uniswap",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w002",
+      "target": "entity_uniswap_dao",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_uni",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_uniswap",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_uniswap_dao",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_uni",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_uniswap",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_uniswap_dao",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uni",
+      "target": "entity_uniswap",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uni",
+      "target": "entity_uniswap_dao",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uniswap",
+      "target": "entity_uniswap_dao",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_uni",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uniswap",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uniswap_dao",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uni",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uniswap",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_uniswap_dao",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w003",
+      "target": "entity_bitcoin",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w003",
+      "target": "entity_bitcoin_etf",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w003",
+      "target": "entity_blackrock",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w003",
+      "target": "entity_fidelity",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin",
+      "target": "entity_bitcoin_etf",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin",
+      "target": "entity_blackrock",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin",
+      "target": "entity_fidelity",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin_etf",
+      "target": "entity_blackrock",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin_etf",
+      "target": "entity_fidelity",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_blackrock",
+      "target": "entity_fidelity",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin_etf",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_blackrock",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_fidelity",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bitcoin_etf",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_blackrock",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_fidelity",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w004",
+      "target": "entity_depin",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w004",
+      "target": "entity_jupiter",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w004",
+      "target": "entity_solana",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_depin",
+      "target": "entity_jupiter",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_depin",
+      "target": "entity_solana",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_jupiter",
+      "target": "entity_solana",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_depin",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_jupiter",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_solana",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_arbitrum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_base",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_layer",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_layer_2",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_optimism",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w005",
+      "target": "entity_polygon",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_base",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_layer",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_layer_2",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_optimism",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_layer",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_layer_2",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_optimism",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_layer",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_layer_2",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_optimism",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_layer",
+      "target": "entity_layer_2",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer",
+      "target": "entity_optimism",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer_2",
+      "target": "entity_optimism",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer_2",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_optimism",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_layer",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer_2",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_optimism",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_arbitrum",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_layer",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_layer_2",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_optimism",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "post_w006",
+      "target": "entity_immutable",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w006",
+      "target": "entity_nft",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w006",
+      "target": "entity_polygon",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w006",
+      "target": "entity_ronin",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_immutable",
+      "target": "entity_nft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_immutable",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_immutable",
+      "target": "entity_ronin",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nft",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nft",
+      "target": "entity_ronin",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "entity_ronin",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_immutable",
+      "target": "topic_nft_and_gaming",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nft",
+      "target": "topic_nft_and_gaming",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "topic_nft_and_gaming",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ronin",
+      "target": "topic_nft_and_gaming",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w007",
+      "target": "entity_aave",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w007",
+      "target": "entity_chainlink",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w007",
+      "target": "entity_dai",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w007",
+      "target": "entity_usdc",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w007",
+      "target": "entity_usdt",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "entity_chainlink",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "entity_dai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "entity_usdc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "entity_usdt",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_dai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_usdc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_usdt",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "entity_usdc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "entity_usdt",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdc",
+      "target": "entity_usdt",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdc",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdt",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_usdc",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdt",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_usdc",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdt",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aave",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_usdc",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_usdt",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w008",
+      "target": "entity_dai",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w008",
+      "target": "entity_makerdao",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w008",
+      "target": "entity_the",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w008",
+      "target": "entity_us_treasury",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "entity_makerdao",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "entity_the",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_dai",
+      "target": "entity_us_treasury",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_makerdao",
+      "target": "entity_the",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_makerdao",
+      "target": "entity_us_treasury",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the",
+      "target": "entity_us_treasury",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_makerdao",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_us_treasury",
+      "target": "topic_governance",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_makerdao",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_us_treasury",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_makerdao",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_us_treasury",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_avalanche",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_ccip",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_chainlink",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_defi",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w009",
+      "target": "entity_polygon",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "entity_ccip",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "entity_chainlink",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "entity_defi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "entity_chainlink",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "entity_defi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_defi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avalanche",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ccip",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_chainlink",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "topic_cross_chain",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w010",
+      "target": "entity_ledger",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ledger",
+      "target": "topic_security",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_avs",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_actively_validated_services",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_eigenlayer",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_renzo",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w011",
+      "target": "entity_ether_fi",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "entity_avs",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "entity_eigenlayer",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "entity_ether_fi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "entity_renzo",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avs",
+      "target": "entity_eigenlayer",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avs",
+      "target": "entity_ether_fi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avs",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avs",
+      "target": "entity_renzo",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_eigenlayer",
+      "target": "entity_ether_fi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_eigenlayer",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_eigenlayer",
+      "target": "entity_renzo",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ether_fi",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ether_fi",
+      "target": "entity_renzo",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_renzo",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_avs",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_actively_validated_services",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_eigenlayer",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_renzo",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ether_fi",
+      "target": "topic_restaking",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w012",
+      "target": "entity_binance",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w012",
+      "target": "entity_coinbase",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w012",
+      "target": "entity_sec",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w012",
+      "target": "entity_the_sec",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w012",
+      "target": "entity_united_states",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "entity_coinbase",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "entity_sec",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "entity_the_sec",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "entity_sec",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "entity_the_sec",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_sec",
+      "target": "entity_the_sec",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_sec",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_sec",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_sec",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_sec",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_institutional_crypto",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_binance",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_sec",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_sec",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_stablecoins",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w013",
+      "target": "entity_curve",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w013",
+      "target": "entity_defi",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w013",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w013",
+      "target": "entity_lido",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w013",
+      "target": "entity_steth",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_curve",
+      "target": "entity_defi",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_curve",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_curve",
+      "target": "entity_lido",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_curve",
+      "target": "entity_steth",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_lido",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_defi",
+      "target": "entity_steth",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_lido",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_steth",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_lido",
+      "target": "entity_steth",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_curve",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_lido",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_steth",
+      "target": "topic_defi",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w014",
+      "target": "entity_base",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w014",
+      "target": "entity_coinbase",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_base",
+      "target": "entity_coinbase",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_coinbase",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_aztec",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_ethereum",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_polygon",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_polygon_zkevm",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_starknet",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_w015",
+      "target": "entity_zksync",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "entity_ethereum",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "entity_polygon",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "entity_polygon_zkevm",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "entity_starknet",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "entity_zksync",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_polygon_zkevm",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_starknet",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ethereum",
+      "target": "entity_zksync",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "entity_polygon_zkevm",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "entity_starknet",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon",
+      "target": "entity_zksync",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon_zkevm",
+      "target": "entity_starknet",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon_zkevm",
+      "target": "entity_zksync",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_starknet",
+      "target": "entity_zksync",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_aztec",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_polygon_zkevm",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_starknet",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_zksync",
+      "target": "topic_layer2_scaling",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    }
+  ]
+}

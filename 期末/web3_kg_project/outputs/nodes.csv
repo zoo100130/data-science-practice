@@ -1,0 +1,75 @@
+id,label,name,post_id,subreddit,score,created_utc,url,entity_type,mentions,community
+post_w001,Post,Ethereum developers prepare Pectra upgrade for validator and wallet improvements,w001,ethereum,812.0,2026-05-01,https://example.com/web3/w001,,,
+entity_ethereum,Entity,Ethereum,,,,,,Blockchain,7.0,0.0
+entity_pectra,Entity,Pectra,,,,,,Event,1.0,0.0
+topic_security,Topic,Security,,,,,,Topic,,
+topic_restaking,Topic,Restaking,,,,,,Topic,,
+post_w002,Post,Uniswap governance debates fee switch proposal,w002,defi,643.0,2026-05-02,https://example.com/web3/w002,,,
+entity_defi,Entity,DeFi,,,,,,Topic,3.0,0.0
+entity_uni,Entity,UNI,,,,,,Token,1.0,0.0
+entity_uniswap,Entity,Uniswap,,,,,,Protocol,1.0,0.0
+entity_uniswap_dao,Entity,Uniswap DAO,,,,,,DAO,1.0,0.0
+topic_defi,Topic,DeFi,,,,,,Topic,,
+topic_governance,Topic,Governance,,,,,,Topic,,
+post_w003,Post,Bitcoin ETF inflows rise as institutional demand returns,w003,cryptocurrency,932.0,2026-05-03,https://example.com/web3/w003,,,
+entity_bitcoin,Entity,Bitcoin,,,,,,Blockchain,1.0,1.0
+entity_bitcoin_etf,Entity,Bitcoin ETF,,,,,,Organization,1.0,1.0
+entity_blackrock,Entity,BlackRock,,,,,,Organization,1.0,1.0
+entity_fidelity,Entity,Fidelity,,,,,,Organization,1.0,1.0
+topic_institutional_crypto,Topic,Institutional Crypto,,,,,,Topic,,
+post_w004,Post,Solana ecosystem growth continues after new DePIN and memecoin activity,w004,solana,557.0,2026-05-04,https://example.com/web3/w004,,,
+entity_depin,Entity,DePIN,,,,,,Topic,1.0,2.0
+entity_jupiter,Entity,Jupiter,,,,,,Protocol,1.0,2.0
+entity_solana,Entity,Solana,,,,,,Blockchain,1.0,2.0
+post_w005,Post,Polygon and Arbitrum teams compare Layer 2 scaling roadmaps,w005,web3,488.0,2026-05-05,https://example.com/web3/w005,,,
+entity_arbitrum,Entity,Arbitrum,,,,,,Layer2,1.0,4.0
+entity_base,Entity,Base,,,,,,Layer2,2.0,4.0
+entity_layer,Entity,Layer,,,,,,Entity,1.0,4.0
+entity_layer_2,Entity,Layer 2,,,,,,Topic,1.0,4.0
+entity_optimism,Entity,Optimism,,,,,,Layer2,1.0,4.0
+entity_polygon,Entity,Polygon,,,,,,Layer2,4.0,4.0
+topic_layer2_scaling,Topic,Layer2 Scaling,,,,,,Topic,,
+topic_cross_chain,Topic,Cross-chain,,,,,,Topic,,
+post_w006,Post,NFT gaming projects experiment with on-chain assets,w006,nft,354.0,2026-05-06,https://example.com/web3/w006,,,
+entity_immutable,Entity,Immutable,,,,,,Protocol,1.0,4.0
+entity_nft,Entity,NFT,,,,,,Topic,1.0,4.0
+entity_ronin,Entity,Ronin,,,,,,Blockchain,1.0,4.0
+topic_nft_and_gaming,Topic,NFT and Gaming,,,,,,Topic,,
+post_w007,Post,Aave risk managers propose new stablecoin parameters,w007,defi,601.0,2026-05-07,https://example.com/web3/w007,,,
+entity_aave,Entity,Aave,,,,,,Protocol,1.0,5.0
+entity_chainlink,Entity,Chainlink,,,,,,Oracle,2.0,5.0
+entity_dai,Entity,DAI,,,,,,Stablecoin,2.0,5.0
+entity_usdc,Entity,USDC,,,,,,Stablecoin,1.0,5.0
+entity_usdt,Entity,USDT,,,,,,Stablecoin,1.0,5.0
+topic_stablecoins,Topic,Stablecoins,,,,,,Topic,,
+post_w008,Post,MakerDAO governance votes on real-world asset allocation,w008,dao,438.0,2026-05-08,https://example.com/web3/w008,,,
+entity_makerdao,Entity,MakerDAO,,,,,,DAO,1.0,5.0
+entity_the,Entity,The,,,,,,Entity,1.0,5.0
+entity_us_treasury,Entity,US Treasury,,,,,,Organization,1.0,5.0
+post_w009,Post,Chainlink expands cross-chain interoperability protocol,w009,web3,512.0,2026-05-09,https://example.com/web3/w009,,,
+entity_avalanche,Entity,Avalanche,,,,,,Blockchain,1.0,0.0
+entity_ccip,Entity,CCIP,,,,,,Protocol,1.0,0.0
+post_w010,Post,Ledger phishing campaign targets wallet users,w010,security,729.0,2026-05-10,https://example.com/web3/w010,,,
+entity_ledger,Entity,Ledger,,,,,,Wallet,1.0,6.0
+post_w011,Post,EigenLayer restaking protocols attract new AVS projects,w011,ethereum,686.0,2026-05-11,https://example.com/web3/w011,,,
+entity_avs,Entity,AVS,,,,,,Entity,1.0,7.0
+entity_actively_validated_services,Entity,Actively Validated Services,,,,,,Concept,1.0,7.0
+entity_eigenlayer,Entity,EigenLayer,,,,,,Protocol,1.0,7.0
+entity_renzo,Entity,Renzo,,,,,,Protocol,1.0,7.0
+entity_ether_fi,Entity,ether.fi,,,,,,Protocol,1.0,7.0
+post_w012,Post,SEC reviews new crypto market structure proposals,w012,cryptocurrency,775.0,2026-05-12,https://example.com/web3/w012,,,
+entity_binance,Entity,Binance,,,,,,Exchange,1.0,8.0
+entity_coinbase,Entity,Coinbase,,,,,,Exchange,2.0,8.0
+entity_sec,Entity,SEC,,,,,,Regulator,1.0,8.0
+entity_the_sec,Entity,The SEC,,,,,,Organization,1.0,8.0
+entity_united_states,Entity,United States,,,,,,Location,1.0,8.0
+post_w013,Post,Curve and Lido liquidity pools react to Ethereum staking demand,w013,defi,476.0,2026-05-13,https://example.com/web3/w013,,,
+entity_curve,Entity,Curve,,,,,,Protocol,1.0,0.0
+entity_lido,Entity,Lido,,,,,,Protocol,1.0,0.0
+entity_steth,Entity,stETH,,,,,,Token,1.0,0.0
+post_w014,Post,Base developers launch consumer crypto apps,w014,web3,533.0,2026-05-14,https://example.com/web3/w014,,,
+post_w015,Post,ZK projects push privacy and scaling roadmap,w015,privacy,447.0,2026-05-15,https://example.com/web3/w015,,,
+entity_aztec,Entity,Aztec,,,,,,Protocol,1.0,3.0
+entity_polygon_zkevm,Entity,Polygon zkEVM,,,,,,Layer2,1.0,3.0
+entity_starknet,Entity,Starknet,,,,,,Layer2,1.0,3.0
+entity_zksync,Entity,zkSync,,,,,,Layer2,1.0,3.0
