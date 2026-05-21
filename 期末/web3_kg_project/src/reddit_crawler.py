@@ -391,7 +391,7 @@ def main() -> None:
     )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(args.output, index=False, encoding="utf-8-sig")
-    print(f"Saved {len(df)} posts to {args.output}")
+    print(f"Saved {len(df)} rows to {args.output}")
 
 
 if __name__ == "__main__":

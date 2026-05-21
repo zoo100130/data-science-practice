@@ -28,7 +28,7 @@ http://localhost:8080/outputs/interactive_graph.html
 ## Crawl Live Reddit Web3 Posts
 
 ```powershell
-python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 15 --output .\data\reddit_web3_posts.csv
+python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 10 --comments-per-post 3 --comment-depth 2 --output .\data\reddit_web3_posts.csv
 python .\src\pipeline.py --input .\data\reddit_web3_posts.csv --output .\outputs\reddit_live
 python -m http.server 8080
 ```
@@ -45,6 +45,9 @@ Crawler tutorial notebook:
 docs/Reddit_Web3_Crawler_Tutorial.ipynb
 ```
 
+The crawler exports both post and comment rows when `--comments-per-post` is greater
+than `0`. The `content_type` column shows whether each row is a `post` or `comment`.
+
 ## Outputs
 
 - `outputs/nodes.csv`
@@ -60,6 +63,8 @@ docs/Reddit_Web3_Crawler_Tutorial.ipynb
 Your CSV should contain:
 
 - `post_id`
+- `content_type` (optional; `post` or `comment`)
+- `parent_post_id` (optional; used for comments)
 - `subreddit`
 - `title`
 - `selftext`

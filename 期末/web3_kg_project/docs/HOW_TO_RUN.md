@@ -173,10 +173,16 @@ python .\src\pipeline.py --input .\data\your_web3_posts.csv --output .\outputs
 
 本專案已提供不需要 API key 的 Reddit crawler，會使用 Reddit 公開 JSON endpoint。
 
-執行：
+如果只想抓貼文，執行：
 
 ```powershell
 python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 15 --output .\data\reddit_web3_posts.csv
+```
+
+如果想同時抓貼文與留言，執行：
+
+```powershell
+python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 10 --comments-per-post 3 --comment-depth 2 --output .\data\reddit_web3_posts.csv
 ```
 
 爬完後，用真實 Reddit 資料建立圖譜：
@@ -196,6 +202,14 @@ http://localhost:8080/outputs/reddit_live/interactive_graph.html
 ```text
 docs/Reddit_Web3_Crawler_Tutorial.ipynb
 ```
+
+爬蟲輸出的 CSV 會包含 `content_type` 欄位：
+- `post` 代表 Reddit 貼文。
+- `comment` 代表該貼文底下的留言。
+
+留言列會保留 `parent_post_id`，方便知道它來自哪一篇貼文。Pipeline 會自動把
+`post` 轉成 Post 節點，把 `comment` 轉成 Comment 節點，兩者都會參與 Web3
+entity 與 topic 分析。
 
 ## 11. 常見問題
 
@@ -240,7 +254,7 @@ post_id, subreddit, title, selftext, created_utc, score, url
 請降低請求量，或增加等待時間：
 
 ```powershell
-python .\src\reddit_crawler.py --sleep-seconds 3 --posts-per-subreddit 8
+python .\src\reddit_crawler.py --sleep-seconds 3 --posts-per-subreddit 8 --comments-per-post 1
 ```
 
 ## 12. 展示建議

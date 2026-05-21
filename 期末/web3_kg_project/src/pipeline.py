@@ -118,6 +118,8 @@ ENTITY_STOPWORDS = {
     "Please",
     "Post",
     "Question",
+    "Reddit",
+    "Removed",
     "Should",
     "So",
     "Some",
@@ -246,6 +248,8 @@ def load_posts(input_path: Path) -> pd.DataFrame:
     df["title"] = df["title"].fillna("")
     df["selftext"] = df["selftext"].fillna("")
     df["raw_text"] = df["title"] + " " + df["selftext"]
+    comment_mask = df["content_type"].astype(str).str.lower().eq("comment")
+    df.loc[comment_mask, "raw_text"] = df.loc[comment_mask, "selftext"]
     df["clean_text"] = df["raw_text"].map(normalize_text)
     return df
 
