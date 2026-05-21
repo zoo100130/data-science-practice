@@ -14,7 +14,7 @@ It builds a news-oriented knowledge graph from Reddit-like posts:
 ## Quick Start
 
 ```powershell
-cd "C:\Users\haushuk\Desktop\資料科學實務\期末\news_kg_project"
+cd ".\news_kg_project"
 python .\src\pipeline.py
 ```
 
