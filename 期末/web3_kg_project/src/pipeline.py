@@ -237,6 +237,12 @@ def load_posts(input_path: Path) -> pd.DataFrame:
         raise ValueError(f"Input CSV is missing required columns: {missing}")
 
     df = df.copy()
+    if "content_type" not in df.columns:
+        df["content_type"] = "post"
+    if "parent_post_id" not in df.columns:
+        df["parent_post_id"] = ""
+    if "comment_id" not in df.columns:
+        df["comment_id"] = ""
     df["title"] = df["title"].fillna("")
     df["selftext"] = df["selftext"].fillna("")
     df["raw_text"] = df["title"] + " " + df["selftext"]
@@ -328,12 +334,17 @@ def build_graph_tables(posts: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame,
         current.update(attrs)
 
     for _, post in posts.iterrows():
-        post_id = f"post_{post.post_id}"
+        content_type = str(getattr(post, "content_type", "post") or "post").lower()
+        source_label = "Comment" if content_type == "comment" else "Post"
+        source_prefix = "comment" if source_label == "Comment" else "post"
+        post_id = f"{source_prefix}_{post.post_id}"
         add_node(
             post_id,
-            "Post",
+            source_label,
             name=post.title,
             post_id=post.post_id,
+            parent_post_id=getattr(post, "parent_post_id", ""),
+            content_type=content_type,
             subreddit=post.subreddit,
             score=int(post.score),
             created_utc=str(post.created_utc),
