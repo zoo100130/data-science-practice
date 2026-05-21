@@ -1,672 +1,540 @@
 id,label,name,post_id,subreddit,score,created_utc,url,entity_type,mentions,community
-post_1thyyy0,Post,White House: Bitcoin Reserve Announcement Is Imminent,1thyyy0,CryptoCurrency,469.0,2026-05-19,https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve,,,
-entity_bitcoin,Entity,Bitcoin,,,,,,Blockchain,4.0,17.0
-entity_bitcoin_reserve_announcement_is_imminent,Entity,Bitcoin Reserve Announcement Is Imminent,,,,,,Organization,1.0,17.0
-entity_white_house,Entity,White House,,,,,,Organization,1.0,17.0
+post_1thyyy0,Post,White House: Bitcoin Reserve Announcement Is Imminent,1thyyy0,CryptoCurrency,462.0,2026-05-19,https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve,,,
+entity_bitcoin,Entity,Bitcoin,,,,,,Blockchain,4.0,0.0
+entity_bitcoin_reserve_announcement_is_imminent,Entity,Bitcoin Reserve Announcement Is Imminent,,,,,,Organization,1.0,0.0
+entity_white_house,Entity,White House,,,,,,Organization,1.0,0.0
 topic_web3_general,Topic,Web3 General,,,,,,Topic,,
-post_1thxboy,Post,Is there still a realistic 10x case for Bitcoin?,1thxboy,CryptoCurrency,229.0,2026-05-19,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,,,
-entity_btc,Entity,BTC,,,,,,Entity,6.0,17.0
-entity_edit,Entity,Edit,,,,,,Entity,1.0,17.0
-entity_edit2,Entity,Edit2,,,,,,Entity,1.0,17.0
-entity_funny,Entity,Funny,,,,,,Entity,1.0,17.0
-entity_other,Entity,Other,,,,,,Entity,1.0,17.0
-entity_sometimes,Entity,Sometimes,,,,,,Entity,1.0,17.0
-entity_thanks,Entity,Thanks,,,,,,Entity,1.0,17.0
-entity_there,Entity,There,,,,,,Entity,3.0,17.0
-entity_these,Entity,These,,,,,,Entity,1.0,17.0
-entity_unfortunately,Entity,Unfortunately,,,,,,Entity,1.0,17.0
+post_1thxboy,Post,Is there still a realistic 10x case for Bitcoin?,1thxboy,CryptoCurrency,230.0,2026-05-19,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,,,
+entity_btc,Entity,BTC,,,,,,Entity,6.0,0.0
+entity_edit,Entity,EDIT,,,,,,Entity,1.0,0.0
+entity_edit2,Entity,Edit2,,,,,,Entity,1.0,0.0
+entity_funny,Entity,Funny,,,,,,Entity,1.0,0.0
+entity_other,Entity,Other,,,,,,Entity,1.0,0.0
+entity_sometimes,Entity,Sometimes,,,,,,Entity,1.0,0.0
+entity_there,Entity,There,,,,,,Entity,3.0,0.0
+entity_these,Entity,These,,,,,,Entity,1.0,0.0
+entity_unfortunately,Entity,Unfortunately,,,,,,Entity,1.0,0.0
 topic_security,Topic,Security,,,,,,Topic,,
-post_1tin0p7,Post,Trump just issued an executive order allowing Digital Asset integration to TradFi,1tin0p7,CryptoCurrency,203.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,,,
-entity_combine,Entity,Combine,,,,,,Entity,1.0,17.0
-entity_digital_asset,Entity,Digital Asset,,,,,,Organization,1.0,17.0
-entity_eth,Entity,ETH,,,,,,Entity,3.0,17.0
-entity_tradfi,Entity,TradFi,,,,,,Entity,1.0,17.0
-entity_trump,Entity,Trump,,,,,,Entity,2.0,17.0
-entity_usdt,Entity,USDT,,,,,,Stablecoin,2.0,14.0
-entity_zec,Entity,ZEC,,,,,,Entity,1.0,17.0
+post_1tin0p7,Post,Trump just issued an executive order allowing Digital Asset integration to TradFi,1tin0p7,CryptoCurrency,206.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,,,
+entity_combine,Entity,Combine,,,,,,Entity,1.0,9.0
+entity_digital_asset,Entity,Digital Asset,,,,,,Organization,1.0,9.0
+entity_eth,Entity,ETH,,,,,,Entity,6.0,14.0
+entity_tradfi,Entity,TradFi,,,,,,Entity,1.0,9.0
+entity_trump,Entity,Trump,,,,,,Entity,2.0,9.0
+entity_usdt,Entity,USDT,,,,,,Stablecoin,2.0,9.0
+entity_zec,Entity,ZEC,,,,,,Entity,2.0,9.0
 topic_nft_and_gaming,Topic,NFT and Gaming,,,,,,Topic,,
 topic_stablecoins,Topic,Stablecoins,,,,,,Topic,,
-post_1tj2hrd,Post,The Binance Android app is a Chinese surveillance suite with a trading interface bolted on top,1tj2hrd,CryptoCurrency,67.0,2026-05-20,https://i.redd.it/awh6guzokd2h1.jpeg,,,
-entity_apks,Entity,APKs,,,,,,Entity,1.0,18.0
-entity_ad_tech_sdks,Entity,Ad-tech SDKs,,,,,,Organization,1.0,18.0
-entity_adjust,Entity,Adjust,,,,,,Entity,1.0,18.0
-entity_android,Entity,Android,,,,,,Entity,1.0,18.0
-entity_androidmanifest,Entity,AndroidManifest,,,,,,Entity,1.0,18.0
-entity_appxpose,Entity,AppXpose,,,,,,Entity,1.0,18.0
-entity_appsflyer,Entity,AppsFlyer,,,,,,Entity,1.0,18.0
-entity_binance,Entity,Binance,,,,,,Exchange,1.0,18.0
-entity_binance_android_apk,Entity,Binance Android APK,,,,,,Organization,1.0,18.0
-entity_branch,Entity,Branch,,,,,,Entity,1.0,18.0
-entity_bytedance,Entity,ByteDance,,,,,,Entity,1.0,18.0
-entity_bytedance_applog,Entity,ByteDance Applog,,,,,,Organization,1.0,18.0
-entity_checked,Entity,Checked,,,,,,Entity,1.0,18.0
-entity_chinese,Entity,Chinese,,,,,,Entity,1.0,18.0
-entity_embedding,Entity,Embedding,,,,,,Entity,1.0,18.0
-entity_exodus_privacy,Entity,Exodus Privacy,,,,,,Organization,1.0,18.0
-entity_kyc,Entity,KYC,,,,,,Entity,1.0,18.0
-entity_netguard,Entity,NetGuard,,,,,,Entity,1.0,18.0
-entity_on_android,Entity,On Android,,,,,,Organization,1.0,18.0
-entity_pcapdroid,Entity,PCAPdroid,,,,,,Entity,1.0,18.0
-entity_pixel,Entity,Pixel,,,,,,Entity,1.0,18.0
-entity_pulled,Entity,Pulled,,,,,,Entity,1.0,18.0
-entity_sdks,Entity,SDKs,,,,,,Entity,1.0,18.0
-entity_sensors_data,Entity,Sensors Data,,,,,,Organization,1.0,18.0
-entity_tencent,Entity,Tencent,,,,,,Entity,1.0,18.0
-entity_tencent_beacon,Entity,Tencent Beacon,,,,,,Organization,1.0,18.0
-entity_the_binance_android,Entity,The Binance Android,,,,,,Organization,1.0,18.0
-entity_they,Entity,They,,,,,,Entity,4.0,18.0
-entity_tiktok,Entity,TikTok,,,,,,Entity,2.0,13.0
-entity_was,Entity,Was,,,,,,Entity,1.0,18.0
-entity_wechat,Entity,WeChat,,,,,,Entity,1.0,18.0
-post_1ti9jxr,Post,South Korean Funeral Company Faces $33M Unrealized Loss on Leveraged Ether ETFs,1ti9jxr,CryptoCurrency,52.0,2026-05-20,https://cointelegraph.com/news/south-korean-funeral-company-customer-funds-eth-etfs-unrealized-loss,,,
-entity_leveraged_ether_etfs,Entity,Leveraged Ether ETFs,,,,,,Organization,1.0,0.0
-entity_south_korean_funeral_company_faces,Entity,South Korean Funeral Company Faces,,,,,,Organization,1.0,0.0
-entity_unrealized_loss,Entity,Unrealized Loss,,,,,,Organization,1.0,0.0
-post_1tiobrs,Post,"Trump orders government, Fed to review crypto firms' access to payment rails",1tiobrs,CryptoCurrency,28.0,2026-05-20,https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails,,,
-entity_fed,Entity,Fed,,,,,,Entity,1.0,17.0
-post_1tixv96,Post,South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF,1tixv96,CryptoCurrency,14.0,2026-05-20,https://beincrypto.com/south-korea-funeral-firm-bitmine-etf-loss/,,,
-entity_bitmine_ethereum_etf,Entity,BitMine Ethereum ETF,,,,,,Organization,1.0,7.0
-entity_ethereum,Entity,Ethereum,,,,,,Blockchain,10.0,7.0
-entity_million,Entity,Million,,,,,,Entity,1.0,7.0
-entity_south_korean_funeral_firm_loses,Entity,South Korean Funeral Firm Loses,,,,,,Organization,1.0,7.0
+post_1thuecg,Post,"Metamask swap is a scam, be careful.",1thuecg,CryptoCurrency,124.0,2026-05-19,https://www.reddit.com/r/CryptoCurrency/comments/1thuecg/metamask_swap_is_a_scam_be_careful/,,,
+entity_however,Entity,However,,,,,,Entity,1.0,9.0
+entity_instead,Entity,Instead,,,,,,Entity,2.0,10.0
+entity_metamask,Entity,Metamask,,,,,,Entity,1.0,9.0
+entity_providing,Entity,Providing,,,,,,Entity,1.0,9.0
+entity_stay,Entity,Stay,,,,,,Entity,1.0,9.0
+topic_defi,Topic,DeFi,,,,,,Topic,,
+post_1tj2hrd,Post,The Binance Android app is a Chinese surveillance suite with a trading interface bolted on top,1tj2hrd,CryptoCurrency,69.0,2026-05-20,https://i.redd.it/awh6guzokd2h1.jpeg,,,
+entity_apks,Entity,APKs,,,,,,Entity,1.0,1.0
+entity_ad_tech_sdks,Entity,Ad-tech SDKs,,,,,,Organization,1.0,1.0
+entity_adjust,Entity,Adjust,,,,,,Entity,1.0,1.0
+entity_android,Entity,Android,,,,,,Entity,1.0,1.0
+entity_androidmanifest,Entity,AndroidManifest,,,,,,Entity,1.0,1.0
+entity_appxpose,Entity,AppXpose,,,,,,Entity,1.0,1.0
+entity_appsflyer,Entity,AppsFlyer,,,,,,Entity,1.0,1.0
+entity_binance,Entity,Binance,,,,,,Exchange,1.0,1.0
+entity_binance_android_apk,Entity,Binance Android APK,,,,,,Organization,1.0,1.0
+entity_branch,Entity,Branch,,,,,,Entity,1.0,1.0
+entity_bytedance,Entity,ByteDance,,,,,,Entity,1.0,1.0
+entity_bytedance_applog,Entity,ByteDance Applog,,,,,,Organization,1.0,1.0
+entity_checked,Entity,Checked,,,,,,Entity,1.0,1.0
+entity_chinese,Entity,Chinese,,,,,,Entity,1.0,1.0
+entity_embedding,Entity,Embedding,,,,,,Entity,1.0,1.0
+entity_exodus_privacy,Entity,Exodus Privacy,,,,,,Organization,1.0,1.0
+entity_kyc,Entity,KYC,,,,,,Entity,2.0,1.0
+entity_netguard,Entity,NetGuard,,,,,,Entity,1.0,1.0
+entity_on_android,Entity,On Android,,,,,,Organization,1.0,1.0
+entity_pcapdroid,Entity,PCAPdroid,,,,,,Entity,1.0,1.0
+entity_pixel,Entity,Pixel,,,,,,Entity,1.0,1.0
+entity_pulled,Entity,Pulled,,,,,,Entity,1.0,1.0
+entity_sdks,Entity,SDKs,,,,,,Entity,1.0,1.0
+entity_sensors_data,Entity,Sensors Data,,,,,,Organization,1.0,1.0
+entity_tencent,Entity,Tencent,,,,,,Entity,1.0,1.0
+entity_tencent_beacon,Entity,Tencent Beacon,,,,,,Organization,1.0,1.0
+entity_the_binance_android,Entity,The Binance Android,,,,,,Organization,1.0,1.0
+entity_tiktok,Entity,TikTok,,,,,,Entity,1.0,1.0
+entity_was,Entity,Was,,,,,,Entity,1.0,1.0
+entity_wechat,Entity,WeChat,,,,,,Entity,1.0,1.0
+post_1ti9jxr,Post,South Korean Funeral Company Faces $33M Unrealized Loss on Leveraged Ether ETFs,1ti9jxr,CryptoCurrency,53.0,2026-05-20,https://cointelegraph.com/news/south-korean-funeral-company-customer-funds-eth-etfs-unrealized-loss,,,
+entity_leveraged_ether_etfs,Entity,Leveraged Ether ETFs,,,,,,Organization,1.0,2.0
+entity_south_korean_funeral_company_faces,Entity,South Korean Funeral Company Faces,,,,,,Organization,1.0,2.0
+entity_unrealized_loss,Entity,Unrealized Loss,,,,,,Organization,1.0,2.0
+post_1tiobrs,Post,"Trump orders government, Fed to review crypto firms' access to payment rails",1tiobrs,CryptoCurrency,30.0,2026-05-20,https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails,,,
+entity_fed,Entity,Fed,,,,,,Entity,1.0,9.0
+post_1ticclj,Post,Has Crypto Changed Your Mindset Too?,1ticclj,CryptoCurrency,14.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1ticclj/has_crypto_changed_your_mindset_too/,,,
+entity_everyone,Entity,Everyone,,,,,,Entity,2.0,0.0
+entity_has_crypto_changed_your_mindset_too,Entity,Has Crypto Changed Your Mindset Too,,,,,,Organization,1.0,0.0
+post_1tixv96,Post,South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF,1tixv96,CryptoCurrency,13.0,2026-05-20,https://beincrypto.com/south-korea-funeral-firm-bitmine-etf-loss/,,,
+entity_bitmine_ethereum_etf,Entity,BitMine Ethereum ETF,,,,,,Organization,1.0,14.0
+entity_ethereum,Entity,Ethereum,,,,,,Blockchain,7.0,14.0
+entity_million,Entity,Million,,,,,,Entity,1.0,14.0
+entity_south_korean_funeral_firm_loses,Entity,South Korean Funeral Firm Loses,,,,,,Organization,1.0,14.0
 topic_institutional_crypto,Topic,Institutional Crypto,,,,,,Topic,,
 post_1tierht,Post,GitHub Internal Repositories Breached via VS Code Extension,1tierht,CryptoCurrency,12.0,2026-05-20,https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories,,,
-entity_github_internal_repositories_breached,Entity,GitHub Internal Repositories Breached,,,,,,Organization,1.0,1.0
-entity_vs_code_extension,Entity,VS Code Extension,,,,,,Organization,1.0,1.0
+entity_github_internal_repositories_breached,Entity,GitHub Internal Repositories Breached,,,,,,Organization,1.0,3.0
+entity_vs_code_extension,Entity,VS Code Extension,,,,,,Organization,1.0,3.0
+post_1tij7i1,Post,Aave: Why does the USDC yield spike daily on a specific time?,1tij7i1,CryptoCurrency,9.0,2026-05-20,https://www.reddit.com/gallery/1tij7i1,,,
+entity_apr,Entity,APR,,,,,,Entity,1.0,26.0
+entity_aave,Entity,Aave,,,,,,Protocol,5.0,12.0
+entity_see,Entity,See,,,,,,Entity,1.0,26.0
+entity_usdc,Entity,USDC,,,,,,Stablecoin,6.0,26.0
 post_1tiore1,Post,Why do emission-based DeFi yields always seem to collapse eventually? Is there a model that actually sustains?,1tiore1,CryptoCurrency,8.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tiore1/why_do_emissionbased_defi_yields_always_seem_to/,,,
-entity_defi,Entity,DeFi,,,,,,Topic,9.0,17.0
-entity_every,Entity,Every,,,,,,Entity,2.0,14.0
-entity_seasons,Entity,Seasons,,,,,,Entity,1.0,14.0
-entity_solana,Entity,Solana,,,,,,Blockchain,13.0,14.0
-entity_the_apy,Entity,The APY,,,,,,Organization,1.0,14.0
-topic_defi,Topic,DeFi,,,,,,Topic,,
+entity_defi,Entity,DeFi,,,,,,Topic,10.0,12.0
+entity_every,Entity,Every,,,,,,Entity,2.0,21.0
+entity_seasons,Entity,Seasons,,,,,,Entity,1.0,21.0
+entity_solana,Entity,Solana,,,,,,Blockchain,15.0,21.0
+entity_the_apy,Entity,The APY,,,,,,Organization,1.0,21.0
 topic_layer2_scaling,Topic,Layer2 Scaling,,,,,,Topic,,
-post_1tij7i1,Post,Aave: Why does the USDC yield spike daily on a specific time?,1tij7i1,CryptoCurrency,7.0,2026-05-20,https://www.reddit.com/gallery/1tij7i1,,,
-entity_apr,Entity,APR,,,,,,Entity,1.0,17.0
-entity_aave,Entity,Aave,,,,,,Protocol,4.0,17.0
-entity_see,Entity,See,,,,,,Entity,1.0,17.0
-entity_usdc,Entity,USDC,,,,,,Stablecoin,6.0,14.0
-post_1tiwfq6,Post,What’s the best outcome for bitcoin in the quantum future?,1tiwfq6,CryptoCurrency,6.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,,,
-entity_active,Entity,Active,,,,,,Entity,1.0,17.0
-entity_hard,Entity,Hard,,,,,,Entity,1.0,17.0
-entity_then,Entity,Then,,,,,,Entity,1.0,17.0
-post_1tj24gf,Post,"Daily Crypto Discussion - May 20, 2026 (GMT+0)",1tj24gf,CryptoCurrency,5.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tj24gf/daily_crypto_discussion_may_20_2026_gmt0/,,,
-entity_any,Entity,Any,,,,,,Entity,1.0,2.0
-entity_beware,Entity,Beware,,,,,,Entity,1.0,2.0
-entity_beginner_resources,Entity,Beginner Resources,,,,,,Organization,1.0,2.0
-entity_behave,Entity,Behave,,,,,,Entity,1.0,2.0
-entity_comments,Entity,Comments,,,,,,Entity,1.0,2.0
-entity_consider,Entity,Consider,,,,,,Entity,1.0,2.0
-entity_crypto,Entity,Crypto,,,,,,Entity,2.0,2.0
-entity_cryptocurrency,Entity,Cryptocurrency,,,,,,Entity,1.0,2.0
-entity_cryptocurrencymemes,Entity,CryptoCurrencyMemes,,,,,,Entity,1.0,2.0
-entity_cryptocurrencymeta,Entity,CryptoCurrencyMeta,,,,,,Entity,1.0,2.0
-entity_cryptodaily,Entity,CryptoDaily,,,,,,Entity,1.0,2.0
-entity_cryptonewsupdates,Entity,CryptoNewsUpdates,,,,,,Entity,1.0,2.0
-entity_cryptooptimists,Entity,CryptoOptimists,,,,,,Entity,1.0,2.0
-entity_cryptoskeptics,Entity,CryptoSkeptics,,,,,,Entity,1.0,2.0
-entity_daily_crypto_discussion,Entity,Daily Crypto Discussion,,,,,,Organization,1.0,2.0
-entity_disclaimer,Entity,Disclaimer,,,,,,Entity,2.0,13.0
-entity_discord,Entity,Discord,,,,,,Entity,7.0,7.0
-entity_finding_other_discussion_threads_follow,Entity,"Finding Other Discussion Threads
-
-Follow",,,,,,Organization,1.0,2.0
-entity_gmt,Entity,GMT,,,,,,Entity,1.0,2.0
-entity_intro,Entity,Intro,,,,,,Entity,1.0,2.0
-entity_join,Entity,Join,,,,,,Entity,1.0,2.0
-entity_link,Entity,Link,,,,,,Entity,1.0,2.0
-entity_moons,Entity,MOONs,,,,,,Entity,1.0,2.0
-entity_moons_wiki_page,Entity,MOONs Wiki Page,,,,,,Organization,1.0,2.0
-entity_monthly_news_summary,Entity,Monthly News Summary,,,,,,Organization,1.0,2.0
-entity_monthly_optimists_discussion,Entity,Monthly Optimists Discussion,,,,,,Organization,1.0,2.0
-entity_monthly_skeptics_discussion,Entity,Monthly Skeptics Discussion,,,,,,Organization,1.0,2.0
-entity_pnd,Entity,PnD,,,,,,Entity,1.0,2.0
-entity_posts,Entity,Posts,,,,,,Entity,1.0,2.0
-entity_prior_daily_discussions,Entity,Prior Daily Discussions,,,,,,Organization,1.0,2.0
-entity_rules,Entity,Rules,,,,,,Entity,1.0,2.0
-entity_sms,Entity,SMS,,,,,,Entity,1.0,2.0
-entity_use,Entity,Use,,,,,,Entity,1.0,2.0
-entity_useful_links,Entity,Useful Links,,,,,,Organization,1.0,2.0
-entity_zuu9gqeqmy,Entity,ZuU9Gqeqmy,,,,,,Entity,1.0,2.0
-topic_governance,Topic,Governance,,,,,,Topic,,
-post_1t7exp6,Post,Should NFT Projects Own Their Own Marketplace?,1t7exp6,NFT,1.0,2026-05-08,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,,,
-entity_erc_1155,Entity,ERC-1155,,,,,,Entity,1.0,5.0
-entity_erc_721,Entity,ERC-721,,,,,,Entity,1.0,5.0
-entity_nft,Entity,NFT,,,,,,Topic,9.0,5.0
-entity_should_nft_projects_own_their_own_marketplace,Entity,Should NFT Projects Own Their Own Marketplace,,,,,,Organization,1.0,5.0
-entity_wordpress_based,Entity,WordPress-based,,,,,,Entity,1.0,5.0
+post_1tiwfq6,Post,What’s the best outcome for bitcoin in the quantum future?,1tiwfq6,CryptoCurrency,5.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,,,
+entity_active,Entity,Active,,,,,,Entity,1.0,14.0
+entity_hard,Entity,Hard,,,,,,Entity,1.0,14.0
+entity_then,Entity,Then,,,,,,Entity,2.0,14.0
+post_1tiigu5,Post,RWA Market Cap Nears October 2025 Levels Again,1tiigu5,CryptoCurrency,5.0,2026-05-20,https://i.redd.it/gsydz3sez92h1.png,,,
+entity_levels_again,Entity,Levels Again,,,,,,Organization,1.0,4.0
+entity_rwa_market_cap_nears_october,Entity,RWA Market Cap Nears October,,,,,,Organization,1.0,4.0
+post_1tj35cx,Post,Una persona que conozco quiere que abra una cuenta electrónica tipo tarjeta visa. Dice que es para cosas de criptos. ¿que no me pasaría nada a mi cuenta bancaria y tarjeta física del banco?.,1tj35cx,CryptoCurrency,0.0,2026-05-20,https://www.reddit.com/r/CryptoCurrency/comments/1tj35cx/una_persona_que_conozco_quiere_que_abra_una/,,,
+entity_dice,Entity,Dice,,,,,,Entity,1.0,5.0
+entity_una,Entity,Una,,,,,,Entity,1.0,5.0
+post_1t7exp6,Post,Should NFT Projects Own Their Own Marketplace?,1t7exp6,NFT,2.0,2026-05-08,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,,,
+entity_erc_1155,Entity,ERC-1155,,,,,,Entity,1.0,7.0
+entity_erc_721,Entity,ERC-721,,,,,,Entity,1.0,7.0
+entity_nft,Entity,NFT,,,,,,Topic,14.0,7.0
+entity_should_nft_projects_own_their_own_marketplace,Entity,Should NFT Projects Own Their Own Marketplace,,,,,,Organization,1.0,7.0
+entity_wordpress_based,Entity,WordPress-based,,,,,,Entity,1.0,7.0
+post_1t25fvx,Post,Green Lion — Power in Perspective,1t25fvx,NFT,1.0,2026-05-02,https://i.redd.it/beyon68m7tyg1.jpeg,,,
+entity_built,Entity,Built,,,,,,Entity,2.0,12.0
+entity_green_lion,Entity,Green Lion,,,,,,Organization,1.0,7.0
+entity_let,Entity,Let,,,,,,Entity,1.0,7.0
+entity_opensea,Entity,OpenSea,,,,,,Entity,3.0,7.0
+entity_perspective,Entity,Perspective,,,,,,Entity,1.0,7.0
+entity_power,Entity,Power,,,,,,Entity,1.0,7.0
 post_1tgzlnx,Post,Is this site legit?,1tgzlnx,NFT,0.0,2026-05-18,https://www.reddit.com/r/NFT/comments/1tgzlnx/is_this_site_legit/,,,
-entity_apparently,Entity,Apparently,,,,,,Entity,1.0,5.0
+entity_apparently,Entity,Apparently,,,,,,Entity,1.0,7.0
 post_1tejdao,Post,Why NFT is not used for events tickets?,1tejdao,NFT,0.0,2026-05-16,https://www.reddit.com/r/NFT/comments/1tejdao/why_nft_is_not_used_for_events_tickets/,,,
-entity_why_nft,Entity,Why NFT,,,,,,Organization,1.0,5.0
+entity_why_nft,Entity,Why NFT,,,,,,Organization,1.0,7.0
 post_1tdb3jo,Post,Still working,1tdb3jo,NFT,0.0,2026-05-14,https://www.reddit.com/r/NFT/comments/1tdb3jo/still_working/,,,
-entity_did_nft,Entity,Did NFt,,,,,,Organization,1.0,5.0
-entity_still,Entity,Still,,,,,,Entity,2.0,5.0
+entity_did_nft,Entity,Did NFt,,,,,,Organization,1.0,21.0
+entity_still,Entity,Still,,,,,,Entity,2.0,21.0
 post_1tc603b,Post,Physical conceptual art tokenized. The object exists. The NFT is the certificate.,1tc603b,NFT,0.0,2026-05-13,https://i.redd.it/ofw1y0eusx0h1.jpeg,,,
-entity_each,Entity,Each,,,,,,Entity,1.0,5.0
-entity_physical,Entity,Physical,,,,,,Entity,1.0,5.0
-entity_the_nft,Entity,The NFT,,,,,,Organization,1.0,5.0
+entity_each,Entity,Each,,,,,,Entity,1.0,7.0
+entity_physical,Entity,Physical,,,,,,Entity,1.0,7.0
+entity_the_nft,Entity,The NFT,,,,,,Organization,1.0,7.0
 post_1tbuia9,Post,Do players actually WANT automation in NFT games?,1tbuia9,NFT,0.0,2026-05-13,https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/,,,
-entity_did,Entity,Did,,,,,,Entity,2.0,17.0
-entity_nfts,Entity,NFTs,,,,,,Entity,4.0,5.0
-entity_want,Entity,WANT,,,,,,Entity,1.0,5.0
+entity_did,Entity,Did,,,,,,Entity,2.0,12.0
+entity_nfts,Entity,NFTs,,,,,,Entity,4.0,7.0
+entity_want,Entity,WANT,,,,,,Entity,1.0,7.0
 post_1tbw9yn,Post,ELON - SMOKING ON MARS,1tbw9yn,NFT,0.0,2026-05-13,https://i.redd.it/emugghdlzv0h1.jpeg,,,
-entity_elon,Entity,ELON,,,,,,Entity,1.0,3.0
-entity_pure,Entity,Pure,,,,,,Entity,1.0,3.0
-entity_smoking_on_mars,Entity,SMOKING ON MARS,,,,,,Organization,1.0,3.0
+entity_elon,Entity,ELON,,,,,,Entity,1.0,6.0
+entity_pure,Entity,Pure,,,,,,Entity,1.0,6.0
+entity_smoking_on_mars,Entity,SMOKING ON MARS,,,,,,Organization,1.0,6.0
 post_1t95jpi,Post,First metrics of the game,1t95jpi,NFT,0.0,2026-05-10,https://www.reddit.com/r/NFT/comments/1t95jpi/first_metrics_of_the_game/,,,
-entity_first,Entity,First,,,,,,Entity,2.0,6.0
-entity_telegram_stars,Entity,Telegram Stars,,,,,,Organization,1.0,6.0
+entity_first,Entity,First,,,,,,Entity,2.0,26.0
+entity_telegram_stars,Entity,Telegram Stars,,,,,,Organization,1.0,26.0
 post_1t7tmeo,Post,NFTs with Evolving Artwork – The Next Level or Just Hype?,1t7tmeo,NFT,0.0,2026-05-09,https://www.reddit.com/r/NFT/comments/1t7tmeo/nfts_with_evolving_artwork_the_next_level_or_just/,,,
-entity_evolving_apes,Entity,Evolving Apes,,,,,,Organization,1.0,5.0
-entity_evolving_artwork,Entity,Evolving Artwork,,,,,,Organization,1.0,5.0
-entity_jpeg,Entity,JPEG,,,,,,Entity,2.0,5.0
-entity_just_hype,Entity,Just Hype,,,,,,Organization,1.0,5.0
-entity_pfps,Entity,PFPs,,,,,,Entity,1.0,5.0
-entity_the_next_level,Entity,The Next Level,,,,,,Organization,1.0,5.0
-entity_think_chromie_squiggles,Entity,Think Chromie Squiggles,,,,,,Organization,1.0,5.0
-entity_timepieces,Entity,Timepieces,,,,,,Entity,1.0,5.0
+entity_evolving_apes,Entity,Evolving Apes,,,,,,Organization,1.0,7.0
+entity_evolving_artwork,Entity,Evolving Artwork,,,,,,Organization,1.0,7.0
+entity_jpeg,Entity,JPEG,,,,,,Entity,2.0,7.0
+entity_just_hype,Entity,Just Hype,,,,,,Organization,1.0,7.0
+entity_pfps,Entity,PFPs,,,,,,Entity,1.0,7.0
+entity_the_next_level,Entity,The Next Level,,,,,,Organization,1.0,7.0
+entity_think_chromie_squiggles,Entity,Think Chromie Squiggles,,,,,,Organization,1.0,7.0
+entity_timepieces,Entity,Timepieces,,,,,,Entity,1.0,7.0
+topic_governance,Topic,Governance,,,,,,Topic,,
 post_1t5paav,Post,Void Vessel x,1t5paav,NFT,0.0,2026-05-06,https://i.redd.it/gcv15svvwkzg1.jpeg,,,
-entity_this_nfts,Entity,This NFTs,,,,,,Organization,1.0,4.0
-entity_void_vessel,Entity,Void Vessel,,,,,,Organization,1.0,4.0
+entity_this_nfts,Entity,This NFTs,,,,,,Organization,1.0,8.0
+entity_void_vessel,Entity,Void Vessel,,,,,,Organization,1.0,8.0
 post_1t59mq9,Post,Are NFTs actually coming back… or is this just another short cycle?,1t59mq9,NFT,0.0,2026-05-06,https://i.redd.it/3ohj1vco1izg1.png,,,
-entity_are_nfts,Entity,Are NFTs,,,,,,Organization,1.0,5.0
-entity_back,Entity,Back,,,,,,Entity,1.0,5.0
-entity_curious,Entity,Curious,,,,,,Entity,3.0,5.0
-entity_nft_related,Entity,NFT-related,,,,,,Entity,1.0,5.0
+entity_are_nfts,Entity,Are NFTs,,,,,,Organization,1.0,7.0
+entity_back,Entity,Back,,,,,,Entity,1.0,7.0
+entity_curious,Entity,Curious,,,,,,Entity,3.0,21.0
+entity_nft_related,Entity,NFT-related,,,,,,Entity,1.0,7.0
 post_1t3wvdt,Post,New piece from my upcoming collection,1t3wvdt,NFT,0.0,2026-05-04,https://i.redd.it/f7ghdx8t47zg1.jpeg,,,
-entity_more,Entity,More,,,,,,Entity,3.0,14.0
-entity_opensea,Entity,OpenSea,,,,,,Entity,1.0,14.0
-post_1tidf9m,Post,Where to buy XMR/Monero in the US?,1tidf9m,defi,20.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,,,
-entity_decent,Entity,Decent,,,,,,Entity,1.0,17.0
-entity_monero,Entity,Monero,,,,,,Entity,1.0,17.0
-entity_trying,Entity,Trying,,,,,,Entity,1.0,17.0
-entity_xmr,Entity,XMR,,,,,,Entity,1.0,17.0
-post_1tidzsg,Post,Cheapest way to move USDC from Solana to Ethereum?,1tidzsg,defi,15.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,,,
+entity_more,Entity,More,,,,,,Entity,3.0,21.0
+post_1t3fmv0,Post,Megaone-Supertars,1t3fmv0,NFT,0.0,2026-05-04,https://www.reddit.com/gallery/1t3fmv0,,,
+entity_lit,Entity,LIT,,,,,,Entity,1.0,7.0
+entity_megaone,Entity,Megaone,,,,,,Entity,1.0,7.0
+entity_megaone_supertars_introducing,Entity,Megaone-Supertars Introducing,,,,,,Organization,1.0,7.0
+entity_unique,Entity,Unique,,,,,,Entity,1.0,7.0
+post_1sztep5,Post,Survey on fraud in the NFT,1sztep5,NFT,0.0,2026-04-30,https://www.reddit.com/r/NFT/comments/1sztep5/survey_on_fraud_in_the_nft/,,,
+entity_nft_hello,Entity,NFT Hello,,,,,,Organization,1.0,7.0
+entity_survey,Entity,Survey,,,,,,Entity,1.0,7.0
+entity_thnks,Entity,Thnks,,,,,,Entity,1.0,7.0
+post_1tidf9m,Post,Where to buy XMR/Monero in the US?,1tidf9m,defi,19.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,,,
+entity_decent,Entity,Decent,,,,,,Entity,1.0,26.0
+entity_monero,Entity,Monero,,,,,,Entity,1.0,26.0
+entity_trying,Entity,Trying,,,,,,Entity,1.0,26.0
+entity_xmr,Entity,XMR,,,,,,Entity,2.0,26.0
+post_1tidqus,Post,DEX that supports native BTC?,1tidqus,defi,16.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,,,
+entity_dex,Entity,DEX,,,,,,Entity,3.0,17.0
+entity_every_dex,Entity,Every DEX,,,,,,Organization,1.0,17.0
+post_1tidzsg,Post,Cheapest way to move USDC from Solana to Ethereum?,1tidzsg,defi,14.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,,,
 entity_best,Entity,Best,,,,,,Entity,2.0,14.0
 entity_cheapest,Entity,Cheapest,,,,,,Entity,1.0,14.0
-entity_tried,Entity,Tried,,,,,,Entity,1.0,14.0
+entity_tried,Entity,Tried,,,,,,Entity,2.0,26.0
 topic_cross_chain,Topic,Cross-chain,,,,,,Topic,,
-post_1tidqus,Post,DEX that supports native BTC?,1tidqus,defi,15.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,,,
-entity_dex,Entity,DEX,,,,,,Entity,2.0,6.0
-entity_every_dex,Entity,Every DEX,,,,,,Organization,1.0,6.0
-post_1gthc7a,Post,Weekly DeFi discussion. What are your moves for this week?,1gthc7a,defi,11.0,2024-11-17,https://www.reddit.com/r/defi/comments/1gthc7a/weekly_defi_discussion_what_are_your_moves_for/,,,
-entity_let,Entity,Let,,,,,,Entity,2.0,17.0
-entity_weekly_defi,Entity,Weekly DeFi,,,,,,Organization,2.0,17.0
+post_1tie6f6,Post,Where to swap ZEC to XMR without KYC?,1tie6f6,defi,14.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tie6f6/where_to_swap_zec_to_xmr_without_kyc/,,,
+entity_monero_xmr,Entity,Monero XMR,,,,,,Organization,1.0,9.0
+entity_zcash_zec,Entity,Zcash ZEC,,,,,,Organization,1.0,9.0
+post_1tifosy,Post,Best Solana wallet for DeFi,1tifosy,defi,12.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tifosy/best_solana_wallet_for_defi/,,,
+entity_best_solana,Entity,Best Solana,,,,,,Organization,1.0,21.0
+entity_phantom,Entity,Phantom,,,,,,Entity,2.0,21.0
 post_1tign1k,Post,Best swap aggregator for ETH,1tign1k,defi,10.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tign1k/best_swap_aggregator_for_eth/,,,
-entity_uniswap,Entity,Uniswap,,,,,,Protocol,2.0,17.0
+entity_uniswap,Entity,Uniswap,,,,,,Protocol,3.0,17.0
 post_1titoja,Post,Are people finally taking blind signing seriously now?,1titoja,defi,7.0,2026-05-20,https://www.reddit.com/r/defi/comments/1titoja/are_people_finally_taking_blind_signing_seriously/,,,
-entity_ethereum_foundation,Entity,Ethereum Foundation,,,,,,Organization,2.0,17.0
-entity_feels,Entity,Feels,,,,,,Entity,1.0,17.0
-entity_most,Entity,Most,,,,,,Entity,4.0,17.0
-post_1tiks8p,Post,My uniswap v3 positions barely make anything anymore,1tiks8p,defi,7.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,,,
-entity_coupled,Entity,Coupled,,,,,,Entity,1.0,17.0
-post_1fxj3zr,Post,Weekly DeFi discussion. What are your moves for this week?,1fxj3zr,defi,5.0,2024-10-06,https://www.reddit.com/r/defi/comments/1fxj3zr/weekly_defi_discussion_what_are_your_moves_for/,,,
+entity_ethereum_foundation,Entity,Ethereum Foundation,,,,,,Organization,2.0,14.0
+entity_feels,Entity,Feels,,,,,,Entity,1.0,14.0
 post_1tiwul0,Post,"""Slippage tolerance in DeFi. What setting 0.5% actually means and when you should change it.""",1tiwul0,defi,5.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tiwul0/slippage_tolerance_in_defi_what_setting_05/,,,
-entity_completing,Entity,Completing,,,,,,Entity,1.0,17.0
-entity_default,Entity,Default,,,,,,Entity,1.0,17.0
-entity_mev,Entity,MEV,,,,,,Entity,2.0,17.0
-entity_rocketx,Entity,RocketX,,,,,,Entity,1.0,17.0
-entity_slippage,Entity,Slippage,,,,,,Entity,1.0,17.0
-entity_transaction,Entity,Transaction,,,,,,Entity,1.0,17.0
+entity_completing,Entity,Completing,,,,,,Entity,1.0,0.0
+entity_default,Entity,Default,,,,,,Entity,1.0,0.0
+entity_mev,Entity,MEV,,,,,,Entity,2.0,0.0
+entity_rocketx,Entity,RocketX,,,,,,Entity,1.0,0.0
+entity_slippage,Entity,Slippage,,,,,,Entity,1.0,0.0
+entity_transaction,Entity,Transaction,,,,,,Entity,1.0,0.0
+post_1tiks8p,Post,My uniswap v3 positions barely make anything anymore,1tiks8p,defi,5.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,,,
+entity_coupled,Entity,Coupled,,,,,,Entity,1.0,17.0
 post_1tiyfhv,Post,After celsius i spent 2 years rebuilding how i think about yield. some thoughts.,1tiyfhv,defi,3.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tiyfhv/after_celsius_i_spent_2_years_rebuilding_how_i/,,,
 post_1tim5jb,Post,Alertio — Built a DeFi risk monitoring tool because I got tired of constantly checking dashboards (looking for feedback),1tim5jb,defi,3.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tim5jb/alertio_built_a_defi_risk_monitoring_tool_because/,,,
-entity_aave_v3,Entity,Aave V3,,,,,,Organization,1.0,17.0
-entity_alertio,Entity,Alertio,,,,,,Entity,1.0,17.0
-entity_alerts,Entity,Alerts,,,,,,Entity,1.0,17.0
-entity_built,Entity,Built,,,,,,Entity,1.0,17.0
-entity_coverage,Entity,Coverage,,,,,,Entity,1.0,17.0
-entity_current,Entity,Current,,,,,,Entity,1.0,17.0
-entity_evaa,Entity,EVAA,,,,,,Entity,1.0,17.0
-entity_euler,Entity,Euler,,,,,,Entity,1.0,17.0
-entity_false,Entity,False,,,,,,Entity,1.0,17.0
-entity_hyperliquid,Entity,Hyperliquid,,,,,,Entity,1.0,17.0
-entity_kamino,Entity,Kamino,,,,,,Entity,2.0,14.0
-entity_marginfi,Entity,Marginfi,,,,,,Entity,1.0,17.0
-entity_moonwell,Entity,Moonwell,,,,,,Entity,1.0,17.0
-entity_morpho,Entity,Morpho,,,,,,Entity,2.0,17.0
-entity_risks,Entity,Risks,,,,,,Entity,1.0,17.0
-entity_spark,Entity,Spark,,,,,,Entity,1.0,17.0
-entity_tvl,Entity,TVL,,,,,,Entity,1.0,17.0
+entity_aave_v3,Entity,Aave V3,,,,,,Organization,1.0,12.0
+entity_alertio,Entity,Alertio,,,,,,Entity,1.0,12.0
+entity_alerts,Entity,Alerts,,,,,,Entity,1.0,12.0
+entity_coverage,Entity,Coverage,,,,,,Entity,1.0,12.0
+entity_current,Entity,Current,,,,,,Entity,1.0,12.0
+entity_evaa,Entity,EVAA,,,,,,Entity,1.0,12.0
+entity_euler,Entity,Euler,,,,,,Entity,1.0,12.0
+entity_false,Entity,False,,,,,,Entity,1.0,12.0
+entity_hyperliquid,Entity,Hyperliquid,,,,,,Entity,1.0,12.0
+entity_kamino,Entity,Kamino,,,,,,Entity,1.0,12.0
+entity_marginfi,Entity,Marginfi,,,,,,Entity,1.0,12.0
+entity_moonwell,Entity,Moonwell,,,,,,Entity,1.0,12.0
+entity_morpho,Entity,Morpho,,,,,,Entity,2.0,12.0
+entity_risks,Entity,Risks,,,,,,Entity,1.0,12.0
+entity_spark,Entity,Spark,,,,,,Entity,1.0,12.0
+entity_tvl,Entity,TVL,,,,,,Entity,3.0,12.0
+post_1tijzdp,Post,Looking for feedback – Perps with no liquidation,1tijzdp,defi,3.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tijzdp/looking_for_feedback_perps_with_no_liquidation/,,,
+entity_only,Entity,Only,,,,,,Entity,1.0,11.0
+entity_perps,Entity,Perps,,,,,,Entity,1.0,11.0
+entity_think,Entity,Think,,,,,,Entity,1.0,11.0
+post_1tig1u7,Post,What's your favorite stablecoin yield strategy right now?,1tig1u7,defi,3.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tig1u7/whats_your_favorite_stablecoin_yield_strategy/,,,
 post_1tj3sd5,Post,Your aggregate DeFi risk across chains is invisible to you right now. Here's what that actually means during a cascade.,1tj3sd5,defi,1.0,2026-05-21,https://www.reddit.com/r/defi/comments/1tj3sd5/your_aggregate_defi_risk_across_chains_is/,,,
-entity_aggregate,Entity,Aggregate,,,,,,Entity,1.0,17.0
-entity_arbitrum,Entity,Arbitrum,,,,,,Layer2,1.0,17.0
-entity_automated,Entity,Automated,,,,,,Entity,1.0,17.0
-entity_base,Entity,Base,,,,,,Layer2,1.0,17.0
-entity_compound,Entity,Compound,,,,,,Entity,1.0,17.0
-entity_cross,Entity,Cross,,,,,,Entity,1.0,17.0
-entity_during,Entity,During,,,,,,Entity,1.0,17.0
-entity_everything,Entity,Everything,,,,,,Entity,3.0,17.0
-entity_flash,Entity,Flash,,,,,,Entity,1.0,17.0
-entity_following,Entity,Following,,,,,,Entity,1.0,17.0
-entity_forward,Entity,Forward,,,,,,Entity,1.0,17.0
-entity_health,Entity,Health,,,,,,Entity,1.0,17.0
-entity_ltv,Entity,LTV,,,,,,Entity,1.0,17.0
-entity_large,Entity,Large,,,,,,Entity,1.0,17.0
-entity_liquidation,Entity,Liquidation,,,,,,Entity,1.0,17.0
-entity_none,Entity,None,,,,,,Entity,1.0,17.0
-entity_protocol,Entity,Protocol,,,,,,Entity,1.0,17.0
-entity_three,Entity,Three,,,,,,Entity,2.0,17.0
-entity_unusual,Entity,Unusual,,,,,,Entity,1.0,17.0
-entity_while,Entity,While,,,,,,Entity,1.0,17.0
-entity_wonder,Entity,Wonder,,,,,,Entity,1.0,17.0
-post_1tgciuc,Post,"Daily General Discussion May 18, 2026",1tgciuc,ethereum,127.0,2026-05-18,https://www.reddit.com/r/ethereum/comments/1tgciuc/daily_general_discussion_may_18_2026/,,,
-entity_calendar,Entity,Calendar,,,,,,Entity,4.0,7.0
-entity_community_links,Entity,Community Links,,,,,,Organization,4.0,7.0
-entity_daily_general_discussion,Entity,Daily General Discussion,,,,,,Organization,4.0,7.0
-entity_daily_general_discussion_may,Entity,Daily General Discussion May,,,,,,Organization,4.0,7.0
-entity_doots_extension,Entity,Doots Extension,,,,,,Organization,4.0,7.0
-entity_doots_podcast,Entity,Doots Podcast,,,,,,Organization,4.0,7.0
-entity_doots_website,Entity,Doots Website,,,,,,Organization,4.0,7.0
-entity_evmavericks_youtube,Entity,EVMavericks YouTube,,,,,,Organization,4.0,7.0
-entity_ethereum_jobs,Entity,Ethereum Jobs,,,,,,Organization,4.0,7.0
-entity_learn,Entity,Learn,,,,,,Entity,4.0,7.0
-entity_old_reddit,Entity,Old Reddit,,,,,,Organization,4.0,7.0
-entity_price,Entity,Price,,,,,,Entity,4.0,7.0
-entity_subreddit_rules,Entity,Subreddit Rules,,,,,,Organization,4.0,7.0
-entity_twitter,Entity,Twitter,,,,,,Entity,5.0,7.0
-post_1thcqp2,Post,"Daily General Discussion May 19, 2026",1thcqp2,ethereum,124.0,2026-05-19,https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/,,,
-post_1tibkz7,Post,"Daily General Discussion May 20, 2026",1tibkz7,ethereum,105.0,2026-05-20,https://www.reddit.com/r/ethereum/comments/1tibkz7/daily_general_discussion_may_20_2026/,,,
-post_1tffsqu,Post,"Daily General Discussion May 17, 2026",1tffsqu,ethereum,103.0,2026-05-17,https://www.reddit.com/r/ethereum/comments/1tffsqu/daily_general_discussion_may_17_2026/,,,
+entity_aggregate,Entity,Aggregate,,,,,,Entity,1.0,12.0
+entity_arbitrum,Entity,Arbitrum,,,,,,Layer2,1.0,12.0
+entity_automated,Entity,Automated,,,,,,Entity,1.0,12.0
+entity_base,Entity,Base,,,,,,Layer2,2.0,12.0
+entity_compound,Entity,Compound,,,,,,Entity,1.0,12.0
+entity_cross,Entity,Cross,,,,,,Entity,1.0,12.0
+entity_during,Entity,During,,,,,,Entity,1.0,12.0
+entity_flash,Entity,Flash,,,,,,Entity,1.0,12.0
+entity_following,Entity,Following,,,,,,Entity,1.0,12.0
+entity_forward,Entity,Forward,,,,,,Entity,1.0,12.0
+entity_health,Entity,Health,,,,,,Entity,1.0,12.0
+entity_ltv,Entity,LTV,,,,,,Entity,1.0,12.0
+entity_large,Entity,Large,,,,,,Entity,1.0,12.0
+entity_liquidation,Entity,Liquidation,,,,,,Entity,1.0,12.0
+entity_none,Entity,None,,,,,,Entity,1.0,12.0
+entity_protocol,Entity,Protocol,,,,,,Entity,1.0,12.0
+entity_three,Entity,Three,,,,,,Entity,3.0,14.0
+entity_unusual,Entity,Unusual,,,,,,Entity,1.0,12.0
+entity_while,Entity,While,,,,,,Entity,2.0,10.0
+entity_wonder,Entity,Wonder,,,,,,Entity,1.0,12.0
+post_1tip487,Post,Any low fee Mainnet to Base dex?,1tip487,defi,1.0,2026-05-20,https://www.reddit.com/r/defi/comments/1tip487/any_low_fee_mainnet_to_base_dex/,,,
+entity_any,Entity,Any,,,,,,Entity,1.0,14.0
+entity_mainnet,Entity,Mainnet,,,,,,Entity,1.0,14.0
+entity_xbridge,Entity,XBridge,,,,,,Entity,1.0,14.0
+post_1tbzzvi,Post,I cracked Vitalik’s 2015 on-chain ad platform. He was the only bidder. Total cost: $2.,1tbzzvi,ethereum,148.0,2026-05-13,https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e,,,
+entity_ascii,Entity,ASCII,,,,,,Entity,1.0,14.0
+entity_at_october,Entity,At October,,,,,,Organization,1.0,14.0
+entity_both,Entity,Both,,,,,,Entity,1.0,14.0
+entity_devcon,Entity,DevCon,,,,,,Entity,1.0,14.0
+entity_didn,Entity,Didn,,,,,,Entity,1.0,14.0
+entity_eight,Entity,Eight,,,,,,Entity,1.0,14.0
+entity_ethereumhistory,Entity,EthereumHistory,,,,,,Entity,1.0,14.0
+entity_even_vitalik,Entity,Even Vitalik,,,,,,Organization,1.0,14.0
+entity_exact,Entity,Exact,,,,,,Entity,1.0,14.0
+entity_full,Entity,Full,,,,,,Entity,2.0,14.0
+entity_gas,Entity,Gas,,,,,,Entity,1.0,14.0
+entity_heiko_hees,Entity,Heiko Hees,,,,,,Organization,1.0,14.0
+entity_june,Entity,June,,,,,,Entity,1.0,14.0
+entity_neither,Entity,Neither,,,,,,Entity,1.0,14.0
+entity_second_price,Entity,Second-price,,,,,,Entity,1.0,14.0
+entity_slot,Entity,Slot,,,,,,Entity,1.0,14.0
+entity_total,Entity,Total,,,,,,Entity,1.0,14.0
+entity_two,Entity,Two,,,,,,Entity,1.0,14.0
+entity_vickrey,Entity,Vickrey,,,,,,Entity,1.0,14.0
+entity_vitalik,Entity,Vitalik,,,,,,Entity,2.0,14.0
+entity_wayback_machine,Entity,Wayback Machine,,,,,,Organization,1.0,14.0
 post_1th3gq8,Post,The SEC Is About to Allow Tokenized Stocks on Blockchain,1th3gq8,ethereum,85.0,2026-05-18,https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/,,,
-entity_allow_tokenized_stocks,Entity,Allow Tokenized Stocks,,,,,,Organization,1.0,8.0
-entity_blockchain,Entity,Blockchain,,,,,,Entity,1.0,8.0
-entity_sec,Entity,SEC,,,,,,Regulator,1.0,8.0
-entity_the_sec_is_about,Entity,The SEC Is About,,,,,,Organization,1.0,8.0
-post_1tgodmq,Post,Vitalik’s AI + formal verification take feels bigger than another “AI in crypto” headline,1tgodmq,ethereum,49.0,2026-05-18,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,,,
-entity_ai_assisted,Entity,AI-assisted,,,,,,Entity,1.0,7.0
-entity_article,Entity,Article,,,,,,Entity,1.0,7.0
-entity_his,Entity,His,,,,,,Entity,1.0,7.0
-entity_solidity,Entity,Solidity,,,,,,Entity,1.0,7.0
-entity_vitalik,Entity,Vitalik,,,,,,Entity,1.0,7.0
-post_1tim0be,Post,The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before,1tim0be,ethereum,35.0,2026-05-20,https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/,,,
-entity_access_its_payment_system,Entity,Access Its Payment System,,,,,,Organization,1.0,9.0
-entity_days,Entity,Days,,,,,,Entity,1.0,9.0
-entity_explain_itself_before,Entity,Explain Itself Before,,,,,,Organization,1.0,9.0
-entity_explain_why_crypto_can,Entity,Explain Why Crypto Can,,,,,,Organization,1.0,9.0
-entity_never_had,Entity,Never Had,,,,,,Organization,1.0,9.0
-entity_the_fed_has,Entity,The Fed Has,,,,,,Organization,1.0,9.0
-post_1titnxf,Post,The Ethereum Foundation security discussions this week made me rethink my wallet setup,1titnxf,ethereum,25.0,2026-05-20,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,,,
-entity_been,Entity,Been,,,,,,Entity,2.0,5.0
-entity_makes,Entity,Makes,,,,,,Entity,1.0,17.0
-entity_the_ethereum_foundation,Entity,The Ethereum Foundation,,,,,,Organization,1.0,17.0
-post_1r8pk7s,Post,Glamsterdam Gas Repricing: share your feedback in the stakeholder survey,1r8pk7s,ethereum,20.0,2026-02-19,https://gasrepricing.com/,,,
-entity_glamsterdam_gas_repricing,Entity,Glamsterdam Gas Repricing,,,,,,Organization,1.0,10.0
+entity_allow_tokenized_stocks,Entity,Allow Tokenized Stocks,,,,,,Organization,1.0,13.0
+entity_blockchain,Entity,Blockchain,,,,,,Entity,2.0,13.0
+entity_sec,Entity,SEC,,,,,,Regulator,1.0,13.0
+entity_the_sec_is_about,Entity,The SEC Is About,,,,,,Organization,1.0,13.0
+post_1tgodmq,Post,Vitalik’s AI + formal verification take feels bigger than another “AI in crypto” headline,1tgodmq,ethereum,48.0,2026-05-18,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,,,
+entity_ai_assisted,Entity,AI-assisted,,,,,,Entity,1.0,14.0
+entity_article,Entity,Article,,,,,,Entity,1.0,14.0
+entity_his,Entity,His,,,,,,Entity,1.0,14.0
+entity_solidity,Entity,Solidity,,,,,,Entity,1.0,14.0
+post_1tcu2m4,Post,$770 million stolen in defi this year. 40+ protocols shut down. bridges are the common denominator and nobody is fixing the actual problem.,1tcu2m4,ethereum,43.0,2026-05-14,https://www.reddit.com/r/ethereum/comments/1tcu2m4/770_million_stolen_in_defi_this_year_40_protocols/,,,
+post_1tf06ed,Post,Instant way to Unstake stETH?,1tf06ed,ethereum,42.0,2026-05-16,https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/,,,
+entity_instant,Entity,Instant,,,,,,Entity,1.0,7.0
+entity_lido,Entity,Lido,,,,,,Protocol,1.0,7.0
+entity_nft_is,Entity,"NFT
+
+Is",,,,,,Organization,1.0,7.0
+entity_unstake,Entity,Unstake,,,,,,Entity,1.0,7.0
+entity_unstake_lido_eth,Entity,Unstake Lido ETH,,,,,,Organization,1.0,7.0
+entity_steth,Entity,stETH,,,,,,Token,1.0,7.0
+post_1tim0be,Post,The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before,1tim0be,ethereum,40.0,2026-05-20,https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/,,,
+entity_access_its_payment_system,Entity,Access Its Payment System,,,,,,Organization,1.0,15.0
+entity_days,Entity,Days,,,,,,Entity,1.0,15.0
+entity_explain_itself_before,Entity,Explain Itself Before,,,,,,Organization,1.0,15.0
+entity_explain_why_crypto_can,Entity,Explain Why Crypto Can,,,,,,Organization,1.0,15.0
+entity_never_had,Entity,Never Had,,,,,,Organization,1.0,15.0
+entity_the_fed_has,Entity,The Fed Has,,,,,,Organization,1.0,15.0
+post_1titnxf,Post,The Ethereum Foundation security discussions this week made me rethink my wallet setup,1titnxf,ethereum,26.0,2026-05-20,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,,,
+entity_been,Entity,Been,,,,,,Entity,2.0,21.0
+entity_makes,Entity,Makes,,,,,,Entity,1.0,14.0
+entity_the_ethereum_foundation,Entity,The Ethereum Foundation,,,,,,Organization,1.0,14.0
+post_1tdr5oj,Post,"put $2.5k into a mid-cap through a dex and walked away $180 short, what went wrong?",1tdr5oj,ethereum,22.0,2026-05-15,https://www.reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/,,,
+entity_simpleswap,Entity,SimpleSwap,,,,,,Entity,1.0,0.0
 post_1tioe3q,Post,meet the hardware wallet that looks like a game boy and possesses the ethos of a seasoned self-sovereign vet,1tioe3q,ethereum,18.0,2026-05-20,https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/,,,
-entity_bl_4c,Entity,BL-4C,,,,,,Entity,1.0,7.0
-entity_fully_airgapped,Entity,FULLY AIRGAPPED,,,,,,Organization,1.0,7.0
-entity_hgxoi4jad_g,Entity,HgXoI4jad-g,,,,,,Entity,1.0,7.0
-entity_keycard_shell,Entity,Keycard Shell,,,,,,Organization,1.0,7.0
-entity_nfc,Entity,NFC,,,,,,Entity,1.0,7.0
-entity_s_tier,Entity,S-tier,,,,,,Entity,1.0,7.0
-entity_shell,Entity,Shell,,,,,,Entity,1.0,7.0
+entity_bl_4c,Entity,BL-4C,,,,,,Entity,1.0,14.0
+entity_fully_airgapped,Entity,FULLY AIRGAPPED,,,,,,Organization,1.0,14.0
+entity_hgxoi4jad_g,Entity,HgXoI4jad-g,,,,,,Entity,1.0,14.0
+entity_keycard_shell,Entity,Keycard Shell,,,,,,Organization,1.0,14.0
+entity_nfc,Entity,NFC,,,,,,Entity,1.0,14.0
+entity_s_tier,Entity,S-tier,,,,,,Entity,1.0,14.0
+entity_shell,Entity,Shell,,,,,,Entity,1.0,14.0
+post_1tdy4x1,Post,"Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan",1tdy4x1,ethereum,18.0,2026-05-15,https://ethereal.news/ethereal-news-weekly-23/,,,
+entity_ben_edgington,Entity,Ben Edgington,,,,,,Organization,1.0,16.0
+entity_clarity_act,Entity,CLARITY Act,,,,,,Organization,1.0,16.0
+entity_clear,Entity,Clear,,,,,,Entity,1.0,16.0
+entity_ethereal,Entity,Ethereal,,,,,,Entity,1.0,16.0
+entity_senate_banking,Entity,Senate Banking,,,,,,Organization,1.0,16.0
+post_1tfq5kj,Post,Build projects or learn Uniswap v4 ??,1tfq5kj,ethereum,11.0,2026-05-17,https://www.reddit.com/r/ethereum/comments/1tfq5kj/build_projects_or_learn_uniswap_v4/,,,
+entity_build,Entity,Build,,,,,,Entity,1.0,17.0
+entity_heyy_guys,Entity,Heyy Guys,,,,,,Organization,1.0,17.0
 post_1tgm700,Post,"I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance &amp; wallet blacklist checker",1tgm700,ethereum,8.0,2026-05-18,/r/ethdev/comments/1tgm6pr/i_built_a_stablecoin_technical_reference_contract/,,,
-entity_eip,Entity,EIP,,,,,,Entity,1.0,11.0
-entity_erc,Entity,ERC,,,,,,Entity,1.0,11.0
-post_1tirbet,Post,148 - Justin from Besu + Luis from Shutter - Encrypt The Mempool,1tirbet,ethereum,5.0,2026-05-20,https://youtu.be/RlOUkKDoRoQ,,,
-entity_besu,Entity,Besu,,,,,,Entity,1.0,12.0
-entity_encrypt_the_mempool,Entity,Encrypt The Mempool,,,,,,Organization,1.0,12.0
-entity_justin,Entity,Justin,,,,,,Entity,1.0,12.0
-entity_luis,Entity,Luis,,,,,,Entity,1.0,12.0
-entity_shutter,Entity,Shutter,,,,,,Entity,1.0,12.0
-post_1jmghap,Post,Welcome to /r/Solana - Read This To Get Started,1jmghap,solana,21.0,2025-03-29,https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/,,,
-entity_acelerators,Entity,Acelerators,,,,,,Entity,1.0,13.0
-entity_active_accelerators,Entity,Active Accelerators,,,,,,Organization,1.0,13.0
-entity_adoption,Entity,Adoption,,,,,,Entity,1.0,13.0
-entity_all_the_tools_necessary_to_start_building_mobile_crypto_apps_for_the_dapp_store,Entity,All The Tools Necessary To Start Building Mobile Crypto Apps For The DApp Store,,,,,,Organization,1.0,13.0
-entity_an_executive_overview_of_the_solana_protocol,Entity,An Executive Overview Of The Solana Protocol,,,,,,Organization,1.0,13.0
-entity_and_security_of_the_solana_ecosystem,Entity,And Security Of The Solana Ecosystem,,,,,,Organization,1.0,13.0
-entity_anza,Entity,Anza,,,,,,Entity,1.0,13.0
-entity_applicable,Entity,Applicable,,,,,,Entity,1.0,13.0
-entity_avoid,Entity,Avoid,,,,,,Entity,1.0,13.0
-entity_baseless_claims,Entity,Baseless Claims,,,,,,Organization,1.0,13.0
-entity_biggest_crypto_scams,Entity,Biggest Crypto Scams,,,,,,Organization,1.0,13.0
-entity_blunders,Entity,Blunders,,,,,,Entity,1.0,13.0
-entity_browser_extensions,Entity,Browser Extensions,,,,,,Organization,1.0,13.0
-entity_by_amalnathsathyan,Entity,By AmalnathSathyan,,,,,,Organization,1.0,13.0
-entity_capitalize_blockchain_on_chain_data_and_the_security_analysis_of_tokens_and_detailed_wallet_insights,Entity,Capitalize Blockchain On-chain Data And The Security Analysis Of Tokens And Detailed Wallet Insights,,,,,,Organization,1.0,13.0
-entity_check_the_subreddit_menu,Entity,Check The Subreddit Menu,,,,,,Organization,1.0,13.0
-entity_cold_wallets,Entity,Cold Wallets,,,,,,Organization,1.0,13.0
-entity_community,Entity,Community,,,,,,Entity,2.0,13.0
-entity_community_of_the_best_talent_learning,Entity,Community Of The Best Talent Learning,,,,,,Organization,1.0,13.0
-entity_devs,Entity,DEVs,,,,,,Entity,1.0,13.0
-entity_dedicated_to_the_decentralization,Entity,Dedicated To The Decentralization,,,,,,Organization,1.0,13.0
-entity_developer,Entity,Developer,,,,,,Entity,1.0,13.0
-entity_developer_resources,Entity,Developer Resources,,,,,,Organization,1.0,13.0
-entity_do_not_download_random_browser_extensions,Entity,Do Not Download Random Browser Extensions,,,,,,Organization,1.0,13.0
-entity_docs,Entity,Docs,,,,,,Entity,1.0,13.0
-entity_dummies,Entity,Dummies,,,,,,Entity,1.0,13.0
-entity_duplicate_posting,Entity,Duplicate Posting,,,,,,Organization,1.0,13.0
-entity_earning_and_building_in_crypto,Entity,Earning And Building In Crypto,,,,,,Organization,1.0,13.0
-entity_empowering_solana_content_creators,Entity,Empowering Solana Content Creators,,,,,,Organization,1.0,13.0
-entity_events,Entity,Events,,,,,,Entity,1.0,13.0
-entity_explorers,Entity,Explorers,,,,,,Entity,1.0,13.0
-entity_fdkrxc5pxj,Entity,FDKrxC5pxj,,,,,,Entity,1.0,13.0
-entity_full_course,Entity,Full Course,,,,,,Organization,1.0,13.0
-entity_full_stack_crypto_development,Entity,Full-Stack Crypto Development,,,,,,Organization,1.0,13.0
-entity_funding,Entity,Funding,,,,,,Entity,1.0,13.0
-entity_github,Entity,GitHub,,,,,,Entity,1.0,13.0
-entity_grants,Entity,Grants,,,,,,Entity,1.0,13.0
-entity_growth_programs,Entity,Growth Programs,,,,,,Organization,1.0,13.0
-entity_hackerhouses,Entity,HackerHouses,,,,,,Entity,1.0,13.0
-entity_heliuslab,Entity,HeliusLab,,,,,,Entity,1.0,13.0
-entity_hello_world,Entity,Hello World,,,,,,Organization,1.0,13.0
-entity_hot_wallets,Entity,Hot Wallets,,,,,,Organization,1.0,13.0
-entity_how_solana_works,Entity,How Solana Works,,,,,,Organization,1.0,13.0
-entity_how_to_get_solana_devnet_sol,Entity,How To Get Solana Devnet SOL,,,,,,Organization,1.0,13.0
-entity_including_airdrops_and_faucets,Entity,Including Airdrops And Faucets,,,,,,Organization,1.0,13.0
-entity_instagram,Entity,Instagram,,,,,,Entity,1.0,13.0
-entity_job,Entity,Job,,,,,,Entity,2.0,13.0
-entity_join_the_solana_talent_network,Entity,Join The Solana Talent Network,,,,,,Organization,1.0,13.0
-entity_join_the_talent_layer_of_solana_superteam,Entity,Join The Talent Layer Of Solana Superteam,,,,,,Organization,1.0,13.0
-entity_lamport_dao,Entity,Lamport DAO,,,,,,Organization,1.0,13.0
-entity_learn_blockchain,Entity,Learn Blockchain,,,,,,Organization,1.0,13.0
-entity_learn_more_about_different_grant_and_funding_opportunities_within_the_solana_ecosystem,Entity,Learn More About Different Grant And Funding Opportunities Within The Solana Ecosystem,,,,,,Organization,1.0,13.0
-entity_linkedin,Entity,LinkedIn,,,,,,Entity,1.0,13.0
-entity_list_of_wallets_supporting_solana,Entity,List Of Wallets Supporting Solana,,,,,,Organization,1.0,13.0
-entity_looking_for,Entity,Looking For,,,,,,Organization,1.0,13.0
-entity_misleading_distortion_of_facts_or_news,Entity,Misleading Distortion Of Facts Or News,,,,,,Organization,1.0,13.0
-entity_must_have_resources_for_developers_diving_into_the_solana_ecosystem,Entity,Must-have Resources For Developers Diving Into The Solana Ecosystem,,,,,,Organization,1.0,13.0
-entity_news,Entity,News,,,,,,Entity,1.0,13.0
-entity_newsletter,Entity,Newsletter,,,,,,Entity,1.0,13.0
-entity_non_profit_foundation_based_in_zug,Entity,Non-profit Foundation Based In Zug,,,,,,Organization,1.0,13.0
-entity_personal_attacks,Entity,Personal Attacks,,,,,,Organization,1.0,13.0
-entity_please_read_this_to_get_started,Entity,Please Read This To Get Started,,,,,,Organization,1.0,13.0
-entity_priority_in_this_subreddit_to_protect_solana_community,Entity,Priority In This Subreddit To Protect Solana Community,,,,,,Organization,1.0,13.0
-entity_promotional_content,Entity,Promotional Content,,,,,,Organization,1.0,13.0
-entity_risky,Entity,RISKY,,,,,,Entity,1.0,13.0
-entity_random_talk_goes_here_only,Entity,Random Talk Goes Here ONLY,,,,,,Organization,1.0,13.0
-entity_read_this_to_get_started,Entity,Read This To Get Started,,,,,,Organization,1.0,13.0
-entity_reddit,Entity,Reddit,,,,,,Entity,1.0,13.0
-entity_relevant_links,Entity,Relevant Links,,,,,,Organization,1.0,13.0
-entity_safety,Entity,Safety,,,,,,Entity,1.0,13.0
-entity_say,Entity,Say,,,,,,Entity,1.0,13.0
-entity_scale_your_solana_startup,Entity,Scale Your Solana Startup,,,,,,Organization,1.0,13.0
-entity_side_bar_for_more_relevant_developer_resources,Entity,Side Bar For More Relevant Developer Resources,,,,,,Organization,1.0,13.0
-entity_slander,Entity,Slander,,,,,,Entity,1.0,13.0
-entity_solscan,Entity,SolScan,,,,,,Entity,1.0,13.0
-entity_solana_builders,Entity,Solana Builders,,,,,,Organization,1.0,13.0
-entity_solana_collective,Entity,Solana Collective,,,,,,Organization,1.0,13.0
-entity_solana_community,Entity,Solana Community,,,,,,Organization,1.0,13.0
-entity_solana_developer_bootcamp,Entity,Solana Developer Bootcamp,,,,,,Organization,1.0,13.0
-entity_solana_developer_community,Entity,Solana Developer Community,,,,,,Organization,1.0,13.0
-entity_solana_ecosystem,Entity,Solana Ecosystem,,,,,,Organization,1.0,13.0
-entity_solana_events,Entity,Solana Events,,,,,,Organization,1.0,13.0
-entity_solana_explorer,Entity,Solana Explorer,,,,,,Organization,1.0,13.0
-entity_solana_foundation,Entity,Solana Foundation,,,,,,Organization,1.0,13.0
-entity_solana_foundation_grants,Entity,Solana Foundation Grants,,,,,,Organization,1.0,13.0
-entity_solana_labs,Entity,Solana Labs,,,,,,Organization,1.0,13.0
-entity_solana_labs_builds_products,Entity,Solana Labs Builds Products,,,,,,Organization,1.0,13.0
-entity_solana_mobile_developer_resources,Entity,Solana Mobile Developer Resources,,,,,,Organization,1.0,13.0
-entity_solana_official,Entity,Solana Official,,,,,,Organization,1.0,13.0
-entity_solana_subreddit_posting_rules,Entity,Solana Subreddit Posting RULES,,,,,,Organization,1.0,13.0
-entity_solana_superteam,Entity,Solana SuperTeam,,,,,,Organization,1.0,13.0
-entity_solana_token_sniffer,Entity,Solana Token Sniffer,,,,,,Organization,1.0,13.0
-entity_solana_focused,Entity,Solana-focused,,,,,,Entity,1.0,13.0
-entity_solanafm,Entity,SolanaFM,,,,,,Entity,1.0,13.0
-entity_solanafloor_etf_tracker,Entity,SolanaFloor ETF Tracker,,,,,,Organization,1.0,13.0
-entity_spam,Entity,Spam,,,,,,Entity,1.0,13.0
-entity_superteam_grants,Entity,SuperTeam Grants,,,,,,Organization,1.0,13.0
-entity_superteam,Entity,Superteam,,,,,,Entity,1.0,13.0
-entity_superteam_black,Entity,Superteam Black,,,,,,Organization,1.0,13.0
-entity_superteamblack,Entity,SuperteamBlack,,,,,,Entity,1.0,13.0
-entity_swearing,Entity,Swearing,,,,,,Entity,1.0,13.0
-entity_switzerland,Entity,Switzerland,,,,,,Entity,1.0,13.0
-entity_technical_relevant_links,Entity,TECHNICAL Relevant Links,,,,,,Organization,1.0,13.0
-entity_targeted_harassment,Entity,Targeted Harassment,,,,,,Organization,1.0,13.0
-entity_telegram,Entity,Telegram,,,,,,Entity,1.0,13.0
-entity_the_basics_on_all_things_solana_and_web3,Entity,The Basics On All Things Solana And Web3,,,,,,Organization,1.0,13.0
-entity_the_below_mentioned_behavior,Entity,The Below Mentioned Behavior,,,,,,Organization,1.0,13.0
-entity_the_solana_foundation_is,Entity,The Solana Foundation Is,,,,,,Organization,1.0,13.0
-entity_the_solana_subreddit_does_not_tolerate,Entity,The Solana Subreddit Does Not Tolerate,,,,,,Organization,1.0,13.0
-entity_third_party,Entity,Third Party,,,,,,Organization,1.0,13.0
-entity_tips,Entity,Tips,,,,,,Entity,1.0,13.0
-entity_tools_that_can_be_used_on_the_solana_blockchain,Entity,Tools That Can Be Used On The Solana Blockchain,,,,,,Organization,1.0,13.0
-entity_top,Entity,Top,,,,,,Entity,1.0,13.0
-entity_trick_on_how_to_pitch,Entity,Trick On How To Pitch,,,,,,Organization,1.0,13.0
-entity_uc9adqpue4bdvj8m9x7wxhua,Entity,UC9AdQPUe4BdVJ8M9X7wxHUA,,,,,,Entity,1.0,13.0
-entity_use_at_you_ow_risk,Entity,USE AT YOU OW RISK,,,,,,Organization,1.0,13.0
-entity_unaffiliated_with_solana_foundation,Entity,Unaffiliated With Solana Foundation,,,,,,Organization,1.0,13.0
-entity_understand,Entity,Understand,,,,,,Entity,1.0,13.0
-entity_use_the_below_tools_to_read,Entity,Use The Below Tools To Read,,,,,,Organization,1.0,13.0
-entity_web_wallets,Entity,Web Wallets,,,,,,Organization,1.0,13.0
-entity_website,Entity,Website,,,,,,Entity,1.0,13.0
-entity_weekly_discussion,Entity,Weekly Discussion,,,,,,Organization,1.0,13.0
-entity_welcome_to,Entity,Welcome To,,,,,,Organization,1.0,13.0
-entity_what_is_solana,Entity,What Is Solana,,,,,,Organization,1.0,13.0
-entity_whitepaper,Entity,Whitepaper,,,,,,Entity,1.0,13.0
-entity_win_in_solana_hackathons,Entity,Win In Solana Hackathons,,,,,,Organization,1.0,13.0
-entity_you_may_always_join_the_below_communities,Entity,You May Always Join The Below Communities,,,,,,Organization,1.0,13.0
-entity_you_want_to_hangout_with_solana_developer_communities,Entity,You Want To Hangout With Solana Developer Communities,,,,,,Organization,1.0,13.0
-entity_youtube,Entity,YouTube,,,,,,Entity,1.0,13.0
-entity_your_portal_to_leading_solana_jobs,Entity,Your Portal To Leading Solana Jobs,,,,,,Organization,1.0,13.0
-post_1tig0e4,Post,Messari’s State of Solana Q1 2026 report,1tig0e4,solana,19.0,2026-05-20,https://i.redd.it/4jfnr7n9c92h1.png,,,
-entity_alpenglow,Entity,Alpenglow,,,,,,Entity,3.0,14.0
-entity_buidl,Entity,BUIDL,,,,,,Entity,2.0,14.0
-entity_blackrock,Entity,BlackRock,,,,,,Organization,1.0,14.0
-entity_chain_gdp,Entity,Chain GDP,,,,,,Organization,1.0,14.0
-entity_defi_tvl,Entity,DeFi TVL,,,,,,Organization,1.0,14.0
-entity_despite,Entity,Despite,,,,,,Entity,1.0,14.0
-entity_messari,Entity,Messari,,,,,,Entity,1.0,14.0
-entity_pump,Entity,Pump,,,,,,Entity,1.0,14.0
-entity_rwa,Entity,RWA,,,,,,Entity,3.0,14.0
-entity_real_world,Entity,Real-world,,,,,,Entity,1.0,14.0
-entity_sol,Entity,SOL,,,,,,Entity,1.0,14.0
-entity_solana_q1,Entity,Solana Q1,,,,,,Organization,1.0,14.0
-entity_state,Entity,State,,,,,,Entity,1.0,14.0
-entity_validator,Entity,Validator,,,,,,Entity,1.0,14.0
+entity_eip,Entity,EIP,,,,,,Entity,1.0,18.0
+entity_erc,Entity,ERC,,,,,,Entity,1.0,18.0
+post_1tepe86,Post,"Architectural Breakdown: EVM Events, Transaction Receipts, and RPC Log Filtering",1tepe86,ethereum,7.0,2026-05-16,https://www.reddit.com/r/ethereum/comments/1tepe86/architectural_breakdown_evm_events_transaction/,,,
+entity_abi_encoded,Entity,ABI-encoded,,,,,,Entity,1.0,10.0
+entity_architectural_breakdown,Entity,Architectural Breakdown,,,,,,Organization,1.0,10.0
+entity_capped,Entity,Capped,,,,,,Entity,1.0,10.0
+entity_data,Entity,Data,,,,,,Entity,1.0,10.0
+entity_evm,Entity,EVM,,,,,,Entity,1.0,10.0
+entity_evm_events,Entity,EVM Events,,,,,,Organization,1.0,10.0
+entity_full_breakdown,Entity,Full Breakdown,,,,,,Organization,1.0,10.0
+entity_passing,Entity,Passing,,,,,,Entity,1.0,10.0
+entity_rpc,Entity,RPC,,,,,,Entity,1.0,10.0
+entity_rpc_log_filtering_events,Entity,RPC Log Filtering Events,,,,,,Organization,1.0,10.0
+entity_since,Entity,Since,,,,,,Entity,1.0,10.0
+entity_the_blob,Entity,The Blob,,,,,,Organization,1.0,10.0
+entity_topic,Entity,Topic,,,,,,Entity,1.0,10.0
+entity_topics,Entity,Topics,,,,,,Entity,1.0,10.0
+entity_transaction_receipts,Entity,Transaction Receipts,,,,,,Organization,1.0,10.0
+entity_transfer,Entity,Transfer,,,,,,Entity,1.0,10.0
+entity_under,Entity,Under,,,,,,Entity,1.0,10.0
+post_1tirbet,Post,148 - Justin from Besu + Luis from Shutter - Encrypt The Mempool,1tirbet,ethereum,6.0,2026-05-20,https://youtu.be/RlOUkKDoRoQ,,,
+entity_besu,Entity,Besu,,,,,,Entity,1.0,19.0
+entity_encrypt_the_mempool,Entity,Encrypt The Mempool,,,,,,Organization,1.0,19.0
+entity_justin,Entity,Justin,,,,,,Entity,1.0,19.0
+entity_luis,Entity,Luis,,,,,,Entity,1.0,19.0
+entity_shutter,Entity,Shutter,,,,,,Entity,1.0,19.0
+post_1tdp2jc,Post,"Without stablecoin treasury yield, defi is a proof that finance is zero sum",1tdp2jc,ethereum,4.0,2026-05-15,/r/defi/comments/1tdp1p6/without_stablecoin_treasury_yield_defi_is_a_proof/,,,
+entity_without,Entity,Without,,,,,,Entity,1.0,12.0
+post_1tig0e4,Post,Messari’s State of Solana Q1 2026 report,1tig0e4,solana,21.0,2026-05-20,https://i.redd.it/4jfnr7n9c92h1.png,,,
+entity_alpenglow,Entity,Alpenglow,,,,,,Entity,2.0,21.0
+entity_buidl,Entity,BUIDL,,,,,,Entity,2.0,21.0
+entity_blackrock,Entity,BlackRock,,,,,,Organization,1.0,21.0
+entity_chain_gdp,Entity,Chain GDP,,,,,,Organization,1.0,21.0
+entity_defi_tvl,Entity,DeFi TVL,,,,,,Organization,1.0,21.0
+entity_despite,Entity,Despite,,,,,,Entity,1.0,21.0
+entity_messari,Entity,Messari,,,,,,Entity,1.0,21.0
+entity_pump,Entity,Pump,,,,,,Entity,1.0,21.0
+entity_rwa,Entity,RWA,,,,,,Entity,2.0,21.0
+entity_real_world,Entity,Real-world,,,,,,Entity,1.0,21.0
+entity_sol,Entity,SOL,,,,,,Entity,3.0,21.0
+entity_solana_q1,Entity,Solana Q1,,,,,,Organization,1.0,21.0
+entity_state,Entity,State,,,,,,Entity,1.0,21.0
+entity_validator,Entity,Validator,,,,,,Entity,1.0,21.0
 post_1tifsjz,Post,Phantom vs Solflare: What's the best wallet?,1tifsjz,solana,18.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tifsjz/phantom_vs_solflare_whats_the_best_wallet/,,,
-entity_is_phantom,Entity,Is Phantom,,,,,,Organization,1.0,5.0
-entity_phantom,Entity,Phantom,,,,,,Entity,1.0,5.0
-entity_solflare,Entity,Solflare,,,,,,Entity,1.0,5.0
-entity_works,Entity,Works,,,,,,Entity,1.0,5.0
-post_1tigehl,Post,What's the fastest cross-chain DEX ?,1tigehl,solana,16.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,,,
-entity_looking,Entity,Looking,,,,,,Entity,3.0,6.0
-entity_synapse,Entity,Synapse,,,,,,Entity,1.0,6.0
-post_1tfr2p8,Post,Solana Ecosystem News - May 17-2026,1tfr2p8,solana,9.0,2026-05-17,https://www.reddit.com/r/solana/comments/1tfr2p8/solana_ecosystem_news_may_172026/,,,
-entity_ath,Entity,ATH,,,,,,Entity,1.0,14.0
-entity_aum,Entity,AUM,,,,,,Entity,1.0,14.0
-entity_amundi,Entity,Amundi,,,,,,Entity,1.0,14.0
-entity_artwork,Entity,Artwork,,,,,,Entity,1.0,14.0
-entity_avicimoney,Entity,AviciMoney,,,,,,Entity,1.0,14.0
-entity_bam,Entity,BAM,,,,,,Entity,1.0,14.0
-entity_beezie,Entity,Beezie,,,,,,Entity,1.0,14.0
-entity_bitwise,Entity,Bitwise,,,,,,Entity,1.0,14.0
-entity_blockworksadv,Entity,BlockworksAdv,,,,,,Entity,1.0,14.0
-entity_breakpoint,Entity,Breakpoint,,,,,,Entity,1.0,14.0
-entity_cli,Entity,CLI,,,,,,Entity,1.0,14.0
-entity_cohort,Entity,Cohort,,,,,,Entity,1.0,14.0
-entity_collector,Entity,Collector,,,,,,Entity,1.0,14.0
-entity_comicbook,Entity,ComicBook,,,,,,Entity,1.0,14.0
-entity_dddtracker,Entity,DDDTracker,,,,,,Entity,1.0,14.0
-entity_dlmm_quote_token_fees,Entity,DLMM Quote Token Fees,,,,,,Organization,1.0,14.0
-entity_dartexchange,Entity,DartExchange,,,,,,Entity,1.0,14.0
-entity_demo_day,Entity,Demo Day,,,,,,Organization,1.0,14.0
-entity_dune,Entity,Dune,,,,,,Entity,1.0,14.0
-entity_ena,Entity,ENA,,,,,,Entity,1.0,14.0
-entity_early_bird,Entity,Early Bird,,,,,,Organization,1.0,14.0
-entity_ethena,Entity,Ethena,,,,,,Entity,1.0,14.0
-entity_europe,Entity,Europe,,,,,,Entity,1.0,14.0
-entity_firebam,Entity,FireBAM,,,,,,Entity,1.0,14.0
-entity_firedancer,Entity,Firedancer,,,,,,Entity,1.0,14.0
-entity_flashtrade,Entity,FlashTrade,,,,,,Entity,1.0,14.0
-entity_frankendancer_compatible,Entity,Frankendancer-compatible,,,,,,Entity,1.0,14.0
-entity_gacha,Entity,Gacha,,,,,,Entity,1.0,14.0
-entity_getrektapp,Entity,GetRektApp,,,,,,Entity,1.0,14.0
-entity_headline_news,Entity,Headline News,,,,,,Organization,1.0,14.0
-entity_ipo_prime,Entity,IPO Prime,,,,,,Organization,1.0,14.0
-entity_jupiterexchange,Entity,JupiterExchange,,,,,,Entity,2.0,14.0
-entity_krwq,Entity,KRWQ,,,,,,Entity,1.0,14.0
-entity_korean,Entity,Korean,,,,,,Entity,1.0,14.0
-entity_krakeninsto,Entity,KrakenInsto,,,,,,Entity,1.0,14.0
-entity_krwqcash,Entity,KrwqCash,,,,,,Entity,1.0,14.0
-entity_launches,Entity,Launches,,,,,,Entity,1.0,14.0
-entity_mcp,Entity,MCP,,,,,,Entity,1.0,14.0
-entity_meteoraag,Entity,MeteoraAG,,,,,,Entity,1.0,14.0
-entity_milestones,Entity,Milestones,,,,,,Entity,1.0,14.0
-entity_miloonchains,Entity,MiloOnChains,,,,,,Entity,1.0,14.0
-entity_monkefoundry,Entity,MonkeFoundry,,,,,,Entity,1.0,14.0
-entity_nyc,Entity,NYC,,,,,,Entity,1.0,14.0
-entity_noah,Entity,Noah,,,,,,Entity,1.0,14.0
-entity_onyc,Entity,ONyc,,,,,,Entity,2.0,14.0
-entity_p_token,Entity,P-Token,,,,,,Entity,1.0,14.0
-entity_perps,Entity,Perps,,,,,,Entity,1.0,14.0
-entity_phoenixtrade,Entity,PhoenixTrade,,,,,,Entity,1.0,14.0
-entity_private_send,Entity,Private Send,,,,,,Organization,1.0,14.0
-entity_proofmarkets,Entity,ProofMarkets,,,,,,Entity,1.0,14.0
-entity_rekt,Entity,Rekt,,,,,,Entity,1.0,14.0
-entity_rockawayx,Entity,RockawayX,,,,,,Entity,1.0,14.0
-entity_scumsol,Entity,SCUMSOL,,,,,,Entity,1.0,14.0
-entity_spl,Entity,SPL,,,,,,Entity,1.0,14.0
-entity_scorely_monitor,Entity,Scorely Monitor,,,,,,Organization,1.0,14.0
-entity_scorelygg,Entity,ScorelyGG,,,,,,Entity,1.0,14.0
-entity_solana_ecosystem_news,Entity,Solana Ecosystem News,,,,,,Organization,1.0,14.0
-entity_solana_ecosystem_portfolio,Entity,Solana Ecosystem Portfolio,,,,,,Organization,1.0,14.0
-entity_solana_mcp,Entity,Solana MCP,,,,,,Organization,1.0,14.0
-entity_solana_skills,Entity,Solana Skills,,,,,,Organization,1.0,14.0
-entity_source,Entity,Source,,,,,,Entity,3.0,14.0
-entity_spiko,Entity,Spiko,,,,,,Entity,1.0,14.0
-entity_spot_etfs,Entity,Spot ETFs,,,,,,Organization,1.0,14.0
-entity_starchildonx,Entity,StarchildOnX,,,,,,Entity,1.0,14.0
-entity_trynoahai,Entity,TryNoahAI,,,,,,Entity,1.0,14.0
-entity_ucits,Entity,UCITS,,,,,,Entity,1.0,14.0
-entity_us_solana_spot_etfs,Entity,US Solana Spot ETFs,,,,,,Organization,1.0,14.0
-entity_usdc_rwa,Entity,USDC RWA,,,,,,Organization,1.0,14.0
-entity_usdt_native,Entity,USDT-native,,,,,,Entity,1.0,14.0
-post_1tii4wj,Post,Jupiter Launches Metis V8 to Eliminate Swap Drift on Solana,1tii4wj,solana,8.0,2026-05-20,https://i.redd.it/x8r39ex8w92h1.png,,,
-entity_eliminate_swap_drift,Entity,Eliminate Swap Drift,,,,,,Organization,1.0,14.0
-entity_jupiter,Entity,Jupiter,,,,,,Protocol,2.0,14.0
-entity_jupiter_launches_metis_v8,Entity,Jupiter Launches Metis V8,,,,,,Organization,1.0,14.0
-entity_metis_v8,Entity,Metis V8,,,,,,Organization,1.0,14.0
-entity_solana_jupiter_exchange,Entity,Solana Jupiter Exchange,,,,,,Organization,1.0,14.0
-entity_users,Entity,Users,,,,,,Entity,1.0,14.0
-post_1tipe2k,Post,"Another Week, Another TPS Lead for Solana",1tipe2k,solana,6.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,,,
-entity_another_tps_lead,Entity,Another TPS Lead,,,,,,Organization,1.0,5.0
-entity_another_week,Entity,Another Week,,,,,,Organization,1.0,5.0
-entity_ecosystem,Entity,Ecosystem,,,,,,Entity,1.0,5.0
-entity_full,Entity,Full,,,,,,Entity,1.0,5.0
-entity_scalability,Entity,Scalability,,,,,,Entity,1.0,5.0
-entity_solana_solana,Entity,Solana Solana,,,,,,Organization,1.0,5.0
-entity_tps,Entity,TPS,,,,,,Entity,1.0,5.0
-post_1tiq7mw,Post,📢 Solana Tech Pulse (May 12 – May 19),1tiq7mw,solana,4.0,2026-05-20,https://i.redd.it/xh5rkhb1gb2h1.png,,,
-entity_solana_tech_pulse,Entity,Solana Tech Pulse,,,,,,Organization,1.0,14.0
+entity_is_phantom,Entity,Is Phantom,,,,,,Organization,1.0,21.0
+entity_solflare,Entity,Solflare,,,,,,Entity,1.0,21.0
+entity_works,Entity,Works,,,,,,Entity,1.0,21.0
+post_1tigehl,Post,What's the fastest cross-chain DEX ?,1tigehl,solana,17.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,,,
+entity_synapse,Entity,Synapse,,,,,,Entity,1.0,17.0
+post_1tidx0t,Post,Why is my SOL swap always worse than quoted?,1tidx0t,solana,11.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tidx0t/why_is_my_sol_swap_always_worse_than_quoted/,,,
+entity_fine,Entity,Fine,,,,,,Entity,1.0,26.0
+entity_put,Entity,Put,,,,,,Entity,1.0,26.0
+post_1tii4wj,Post,Jupiter Launches Metis V8 to Eliminate Swap Drift on Solana,1tii4wj,solana,7.0,2026-05-20,https://i.redd.it/x8r39ex8w92h1.png,,,
+entity_eliminate_swap_drift,Entity,Eliminate Swap Drift,,,,,,Organization,1.0,21.0
+entity_jupiter,Entity,Jupiter,,,,,,Protocol,2.0,21.0
+entity_jupiter_launches_metis_v8,Entity,Jupiter Launches Metis V8,,,,,,Organization,1.0,21.0
+entity_jupiterexchange,Entity,JupiterExchange,,,,,,Entity,1.0,21.0
+entity_metis_v8,Entity,Metis V8,,,,,,Organization,1.0,21.0
+entity_solana_jupiter_exchange,Entity,Solana Jupiter Exchange,,,,,,Organization,1.0,21.0
+entity_users,Entity,Users,,,,,,Entity,1.0,21.0
+post_1tiq7mw,Post,📢 Solana Tech Pulse (May 12 – May 19),1tiq7mw,solana,5.0,2026-05-20,https://i.redd.it/xh5rkhb1gb2h1.png,,,
+entity_solana_tech_pulse,Entity,Solana Tech Pulse,,,,,,Organization,1.0,21.0
+post_1tipe2k,Post,"Another Week, Another TPS Lead for Solana",1tipe2k,solana,5.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,,,
+entity_another_tps_lead,Entity,Another TPS Lead,,,,,,Organization,1.0,21.0
+entity_another_week,Entity,Another Week,,,,,,Organization,1.0,21.0
+entity_ecosystem,Entity,Ecosystem,,,,,,Entity,1.0,21.0
+entity_scalability,Entity,Scalability,,,,,,Entity,1.0,21.0
+entity_solana_solana,Entity,Solana Solana,,,,,,Organization,1.0,21.0
+entity_tps,Entity,TPS,,,,,,Entity,1.0,21.0
 post_1tiny7e,Post,"SolanaFloor Podcast - CLARITY Act Advances, Solana Perps ATH, Alpenglow 100x &amp; More",1tiny7e,solana,4.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tiny7e/solanafloor_podcast_clarity_act_advances_solana/,,,
-entity_clarity_act_advances,Entity,CLARITY Act Advances,,,,,,Organization,1.0,14.0
-entity_solana_perps_ath,Entity,Solana Perps ATH,,,,,,Organization,1.0,14.0
-entity_solanafloor_podcast,Entity,SolanaFloor Podcast,,,,,,Organization,1.0,14.0
+entity_clarity_act_advances,Entity,CLARITY Act Advances,,,,,,Organization,1.0,21.0
+entity_solana_perps_ath,Entity,Solana Perps ATH,,,,,,Organization,1.0,21.0
+entity_solanafloor_podcast,Entity,SolanaFloor Podcast,,,,,,Organization,1.0,21.0
+post_1tiktov,Post,Metis v8: Solving The Quotation-Execution Drift,1tiktov,solana,4.0,2026-05-20,/r/jupiterexchange/comments/1tijh1d/metis_v8_solving_the_quotationexecution_drift/,,,
+entity_metis,Entity,Metis,,,,,,Entity,1.0,20.0
+entity_solving_the_quotation_execution_drift,Entity,Solving The Quotation-Execution Drift,,,,,,Organization,1.0,20.0
 post_1tj0p6r,Post,Jupiter Swap vs Solana DEXs: Simple Natural Breakdown (May 2026),1tj0p6r,solana,3.0,2026-05-20,https://i.redd.it/6vsx91bt7d2h1.jpeg,,,
-entity_jupiter_swap,Entity,Jupiter Swap,,,,,,Organization,1.0,14.0
-entity_simple_natural_breakdown,Entity,Simple Natural Breakdown,,,,,,Organization,1.0,14.0
-entity_solana_dexs,Entity,Solana DEXs,,,,,,Organization,1.0,14.0
-entity_which,Entity,Which,,,,,,Entity,1.0,14.0
+entity_jupiter_swap,Entity,Jupiter Swap,,,,,,Organization,1.0,21.0
+entity_simple_natural_breakdown,Entity,Simple Natural Breakdown,,,,,,Organization,1.0,21.0
+entity_solana_dexs,Entity,Solana DEXs,,,,,,Organization,1.0,21.0
+entity_which,Entity,Which,,,,,,Entity,1.0,21.0
 post_1tinshv,Post,RWAs Reached New ATHs On Solana In Q1 2026,1tinshv,solana,3.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tinshv/rwas_reached_new_aths_on_solana_in_q1_2026/,,,
-entity_aths,Entity,ATHs,,,,,,Entity,1.0,14.0
-entity_avgjoescrypto,Entity,AvgJoesCrypto,,,,,,Entity,1.0,14.0
-entity_hastrafi,Entity,HastraFi,,,,,,Entity,1.0,14.0
-entity_ondofinance,Entity,OndoFinance,,,,,,Entity,1.0,14.0
-entity_prime,Entity,PRIME,,,,,,Entity,1.0,14.0
-entity_qoq,Entity,QoQ,,,,,,Entity,1.0,14.0
-entity_rwas,Entity,RWAs,,,,,,Entity,1.0,14.0
-entity_rwas_reached_new_aths_on_solana_in_q1,Entity,RWAs Reached New ATHs On Solana In Q1,,,,,,Organization,1.0,14.0
-entity_securitize,Entity,Securitize,,,,,,Entity,1.0,14.0
-entity_usdy,Entity,USDY,,,,,,Entity,1.0,14.0
+entity_aths,Entity,ATHs,,,,,,Entity,1.0,21.0
+entity_avgjoescrypto,Entity,AvgJoesCrypto,,,,,,Entity,1.0,21.0
+entity_hastrafi,Entity,HastraFi,,,,,,Entity,1.0,21.0
+entity_onyc,Entity,ONyc,,,,,,Entity,1.0,21.0
+entity_ondofinance,Entity,OndoFinance,,,,,,Entity,1.0,21.0
+entity_prime,Entity,PRIME,,,,,,Entity,1.0,21.0
+entity_qoq,Entity,QoQ,,,,,,Entity,1.0,21.0
+entity_rwas,Entity,RWAs,,,,,,Entity,1.0,21.0
+entity_rwas_reached_new_aths_on_solana_in_q1,Entity,RWAs Reached New ATHs On Solana In Q1,,,,,,Organization,1.0,21.0
+entity_securitize,Entity,Securitize,,,,,,Entity,1.0,21.0
+entity_usdy,Entity,USDY,,,,,,Entity,1.0,21.0
+post_1tinqia,Post,Solana Liquid Staking Protocol Sanctum Has Reached A New All-time High Of ~17.07M $SOL In TVL,1tinqia,solana,3.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tinqia/solana_liquid_staking_protocol_sanctum_has/,,,
+entity_breaking,Entity,BREAKING,,,,,,Entity,2.0,21.0
+entity_new_all_time_high_of,Entity,New All-time High Of,,,,,,Organization,1.0,21.0
+entity_sol_in_tvl,Entity,SOL In TVL,,,,,,Organization,1.0,21.0
+entity_solana_liquid_staking_protocol_sanctum_has_reached,Entity,Solana Liquid Staking Protocol Sanctum Has Reached,,,,,,Organization,1.0,21.0
+entity_solanafloor,Entity,SolanaFloor,,,,,,Entity,1.0,21.0
 post_1tiyukl,Post,BREAKING: USDF Is Now Live On Flipcash On Solana,1tiyukl,solana,2.0,2026-05-20,https://www.reddit.com/r/solana/comments/1tiyukl/breaking_usdf_is_now_live_on_flipcash_on_solana/,,,
-entity_breaking,Entity,BREAKING,,,,,,Entity,1.0,14.0
-entity_coinbase,Entity,Coinbase,,,,,,Exchange,1.0,14.0
-entity_curve,Entity,Curve,,,,,,Protocol,1.0,14.0
-entity_flipcash,Entity,Flipcash,,,,,,Entity,1.0,14.0
-entity_introducing_usdf,Entity,Introducing USDF,,,,,,Organization,1.0,14.0
+entity_coinbase,Entity,Coinbase,,,,,,Exchange,1.0,21.0
+entity_curve,Entity,Curve,,,,,,Protocol,1.0,21.0
+entity_flipcash,Entity,Flipcash,,,,,,Entity,1.0,21.0
+entity_introducing_usdf,Entity,Introducing USDF,,,,,,Organization,1.0,21.0
 entity_solana_usdf,Entity,"Solana  
-USDF",,,,,,Organization,1.0,14.0
-entity_usdf,Entity,USDF,,,,,,Entity,1.0,14.0
-entity_usdf_is_now_live_on_flipcash_on_solana,Entity,USDF Is Now Live On Flipcash On Solana,,,,,,Organization,1.0,14.0
-post_1pqnm3c,Post,Web3 Career &amp; Jobs Megathread,1pqnm3c,web3,24.0,2025-12-19,https://www.reddit.com/r/web3/comments/1pqnm3c/web3_career_jobs_megathread/,,,
-entity_career,Entity,Career,,,,,,Entity,1.0,15.0
-entity_due,Entity,Due,,,,,,Entity,1.0,15.0
-entity_education,Entity,Education,,,,,,Entity,1.0,15.0
-entity_guidelines,Entity,Guidelines,,,,,,Entity,1.0,15.0
-entity_include,Entity,Include,,,,,,Entity,1.0,15.0
-entity_interview,Entity,Interview,,,,,,Entity,1.0,15.0
-entity_jobs_megathread_this,Entity,Jobs Megathread This,,,,,,Organization,1.0,15.0
-entity_professional,Entity,Professional,,,,,,Entity,1.0,15.0
-entity_resume,Entity,Resume,,,,,,Entity,1.0,15.0
-entity_rule,Entity,Rule,,,,,,Entity,1.0,15.0
-entity_salary,Entity,Salary,,,,,,Entity,1.0,15.0
-entity_skill,Entity,Skill,,,,,,Entity,1.0,15.0
-entity_web3_career,Entity,Web3 Career,,,,,,Organization,1.0,15.0
-post_1tdtww9,Post,I Think Web3 Became Popular Because People Got Tired of Renting Their Online Lives,1tdtww9,web3,16.0,2026-05-15,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,,,
-entity_because,Entity,Because,,,,,,Entity,1.0,16.0
-entity_renting_their_online_lives_one,Entity,Renting Their Online Lives One,,,,,,Organization,1.0,16.0
-entity_think_web3_became_popular_because_people_got_tired,Entity,Think Web3 Became Popular Because People Got Tired,,,,,,Organization,1.0,16.0
-entity_web1,Entity,Web1,,,,,,Entity,1.0,16.0
-entity_web2,Entity,Web2,,,,,,Entity,1.0,16.0
-post_1tey5gl,Post,The REAL reason most Web3 projects will NEVER build genuine community in 2026 (advice from someone who’s spent over half a decade in the trenches),1tey5gl,web3,11.0,2026-05-16,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,,,
-entity_api,Entity,API,,,,,,Entity,1.0,17.0
-entity_according,Entity,According,,,,,,Entity,1.0,17.0
-entity_bitcoin_etfs,Entity,Bitcoin ETFs,,,,,,Organization,1.0,17.0
-entity_coingecko,Entity,CoinGecko,,,,,,Entity,1.0,17.0
-entity_dms,Entity,DMs,,,,,,Entity,1.0,17.0
-entity_discords,Entity,Discords,,,,,,Entity,1.0,17.0
-entity_even,Entity,Even,,,,,,Entity,1.0,17.0
-entity_everyone,Entity,Everyone,,,,,,Entity,1.0,17.0
-entity_genuine,Entity,Genuine,,,,,,Entity,1.0,17.0
-entity_humans,Entity,Humans,,,,,,Entity,1.0,17.0
-entity_kpi,Entity,KPI,,,,,,Entity,1.0,17.0
-entity_liquidity,Entity,Liquidity,,,,,,Entity,1.0,17.0
-entity_lunarcrush,Entity,LunarCrush,,,,,,Entity,1.0,17.0
-entity_most_web3,Entity,Most Web3,,,,,,Organization,1.0,17.0
-entity_never,Entity,NEVER,,,,,,Entity,1.0,17.0
-entity_real,Entity,Real,,,,,,Entity,1.0,17.0
-entity_retention,Entity,Retention,,,,,,Entity,1.0,17.0
-entity_sadly,Entity,Sadly,,,,,,Entity,1.0,17.0
-entity_telegrams,Entity,Telegrams,,,,,,Entity,1.0,17.0
-entity_the_real,Entity,The REAL,,,,,,Organization,1.0,17.0
-post_1td8l7l,Post,Gaming needs to change its narrative if we're going to survive,1td8l7l,web3,10.0,2026-05-14,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,,,
-entity_blockchain_does,Entity,Blockchain DOES,,,,,,Organization,1.0,5.0
-entity_collecting,Entity,Collecting,,,,,,Entity,1.0,5.0
-entity_competition,Entity,Competition,,,,,,Entity,1.0,5.0
-entity_gaming,Entity,Gaming,,,,,,Entity,1.0,5.0
-entity_good,Entity,Good,,,,,,Entity,1.0,5.0
-entity_immutable,Entity,Immutable,,,,,,Protocol,1.0,5.0
-entity_man,Entity,Man,,,,,,Entity,1.0,5.0
-entity_meanwhile,Entity,Meanwhile,,,,,,Entity,1.0,5.0
-entity_players,Entity,Players,,,,,,Entity,1.0,5.0
-entity_server,Entity,SERVER,,,,,,Entity,1.0,5.0
-post_1tgdgtv,Post,What’s one crypto lesson you learned too late?,1tgdgtv,web3,6.0,2026-05-18,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,,,
+USDF",,,,,,Organization,1.0,21.0
+entity_usdf,Entity,USDF,,,,,,Entity,1.0,21.0
+entity_usdf_is_now_live_on_flipcash_on_solana,Entity,USDF Is Now Live On Flipcash On Solana,,,,,,Organization,1.0,21.0
+post_1tinzo0,Post,The Index Podcast - Solana’s Perps Renaissance with Hunter Simmons &amp; Jordan Prince of Imperial Perps,1tinzo0,solana,2.0,2026-05-20,https://www.youtube.com/watch?v=ppu4dCkNy_Y,,,
+entity_hunter_simmons,Entity,Hunter Simmons,,,,,,Organization,1.0,21.0
+entity_imperial_perps,Entity,Imperial Perps,,,,,,Organization,1.0,21.0
+entity_jordan_prince,Entity,Jordan Prince,,,,,,Organization,1.0,21.0
+entity_perps_renaissance,Entity,Perps Renaissance,,,,,,Organization,1.0,21.0
+entity_the_index_podcast,Entity,The Index Podcast,,,,,,Organization,1.0,21.0
+post_1tinwbo,Post,Solandy - Token Program Upgrade [Solana Tutorial] - May 14th '26,1tinwbo,solana,2.0,2026-05-20,https://www.youtube.com/watch?v=nc3vziW9UOM,,,
+entity_solana_tutorial,Entity,Solana Tutorial,,,,,,Organization,1.0,21.0
+entity_solandy,Entity,Solandy,,,,,,Entity,1.0,21.0
+entity_token_program_upgrade,Entity,Token Program Upgrade,,,,,,Organization,1.0,21.0
+post_1tas51z,Post,"after 2 years writing smart contracts, the web3 use cases that actually justify the complexity (and the ones that probably dont)",1tas51z,web3,24.0,2026-05-12,https://www.reddit.com/r/web3/comments/1tas51z/after_2_years_writing_smart_contracts_the_web3/,,,
+entity_dexs,Entity,DEXs,,,,,,Entity,1.0,7.0
+post_1t9yt80,Post,Finding web3 consulting that prioritizes actual utility over hype,1t9yt80,web3,18.0,2026-05-11,https://www.reddit.com/r/web3/comments/1t9yt80/finding_web3_consulting_that_prioritizes_actual/,,,
+entity_finding,Entity,Finding,,,,,,Entity,1.0,22.0
+entity_our,Entity,Our,,,,,,Entity,1.0,22.0
+post_1tdtww9,Post,I Think Web3 Became Popular Because People Got Tired of Renting Their Online Lives,1tdtww9,web3,15.0,2026-05-15,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,,,
+entity_because,Entity,Because,,,,,,Entity,1.0,23.0
+entity_renting_their_online_lives_one,Entity,Renting Their Online Lives One,,,,,,Organization,1.0,23.0
+entity_think_web3_became_popular_because_people_got_tired,Entity,Think Web3 Became Popular Because People Got Tired,,,,,,Organization,1.0,23.0
+entity_web1,Entity,Web1,,,,,,Entity,1.0,23.0
+entity_web2,Entity,Web2,,,,,,Entity,1.0,23.0
+post_1tey5gl,Post,The REAL reason most Web3 projects will NEVER build genuine community in 2026 (advice from someone who’s spent over half a decade in the trenches),1tey5gl,web3,12.0,2026-05-16,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,,,
+entity_api,Entity,API,,,,,,Entity,1.0,0.0
+entity_according,Entity,According,,,,,,Entity,1.0,0.0
+entity_bitcoin_etfs,Entity,Bitcoin ETFs,,,,,,Organization,1.0,0.0
+entity_coingecko,Entity,CoinGecko,,,,,,Entity,1.0,0.0
+entity_crypto,Entity,Crypto,,,,,,Entity,1.0,0.0
+entity_dms,Entity,DMs,,,,,,Entity,2.0,0.0
+entity_discord,Entity,Discord,,,,,,Entity,1.0,0.0
+entity_discords,Entity,Discords,,,,,,Entity,1.0,0.0
+entity_even,Entity,Even,,,,,,Entity,1.0,0.0
+entity_genuine,Entity,Genuine,,,,,,Entity,1.0,0.0
+entity_humans,Entity,Humans,,,,,,Entity,1.0,0.0
+entity_kpi,Entity,KPI,,,,,,Entity,1.0,0.0
+entity_liquidity,Entity,Liquidity,,,,,,Entity,1.0,0.0
+entity_lunarcrush,Entity,LunarCrush,,,,,,Entity,1.0,0.0
+entity_most_web3,Entity,Most Web3,,,,,,Organization,1.0,0.0
+entity_never,Entity,NEVER,,,,,,Entity,1.0,0.0
+entity_real,Entity,Real,,,,,,Entity,1.0,0.0
+entity_retention,Entity,Retention,,,,,,Entity,1.0,0.0
+entity_sadly,Entity,Sadly,,,,,,Entity,1.0,0.0
+entity_telegrams,Entity,Telegrams,,,,,,Entity,1.0,0.0
+entity_the_real,Entity,The REAL,,,,,,Organization,1.0,0.0
+post_1td8l7l,Post,Gaming needs to change its narrative if we're going to survive,1td8l7l,web3,12.0,2026-05-14,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,,,
+entity_blockchain_does,Entity,Blockchain DOES,,,,,,Organization,1.0,7.0
+entity_collecting,Entity,Collecting,,,,,,Entity,1.0,7.0
+entity_community,Entity,Community,,,,,,Entity,1.0,7.0
+entity_competition,Entity,Competition,,,,,,Entity,1.0,7.0
+entity_gaming,Entity,Gaming,,,,,,Entity,1.0,7.0
+entity_good,Entity,Good,,,,,,Entity,1.0,7.0
+entity_immutable,Entity,Immutable,,,,,,Protocol,1.0,7.0
+entity_man,Entity,Man,,,,,,Entity,1.0,7.0
+entity_meanwhile,Entity,Meanwhile,,,,,,Entity,1.0,7.0
+entity_players,Entity,Players,,,,,,Entity,1.0,7.0
+entity_server,Entity,SERVER,,,,,,Entity,1.0,7.0
+post_1t8kbi7,Post,How much should I charge weekly for crypto KOL outreach work?,1t8kbi7,web3,11.0,2026-05-09,https://www.reddit.com/r/web3/comments/1t8kbi7/how_much_should_i_charge_weekly_for_crypto_kol/,,,
+entity_filtering,Entity,Filtering,,,,,,Entity,1.0,24.0
+entity_got,Entity,Got,,,,,,Entity,1.0,24.0
+entity_kol,Entity,KOL,,,,,,Entity,1.0,24.0
+entity_kols,Entity,KOLs,,,,,,Entity,1.0,24.0
+entity_reporting,Entity,Reporting,,,,,,Entity,1.0,24.0
+entity_sending,Entity,Sending,,,,,,Entity,1.0,24.0
+entity_telegram,Entity,Telegram,,,,,,Entity,1.0,24.0
+entity_tracking,Entity,Tracking,,,,,,Entity,1.0,24.0
+entity_twitter,Entity,Twitter,,,,,,Entity,1.0,24.0
 post_1tfw2zw,Post,The real problem is trust,1tfw2zw,web3,6.0,2026-05-17,https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/,,,
-entity_admit,Entity,Admit,,,,,,Entity,1.0,17.0
-entity_lack,Entity,Lack,,,,,,Entity,1.0,17.0
-entity_trust,Entity,Trust,,,,,,Entity,1.0,17.0
+entity_admit,Entity,Admit,,,,,,Entity,1.0,0.0
+entity_lack,Entity,Lack,,,,,,Entity,1.0,0.0
+entity_trust,Entity,Trust,,,,,,Entity,1.0,0.0
+post_1tgdgtv,Post,What’s one crypto lesson you learned too late?,1tgdgtv,web3,5.0,2026-05-18,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,,,
 post_1tbbxwj,Post,why is it so hard to just talk about the tech anymore,1tbbxwj,web3,4.0,2026-05-12,https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/,,,
-entity_irl,Entity,IRL,,,,,,Entity,1.0,19.0
-post_1koqefn,Post,Useful Tools,1koqefn,web3,3.0,2025-05-17,https://www.reddit.com/r/web3/comments/1koqefn/useful_tools/,,,
-entity_axiom,Entity,Axiom,,,,,,Entity,1.0,20.0
-entity_maestro,Entity,Maestro,,,,,,Entity,1.0,20.0
-entity_useful_tools_comment,Entity,Useful Tools Comment,,,,,,Organization,1.0,20.0
+entity_irl,Entity,IRL,,,,,,Entity,1.0,25.0
 post_1thuj4z,Post,"Smart contract payment infrastructure for freight. Token, stablecoin, or no crypto at all? Honest opinions wanted",1thuj4z,web3,3.0,2026-05-19,https://www.reddit.com/r/web3/comments/1thuj4z/smart_contract_payment_infrastructure_for_freight/,,,
-entity_ach,Entity,ACH,,,,,,Entity,1.0,6.0
-entity_b2b,Entity,B2B,,,,,,Entity,1.0,6.0
-entity_carrier,Entity,Carrier,,,,,,Entity,1.0,6.0
-entity_conditional,Entity,Conditional,,,,,,Entity,1.0,6.0
-entity_figured,Entity,Figured,,,,,,Entity,1.0,6.0
-entity_gps,Entity,GPS,,,,,,Entity,1.0,6.0
-entity_honest,Entity,Honest,,,,,,Entity,1.0,6.0
-entity_mrr,Entity,MRR,,,,,,Entity,1.0,6.0
-entity_native_flow,Entity,Native FLOW,,,,,,Organization,1.0,6.0
-entity_option,Entity,Option,,,,,,Entity,1.0,6.0
-entity_pod,Entity,POD,,,,,,Entity,1.0,6.0
-entity_posted,Entity,Posted,,,,,,Entity,1.0,6.0
-entity_smart,Entity,Smart,,,,,,Entity,1.0,6.0
-entity_token,Entity,Token,,,,,,Entity,1.0,6.0
+entity_ach,Entity,ACH,,,,,,Entity,1.0,26.0
+entity_b2b,Entity,B2B,,,,,,Entity,1.0,26.0
+entity_carrier,Entity,Carrier,,,,,,Entity,1.0,26.0
+entity_conditional,Entity,Conditional,,,,,,Entity,1.0,26.0
+entity_figured,Entity,Figured,,,,,,Entity,1.0,26.0
+entity_gps,Entity,GPS,,,,,,Entity,1.0,26.0
+entity_honest,Entity,Honest,,,,,,Entity,1.0,26.0
+entity_mrr,Entity,MRR,,,,,,Entity,1.0,26.0
+entity_native_flow,Entity,Native FLOW,,,,,,Organization,1.0,26.0
+entity_option,Entity,Option,,,,,,Entity,1.0,26.0
+entity_pod,Entity,POD,,,,,,Entity,1.0,26.0
+entity_posted,Entity,Posted,,,,,,Entity,1.0,26.0
+entity_smart,Entity,Smart,,,,,,Entity,1.0,26.0
+entity_token,Entity,Token,,,,,,Entity,1.0,26.0
 post_1teb5zu,Post,What AI image tool are web3 folks using? Looking for the best price?,1teb5zu,web3,3.0,2026-05-15,https://www.reddit.com/r/web3/comments/1teb5zu/what_ai_image_tool_are_web3_folks_using_looking/,,,
-entity_no_saas,Entity,No SaaS,,,,,,Organization,1.0,6.0
-entity_what_ai,Entity,What AI,,,,,,Organization,1.0,6.0
+entity_no_saas,Entity,No SaaS,,,,,,Organization,1.0,21.0
+entity_what_ai,Entity,What AI,,,,,,Organization,1.0,21.0
+post_1taf3zo,Post,Mayors of tech cities want the clarity act to pass  asap,1taf3zo,web3,3.0,2026-05-11,https://www.reddit.com/r/web3/comments/1taf3zo/mayors_of_tech_cities_want_the_clarity_act_to/,,,
+entity_blue,Entity,Blue,,,,,,Entity,1.0,13.0
+entity_democrats,Entity,Democrats,,,,,,Entity,1.0,13.0
+entity_lots,Entity,Lots,,,,,,Entity,1.0,13.0
+entity_many,Entity,Many,,,,,,Entity,1.0,13.0
+entity_mayors,Entity,Mayors,,,,,,Entity,1.0,13.0
+entity_the_democrats,Entity,The Democrats,,,,,,Organization,1.0,13.0
 post_1tinf8k,Post,What’s the biggest problem in Web3 that nobody seems to be solving properly?,1tinf8k,web3,1.0,2026-05-20,https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/,,,
 post_1tbyyuh,Post,Redirect on-ramps vs. white-label: which one are you actually building with and why?,1tbyyuh,web3,1.0,2026-05-13,https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/,,,
-entity_building,Entity,Building,,,,,,Entity,1.0,17.0
-entity_easy,Entity,Easy,,,,,,Entity,1.0,17.0
-entity_genuinely,Entity,Genuinely,,,,,,Entity,1.0,17.0
-entity_payment,Entity,Payment,,,,,,Entity,1.0,17.0
-entity_redirect,Entity,Redirect,,,,,,Entity,1.0,17.0
-entity_user,Entity,User,,,,,,Entity,1.0,17.0
-entity_white_label,Entity,White-label,,,,,,Entity,1.0,17.0
+entity_building,Entity,Building,,,,,,Entity,1.0,0.0
+entity_easy,Entity,Easy,,,,,,Entity,1.0,0.0
+entity_genuinely,Entity,Genuinely,,,,,,Entity,1.0,0.0
+entity_payment,Entity,Payment,,,,,,Entity,1.0,0.0
+entity_redirect,Entity,Redirect,,,,,,Entity,1.0,0.0
+entity_user,Entity,User,,,,,,Entity,1.0,0.0
+entity_white_label,Entity,White-label,,,,,,Entity,1.0,0.0
+post_1tb3fuc,Post,What features would actually make you trust a newer NFT marketplace?,1tb3fuc,web3,1.0,2026-05-12,https://www.reddit.com/r/web3/comments/1tb3fuc/what_features_would_actually_make_you_trust_a/,,,
+entity_xrp,Entity,XRP,,,,,,Entity,1.0,7.0
+entity_xrpl_native_nft,Entity,XRPL-native NFT,,,,,,Organization,1.0,7.0

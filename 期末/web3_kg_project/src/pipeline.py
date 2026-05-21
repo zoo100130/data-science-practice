@@ -100,9 +100,12 @@ ENTITY_STOPWORDS = {
     "Is",
     "It",
     "Just",
+    "Learn",
     "Like",
+    "Looking",
     "May",
     "Megathread",
+    "Most",
     "My",
     "New",
     "No",
@@ -119,6 +122,8 @@ ENTITY_STOPWORDS = {
     "So",
     "Some",
     "That",
+    "Thanks",
+    "They",
     "The",
     "This",
     "To",
@@ -136,6 +141,11 @@ ENTITY_STOPWORDS = {
     "Would",
     "You",
     "Your",
+    "Everything",
+    "Source",
+    "Open",
+    "Official",
+    "Help",
 }
 
 ENTITY_TYPE_RULES = {

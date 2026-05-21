@@ -1,5 +1,5 @@
-﻿post_id,subreddit,title,selftext,created_utc,score,url,permalink,num_comments,author,upvote_ratio
-1thyyy0,CryptoCurrency,White House: Bitcoin Reserve Announcement Is Imminent,,2026-05-19,469,https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve,https://www.reddit.com/r/CryptoCurrency/comments/1thyyy0/white_house_bitcoin_reserve_announcement_is/,183,CriticalCobraz,0.86
+﻿post_id,subreddit,title,selftext,created_utc,score,url,permalink,num_comments,author,upvote_ratio,stickied
+1thyyy0,CryptoCurrency,White House: Bitcoin Reserve Announcement Is Imminent,,2026-05-19,462,https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve,https://www.reddit.com/r/CryptoCurrency/comments/1thyyy0/white_house_bitcoin_reserve_announcement_is/,183,CriticalCobraz,0.86,False
 1thxboy,CryptoCurrency,Is there still a realistic 10x case for Bitcoin?,"I have been hodling BTC since 2013. Unfortunately, not enough to change my life!
 
 These days, I feel caught between two worlds:
@@ -10,7 +10,7 @@ These days, I feel caught between two worlds:
 What do you guys think could cause another 10x run? Do you think there is one coming?
 
 Edit: Funny how asking a question that isn’t based on “the price will just keep going up forever” doesn’t seem to get many upvotes here.  
-Edit2: I take back that comment. There are really thoughtful comment. Thanks guys",2026-05-19,229,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,320,manente,0.76
+Edit2: I take back that comment. There are really thoughtful comment. Thanks guys",2026-05-19,230,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,https://www.reddit.com/r/CryptoCurrency/comments/1thxboy/is_there_still_a_realistic_10x_case_for_bitcoin/,320,manente,0.76,False
 1tin0p7,CryptoCurrency,Trump just issued an executive order allowing Digital Asset integration to TradFi,"https://preview.redd.it/s049wx75wa2h1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=5d7cfc4ba66a38e76d852c168744202a11531f1c
 
 Trump just issued an executive order that aims to ""foster financial innovation"" by allowing the integration of digital assets into traditional finance services and payment systems. 
@@ -19,7 +19,23 @@ Trump just issued an executive order that aims to ""foster financial innovation"
 One of the largest issues with crypto is the ability to onramp/offramp fiat. It is gated to a small number of players. 
 
   
-Combine this with the ability to use digital assets like BTC, ZEC, ETH, USDT, etc. as collateral in banks and we will see an explosion of trillions of dollars in market cap across the board.",2026-05-20,203,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,95,Accomplished-Eye5567,0.89
+Combine this with the ability to use digital assets like BTC, ZEC, ETH, USDT, etc. as collateral in banks and we will see an explosion of trillions of dollars in market cap across the board.",2026-05-20,206,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,https://www.reddit.com/r/CryptoCurrency/comments/1tin0p7/trump_just_issued_an_executive_order_allowing/,95,Accomplished-Eye5567,0.89,False
+1thuecg,CryptoCurrency,"Metamask swap is a scam, be careful.","I swapped a total 37,028 of wOCT from my wallet to 2010 USDT swap on chain.   
+This was the executed transaction tx: 
+
+https://etherscan.io/tx/0x98724339b603a0158aab2f7a2a350ff47f8501f0bbb49e946a6f8d84eb7fc5ad
+
+Instead of receiving my funds, I was only sent \~$1,576 USDT. When I checked the on-chain data, it clearly showed that the swap successfully executed for the full $2,010. However, the platform's smart contract deliberately routed $421.80 USDT straight into one of their own wallets:
+
+0xd0A67cB08BE17475f4315a04C5F0Be3e200Ef66c⁠
+
+This is deceiving users, providing them with false information and stealing funds without disclosing. 
+
+I contacted support and they replied with:
+
+“ 1:1 exchange rate for an asset pair is not guaranteed when trading on a decentralized market with limited liquidity. If the market for the token pair lacks sufficient liquidity, trading can result in a significant price impact, which leads to a lesser fiat value of the received token.”
+
+When I asked customer support, they tried to brush it off by blaming ""low liquidity"" and ""price impact."" This is a blatant lie. The blockchain proves there was no price impact issue, the full amount was generated, and they simply pocketed a massive, undisclosed 20% cut. Providing false information to cover up hidden extractions is theft. Stay away.",2026-05-19,124,https://www.reddit.com/r/CryptoCurrency/comments/1thuecg/metamask_swap_is_a_scam_be_careful/,https://www.reddit.com/r/CryptoCurrency/comments/1thuecg/metamask_swap_is_a_scam_be_careful/,60,Dongerated,0.79,False
 1tj2hrd,CryptoCurrency,The Binance Android app is a Chinese surveillance suite with a trading interface bolted on top,"Was setting up a fresh Pixel for a friend getting into crypto. Pulled the APKs of his installed apps through a tracker scanner before handing it back. Binance was the worst by a wide margin.
 
 The official Binance Android APK ships with SDKs from ByteDance (TikTok parent) and Tencent (WeChat parent), plus more than a dozen other trackers. Checked the AndroidManifest, they're declared at install time, not loaded dynamically. AppsFlyer, Branch, Adjust, Sensors Data, ByteDance Applog, Tencent Beacon.
@@ -38,67 +54,42 @@ if you want to verify this yourself:
 
 \- PCAPdroid (capture and inspect actual network traffic from any app)
 
-good luck sleeping after that",2026-05-20,67,https://i.redd.it/awh6guzokd2h1.jpeg,https://www.reddit.com/r/CryptoCurrency/comments/1tj2hrd/the_binance_android_app_is_a_chinese_surveillance/,9,MahereMarley,0.9
-1ti9jxr,CryptoCurrency,South Korean Funeral Company Faces $33M Unrealized Loss on Leveraged Ether ETFs,,2026-05-20,52,https://cointelegraph.com/news/south-korean-funeral-company-customer-funds-eth-etfs-unrealized-loss,https://www.reddit.com/r/CryptoCurrency/comments/1ti9jxr/south_korean_funeral_company_faces_33m_unrealized/,6,GreedVault,0.88
-1tiobrs,CryptoCurrency,"Trump orders government, Fed to review crypto firms' access to payment rails",,2026-05-20,28,https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails,https://www.reddit.com/r/CryptoCurrency/comments/1tiobrs/trump_orders_government_fed_to_review_crypto/,0,gdscrypto,0.9
-1tixv96,CryptoCurrency,South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF,,2026-05-20,14,https://beincrypto.com/south-korea-funeral-firm-bitmine-etf-loss/,https://www.reddit.com/r/CryptoCurrency/comments/1tixv96/south_korean_funeral_firm_loses_33_million_on/,11,partymsl,0.9
-1tierht,CryptoCurrency,GitHub Internal Repositories Breached via VS Code Extension,,2026-05-20,12,https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories,https://www.reddit.com/r/CryptoCurrency/comments/1tierht/github_internal_repositories_breached_via_vs_code/,1,CrossPuffs,0.93
+good luck sleeping after that",2026-05-20,69,https://i.redd.it/awh6guzokd2h1.jpeg,https://www.reddit.com/r/CryptoCurrency/comments/1tj2hrd/the_binance_android_app_is_a_chinese_surveillance/,9,MahereMarley,0.91,False
+1ti9jxr,CryptoCurrency,South Korean Funeral Company Faces $33M Unrealized Loss on Leveraged Ether ETFs,,2026-05-20,53,https://cointelegraph.com/news/south-korean-funeral-company-customer-funds-eth-etfs-unrealized-loss,https://www.reddit.com/r/CryptoCurrency/comments/1ti9jxr/south_korean_funeral_company_faces_33m_unrealized/,6,GreedVault,0.89,False
+1tiobrs,CryptoCurrency,"Trump orders government, Fed to review crypto firms' access to payment rails",,2026-05-20,30,https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails,https://www.reddit.com/r/CryptoCurrency/comments/1tiobrs/trump_orders_government_fed_to_review_crypto/,0,gdscrypto,0.92,False
+1ticclj,CryptoCurrency,Has Crypto Changed Your Mindset Too?,"Everyone talks about making money in crypto, but nobody talks enough about the mental side of it.
+
+The patience during crashes.  
+The fear of missing out.  
+The regret after selling too early.  
+The stress of checking charts every hour.
+
+At some point, crypto stops being only about profits and starts teaching psychology, discipline, patience, and emotional control.
+
+I honestly feel crypto changes the way people think over time — sometimes for better, sometimes for worse.
+
+Do you think being in crypto has changed your mindset as a person?",2026-05-20,14,https://www.reddit.com/r/CryptoCurrency/comments/1ticclj/has_crypto_changed_your_mindset_too/,https://www.reddit.com/r/CryptoCurrency/comments/1ticclj/has_crypto_changed_your_mindset_too/,39,instantcharge1,0.72,False
+1tixv96,CryptoCurrency,South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF,,2026-05-20,13,https://beincrypto.com/south-korea-funeral-firm-bitmine-etf-loss/,https://www.reddit.com/r/CryptoCurrency/comments/1tixv96/south_korean_funeral_firm_loses_33_million_on/,12,partymsl,0.89,False
+1tierht,CryptoCurrency,GitHub Internal Repositories Breached via VS Code Extension,,2026-05-20,12,https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories,https://www.reddit.com/r/CryptoCurrency/comments/1tierht/github_internal_repositories_breached_via_vs_code/,1,CrossPuffs,0.88,False
+1tij7i1,CryptoCurrency,Aave: Why does the USDC yield spike daily on a specific time?,"If you look at the stable coin supply and borrow APR on Aave, it spikes up on a daily basis without fail. See the screenshot I attached to this post.
+
+Why does this happen?",2026-05-20,9,https://www.reddit.com/gallery/1tij7i1,https://www.reddit.com/r/CryptoCurrency/comments/1tij7i1/aave_why_does_the_usdc_yield_spike_daily_on_a/,4,InteractiveLedger,0.76,False
 1tiore1,CryptoCurrency,Why do emission-based DeFi yields always seem to collapse eventually? Is there a model that actually sustains?,"Every liquidity mining project I have seen eventually collapses. The APY looks great for a few months and then the token falls and the real yield evaporates. Is this just inherent to how emission-based yield works or is there a structural fix?
 
 I have been reading about fee-based real yield protocols like Seasons on Solana that claim to pay yield from actual transaction fees in wBTC and gold rather than in their own token. Does this actually solve the sustainability problem or is it just a different version of the same underlying issue?
 
-",2026-05-20,8,https://www.reddit.com/r/CryptoCurrency/comments/1tiore1/why_do_emissionbased_defi_yields_always_seem_to/,https://www.reddit.com/r/CryptoCurrency/comments/1tiore1/why_do_emissionbased_defi_yields_always_seem_to/,12,puzzled_card18,0.9
-1tij7i1,CryptoCurrency,Aave: Why does the USDC yield spike daily on a specific time?,"If you look at the stable coin supply and borrow APR on Aave, it spikes up on a daily basis without fail. See the screenshot I attached to this post.
-
-Why does this happen?",2026-05-20,7,https://www.reddit.com/gallery/1tij7i1,https://www.reddit.com/r/CryptoCurrency/comments/1tij7i1/aave_why_does_the_usdc_yield_spike_daily_on_a/,4,InteractiveLedger,0.71
+",2026-05-20,8,https://www.reddit.com/r/CryptoCurrency/comments/1tiore1/why_do_emissionbased_defi_yields_always_seem_to/,https://www.reddit.com/r/CryptoCurrency/comments/1tiore1/why_do_emissionbased_defi_yields_always_seem_to/,12,puzzled_card18,0.9,False
 1tiwfq6,CryptoCurrency,What’s the best outcome for bitcoin in the quantum future?,"I’ve been reading into it today and honestly I think it’s very messy whichever way it goes. 
 
 Do nothing and follow the fundamentals —&gt; million of coins with their public addresses (satoshi, other old dormant wallets) get cracked and all hit the market simultaneously. Then safety concerns over the rest of our wallets emerge. 
 
 Hard fork which freezes/burns sleeping coins —&gt; would cause massive controversy over bitcoins core principles. Active wallets would also migrate to quantum safe addresses through a block set deadline. The deadline would probably be years and years long to allow everyone to move. 
 
-I feel like people don’t talk about this enough considering it’s the biggest hurdle bitcoin will have to move past in its history. Anyone else have similar worries or am I just mad?",2026-05-20,6,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,16,Gloomy_Dependent_985,0.67
-1tj24gf,CryptoCurrency,"Daily Crypto Discussion - May 20, 2026 (GMT+0)","**Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+I feel like people don’t talk about this enough considering it’s the biggest hurdle bitcoin will have to move past in its history. Anyone else have similar worries or am I just mad?",2026-05-20,5,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,https://www.reddit.com/r/CryptoCurrency/comments/1tiwfq6/whats_the_best_outcome_for_bitcoin_in_the_quantum/,16,Gloomy_Dependent_985,0.65,False
+1tiigu5,CryptoCurrency,RWA Market Cap Nears October 2025 Levels Again,,2026-05-20,5,https://i.redd.it/gsydz3sez92h1.png,https://www.reddit.com/r/CryptoCurrency/comments/1tiigu5/rwa_market_cap_nears_october_2025_levels_again/,1,True_Bodybuilder8095,0.86,False
+1tj35cx,CryptoCurrency,Una persona que conozco quiere que abra una cuenta electrónica tipo tarjeta visa. Dice que es para cosas de criptos. ¿que no me pasaría nada a mi cuenta bancaria y tarjeta física del banco?.,"Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente.
 
- 
-
-# Disclaimer:
-
-Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known ""pump and dump (PnD) groups"" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here.
-
-**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
-
- 
-
-# Rules:
-
-* All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect.
-* Discussion topics must be related to cryptocurrency.
-* Behave with civility and politeness. Do not use offensive, racist or homophobic language.
-* Comments will be sorted by newest first.
-
- 
-
-# Useful Links:
-
-* [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
-* [**Intro to** **r/Cryptocurrency** **MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
-* [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
-* [**r/CryptoCurrency** **Discord**](https://discord.gg/ZuU9Gqeqmy)
-* [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
-* [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) \- (Link fixed.)
-* [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) \- Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
-
- 
-
-# Finding Other Discussion Threads
-
-Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
-
-* u/CryptoDaily- — Posts the Daily Crypto Discussion threads.
-* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
-* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
-* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.",2026-05-20,5,https://www.reddit.com/r/CryptoCurrency/comments/1tj24gf/daily_crypto_discussion_may_20_2026_gmt0/,https://www.reddit.com/r/CryptoCurrency/comments/1tj24gf/daily_crypto_discussion_may_20_2026_gmt0/,2,AutoModerator,1.0
+Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica ",2026-05-20,0,https://www.reddit.com/r/CryptoCurrency/comments/1tj35cx/una_persona_que_conozco_quiere_que_abra_una/,https://www.reddit.com/r/CryptoCurrency/comments/1tj35cx/una_persona_que_conozco_quiere_que_abra_una/,15,soy1usuri0,0.4,False
 1t7exp6,NFT,Should NFT Projects Own Their Own Marketplace?,"Do creators still need huge NFT marketplaces, or is the next step owning the marketplace directly on their own website?
 
 I’m exploring this idea because many artists, galleries and small Web3 projects already have a website, an audience and a brand, but still send everyone to external platforms to mint, buy, bid or collect.
@@ -107,18 +98,22 @@ Would you trust a WordPress-based, wallet-first NFT marketplace if it supported 
 
 Or do you think NFT trading should stay on major marketplaces only?
 
-Not shilling - genuinely curious how collectors and creators see this.",2026-05-08,1,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,9,disemino,0.54
+Not shilling - genuinely curious how collectors and creators see this.",2026-05-08,2,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/,9,disemino,0.57,False
+1t25fvx,NFT,Green Lion — Power in Perspective,"A stylized low-angle portrait focused on strength, dominance, and presence. Built using layered geometric shapes and bold green tones to create a vibrant, almost surreal look.
+
+Now available as an NFT on OpenSea.  
+Let me know what you think ",2026-05-02,1,https://i.redd.it/beyon68m7tyg1.jpeg,https://www.reddit.com/r/NFT/comments/1t25fvx/green_lion_power_in_perspective/,2,JaradNFTverse,0.57,False
 1tgzlnx,NFT,Is this site legit?,"I just wanna know if this site for NFT’s is legit or a scam 
 
 https://inftspectrum.com
 
-Apparently, you can hold the NFT for 12 hours and you get like 1.5% interest depend, depending on the cost of the NFT",2026-05-18,0,https://www.reddit.com/r/NFT/comments/1tgzlnx/is_this_site_legit/,https://www.reddit.com/r/NFT/comments/1tgzlnx/is_this_site_legit/,4,Cool_Ad153,0.25
-1tejdao,NFT,Why NFT is not used for events tickets?,Just wondering what this is not already an standard in events tickets where there is a massive resale and lots of scams reselling the same ticket.,2026-05-16,0,https://www.reddit.com/r/NFT/comments/1tejdao/why_nft_is_not_used_for_events_tickets/,https://www.reddit.com/r/NFT/comments/1tejdao/why_nft_is_not_used_for_events_tickets/,8,Agile_Cicada_1523,0.29
+Apparently, you can hold the NFT for 12 hours and you get like 1.5% interest depend, depending on the cost of the NFT",2026-05-18,0,https://www.reddit.com/r/NFT/comments/1tgzlnx/is_this_site_legit/,https://www.reddit.com/r/NFT/comments/1tgzlnx/is_this_site_legit/,4,Cool_Ad153,0.25,False
+1tejdao,NFT,Why NFT is not used for events tickets?,Just wondering what this is not already an standard in events tickets where there is a massive resale and lots of scams reselling the same ticket.,2026-05-16,0,https://www.reddit.com/r/NFT/comments/1tejdao/why_nft_is_not_used_for_events_tickets/,https://www.reddit.com/r/NFT/comments/1tejdao/why_nft_is_not_used_for_events_tickets/,8,Agile_Cicada_1523,0.31,False
 1tdb3jo,NFT,Still working,"Did NFt market still working!  
-I have collection since 2022 nd o gave up to work pm cuz i see is not very active market ",2026-05-14,0,https://www.reddit.com/r/NFT/comments/1tdb3jo/still_working/,https://www.reddit.com/r/NFT/comments/1tdb3jo/still_working/,3,No-Match8229,0.5
+I have collection since 2022 nd o gave up to work pm cuz i see is not very active market ",2026-05-14,0,https://www.reddit.com/r/NFT/comments/1tdb3jo/still_working/,https://www.reddit.com/r/NFT/comments/1tdb3jo/still_working/,3,No-Match8229,0.5,False
 1tc603b,NFT,Physical conceptual art tokenized. The object exists. The NFT is the certificate.,"Each piece in this collection starts as a physical sculpture built around an idiom or proverb. The NFT is not the art  it’s the proof that the art exists and that you own the idea behind it.
 
- ",2026-05-13,0,https://i.redd.it/ofw1y0eusx0h1.jpeg,https://www.reddit.com/r/NFT/comments/1tc603b/physical_conceptual_art_tokenized_the_object/,1,NHOMMART,0.5
+ ",2026-05-13,0,https://i.redd.it/ofw1y0eusx0h1.jpeg,https://www.reddit.com/r/NFT/comments/1tc603b/physical_conceptual_art_tokenized_the_object/,1,NHOMMART,0.5,False
 1tbuia9,NFT,Do players actually WANT automation in NFT games?,"I’ve been thinking a lot about “agents” in NFT/Web3 games lately.
 
 Not just simple auto-clickers, but actual in-game agents/managers that can handle repetitive tasks for players:
@@ -142,8 +137,8 @@ Would love to hear examples from games that did this well (or failed badly).
 https://preview.redd.it/mi4yp1yiiv0h1.png?width=715&amp;format=png&amp;auto=webp&amp;s=3d3c0ee9fabf5be08fc66937a782f8c54b67fcd7
 
   
-",2026-05-13,0,https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/,https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/,17,ConferenceParking417,0.31
-1tbw9yn,NFT,ELON - SMOKING ON MARS,"""ELON - SMOKING ON MARS"" Pure vibes on the red planet.",2026-05-13,0,https://i.redd.it/emugghdlzv0h1.jpeg,https://www.reddit.com/r/NFT/comments/1tbw9yn/elon_smoking_on_mars/,2,Trazzi_,0.24
+",2026-05-13,0,https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/,https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/,17,ConferenceParking417,0.29,False
+1tbw9yn,NFT,ELON - SMOKING ON MARS,"""ELON - SMOKING ON MARS"" Pure vibes on the red planet.",2026-05-13,0,https://i.redd.it/emugghdlzv0h1.jpeg,https://www.reddit.com/r/NFT/comments/1tbw9yn/elon_smoking_on_mars/,2,Trazzi_,0.25,False
 1t95jpi,NFT,First metrics of the game,"So this is part two after a week since launch. So the first thing is that now I understand how hard is to get a user. I can barely make +10 users per day, although I use only telegram channel to do so.
 
 https://preview.redd.it/zxtkiue4ya0h1.png?width=2792&amp;format=png&amp;auto=webp&amp;s=6d03904da6a4d8ac0feef9328d75968e58129eb8
@@ -154,16 +149,16 @@ So far there are 11 users who made real payments via Telegram Stars(turns out th
 
   
 So guys, any ideas how to promote telegram game without target advertising?   
-24% of users are invited by their friends so far which is also not bad as I can suggest but I want to have thousand and millions of players ",2026-05-10,0,https://www.reddit.com/r/NFT/comments/1t95jpi/first_metrics_of_the_game/,https://www.reddit.com/r/NFT/comments/1t95jpi/first_metrics_of_the_game/,2,ConferenceParking417,0.5
+24% of users are invited by their friends so far which is also not bad as I can suggest but I want to have thousand and millions of players ",2026-05-10,0,https://www.reddit.com/r/NFT/comments/1t95jpi/first_metrics_of_the_game/,https://www.reddit.com/r/NFT/comments/1t95jpi/first_metrics_of_the_game/,2,ConferenceParking417,0.5,False
 1t7tmeo,NFT,NFTs with Evolving Artwork – The Next Level or Just Hype?,"I’ve been deep in the NFT space and I’m fascinated by projects where the art actually changes over time. Not just static PFPs, but pieces that evolve based on time, holder actions, external events, or on-chain mechanics.  
 Think Chromie Squiggles (some have dynamic traits), or projects like Evolving Apes, Timepieces, and generative experiments where the artwork “ages,” unlocks new layers, or reacts to real-world data. Some use smart contracts to gradually reveal new visuals or mutate based on community votes.  
 The upside is incredible ownership utility and replay value – your NFT literally grows with you. It feels alive instead of a JPEG sitting in your wallet. But it also raises questions: Does constant evolution dilute scarcity? How do you value something that won’t look the same in 6 months?  
-What are your favorite evolving NFT projects right now?",2026-05-09,0,https://www.reddit.com/r/NFT/comments/1t7tmeo/nfts_with_evolving_artwork_the_next_level_or_just/,https://www.reddit.com/r/NFT/comments/1t7tmeo/nfts_with_evolving_artwork_the_next_level_or_just/,7,Master-Care4651,0.38
+What are your favorite evolving NFT projects right now?",2026-05-09,0,https://www.reddit.com/r/NFT/comments/1t7tmeo/nfts_with_evolving_artwork_the_next_level_or_just/,https://www.reddit.com/r/NFT/comments/1t7tmeo/nfts_with_evolving_artwork_the_next_level_or_just/,7,Master-Care4651,0.36,False
 1t5paav,NFT,Void Vessel x,"This NFTs presents the emotions that I express when I want to do things for myself.
 
 And I couldn’t, so, I feel like I’m holding back my feelings into a vessel and it becomes awkward and mutilated.
 
-So please tell me what you think about it.",2026-05-06,0,https://i.redd.it/gcv15svvwkzg1.jpeg,https://www.reddit.com/r/NFT/comments/1t5paav/void_vessel_x/,10,ResponsibleStable736,0.42
+So please tell me what you think about it.",2026-05-06,0,https://i.redd.it/gcv15svvwkzg1.jpeg,https://www.reddit.com/r/NFT/comments/1t5paav/void_vessel_x/,10,ResponsibleStable736,0.42,False
 1t59mq9,NFT,Are NFTs actually coming back… or is this just another short cycle?,"I’ve been seeing more NFT-related art and conversations popping up again, which made me think about where things are heading.
 
 Back in 2021–2022, the space exploded, prices went crazy, hype was everywhere, and then things cooled down just as fast. Now it feels like there’s a quieter return, maybe more focused on art and long-term value rather than speculation.
@@ -171,34 +166,65 @@ Back in 2021–2022, the space exploded, prices went crazy, hype was everywhere,
 Do you think NFTs are actually making a sustainable comeback this time?  
 Or is this just another temporary wave before things fade again?
 
-Curious to hear different perspectives, especially from those who stayed active through the downturn.",2026-05-06,0,https://i.redd.it/3ohj1vco1izg1.png,https://www.reddit.com/r/NFT/comments/1t59mq9/are_nfts_actually_coming_back_or_is_this_just/,13,JaradNFTverse,0.29
+Curious to hear different perspectives, especially from those who stayed active through the downturn.",2026-05-06,0,https://i.redd.it/3ohj1vco1izg1.png,https://www.reddit.com/r/NFT/comments/1t59mq9/are_nfts_actually_coming_back_or_is_this_just/,13,JaradNFTverse,0.29,False
 1t3wvdt,NFT,New piece from my upcoming collection,"This artwork is part of my upcoming NFT release, exploring identity, energy, and bold expression through contrast and texture.
 
 More news coming soon on OpenSea.
 
-What do you think about it?",2026-05-04,0,https://i.redd.it/f7ghdx8t47zg1.jpeg,https://www.reddit.com/r/NFT/comments/1t3wvdt/new_piece_from_my_upcoming_collection/,5,JaradNFTverse,0.2
-1tidf9m,defi,Where to buy XMR/Monero in the US?,Trying to pick up some XMR using BTC or USDC but most major exchanges don't carry it anymore. Anyone in the US found a reliable way to do this? Decent rates and no massive hoops to jump through would be ideal.,2026-05-20,20,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,13,parkersr1,1.0
-1tidzsg,defi,Cheapest way to move USDC from Solana to Ethereum?,"Tried three different bridges last week for moving USDC from Solana to Ethereum. Best quote was $993 per $1000, worst was $971. That is a $22 difference per thousand just from picking the wrong bridge, on a stablecoin transfer.
+What do you think about it?",2026-05-04,0,https://i.redd.it/f7ghdx8t47zg1.jpeg,https://www.reddit.com/r/NFT/comments/1t3wvdt/new_piece_from_my_upcoming_collection/,5,JaradNFTverse,0.18,False
+1t3fmv0,NFT,Megaone-Supertars,"Introducing “Megaone” a vibrant explosion of color, identity, and attitude.
 
-What are people actually using for this route to make sure they are getting a fair rate?",2026-05-20,15,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,18,1w1lle4t2corndogs,0.94
+
+
+This piece represents the power of individual expression through a bold and chaotic style, where every detail conveys energy and authenticity.
+
+
+
+Unique, intense, and impossible to ignore.
+
+
+
+And the best part… it’s already listed on OpenSea. 🚀
+
+
+
+This piece is straight LIT ✨",2026-05-04,0,https://www.reddit.com/gallery/1t3fmv0,https://www.reddit.com/r/NFT/comments/1t3fmv0/megaonesupertars/,6,JaradNFTverse,0.37,False
+1sztep5,NFT,Survey on fraud in the NFT,"Hello, I'm doing a **survey** for my **thesis 📄** on fraud on the NFT market. 
+
+I really need more respondant so **please** 🥺 save my thesis and **answer** the survey.
+
+It is 100% anonymous and take only 10 min.
+
+
+
+The link is in the comments.
+
+Thnks 😄 
+
+",2026-04-30,0,https://www.reddit.com/r/NFT/comments/1sztep5/survey_on_fraud_in_the_nft/,https://www.reddit.com/r/NFT/comments/1sztep5/survey_on_fraud_in_the_nft/,25,ArthurL0416,0.43,False
+1tidf9m,defi,Where to buy XMR/Monero in the US?,Trying to pick up some XMR using BTC or USDC but most major exchanges don't carry it anymore. Anyone in the US found a reliable way to do this? Decent rates and no massive hoops to jump through would be ideal.,2026-05-20,19,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,https://www.reddit.com/r/defi/comments/1tidf9m/where_to_buy_xmrmonero_in_the_us/,13,parkersr1,0.96,False
 1tidqus,defi,DEX that supports native BTC?,"Every DEX I've tried either doesn't support BTC at all or quietly wraps it behind the scenes through a custodian. Just want to move it directly from my own wallet without trusting anyone else with it.
 
-Does something like this actually exist or is it still not possible?",2026-05-20,15,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,3,Unlikely_Poem307,1.0
-1gthc7a,defi,Weekly DeFi discussion. What are your moves for this week?,What are you building or looking to take a position in? Let us know in the comments!,2024-11-17,11,https://www.reddit.com/r/defi/comments/1gthc7a/weekly_defi_discussion_what_are_your_moves_for/,https://www.reddit.com/r/defi/comments/1gthc7a/weekly_defi_discussion_what_are_your_moves_for/,61,Oddsnotinyourfavor,0.84
+Does something like this actually exist or is it still not possible?",2026-05-20,16,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,https://www.reddit.com/r/defi/comments/1tidqus/dex_that_supports_native_btc/,3,Unlikely_Poem307,1.0,False
+1tidzsg,defi,Cheapest way to move USDC from Solana to Ethereum?,"Tried three different bridges last week for moving USDC from Solana to Ethereum. Best quote was $993 per $1000, worst was $971. That is a $22 difference per thousand just from picking the wrong bridge, on a stablecoin transfer.
+
+What are people actually using for this route to make sure they are getting a fair rate?",2026-05-20,14,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,https://www.reddit.com/r/defi/comments/1tidzsg/cheapest_way_to_move_usdc_from_solana_to_ethereum/,18,1w1lle4t2corndogs,0.9,False
+1tie6f6,defi,Where to swap ZEC to XMR without KYC?,"Hi! I’m trying to exchange some Zcash ZEC for Monero XMR and I want to do it in a private way with low fees. Most exchanges I’ve checked either don’t support both coins or require full KYC before trading. I’m looking for something simple, reliable, and preferably non custodial.
+
+If anyone has experience doing this or knows a good platform, I’d really appreciate the recommendation. Thanks.",2026-05-20,14,https://www.reddit.com/r/defi/comments/1tie6f6/where_to_swap_zec_to_xmr_without_kyc/,https://www.reddit.com/r/defi/comments/1tie6f6/where_to_swap_zec_to_xmr_without_kyc/,7,D4rkkn1ght8e81,1.0,False
+1tifosy,defi,Best Solana wallet for DeFi,"been using Phantom but not sure its the best option for swapping, heard a few others mentioned recently
+
+curious what people are actually using day to day",2026-05-20,12,https://www.reddit.com/r/defi/comments/1tifosy/best_solana_wallet_for_defi/,https://www.reddit.com/r/defi/comments/1tifosy/best_solana_wallet_for_defi/,8,Accomplished_Gap1870,0.92,False
 1tign1k,defi,Best swap aggregator for ETH,"been using Uniswap by default, tested a couple others and the output was consistently better
 
-not sure why i never questioned it before",2026-05-20,10,https://www.reddit.com/r/defi/comments/1tign1k/best_swap_aggregator_for_eth/,https://www.reddit.com/r/defi/comments/1tign1k/best_swap_aggregator_for_eth/,8,Lumpy_Lychee3885,1.0
+not sure why i never questioned it before",2026-05-20,10,https://www.reddit.com/r/defi/comments/1tign1k/best_swap_aggregator_for_eth/,https://www.reddit.com/r/defi/comments/1tign1k/best_swap_aggregator_for_eth/,8,Lumpy_Lychee3885,1.0,False
 1titoja,defi,Are people finally taking blind signing seriously now?,"Feels like the conversation around wallet security changed massively over the past few weeks.
 
 A year ago whenever someone brought up blind signing it felt like this niche security rabbit hole only paranoid people cared about. Now after all the recent exploits and the Ethereum Foundation security discussions, suddenly everyone’s realizing that having a hardware wallet doesn’t automatically mean you understand what you’re approving.
 
 That’s the part that’s been bothering me lately. Most of us are still relying on the browser interface to interpret transactions for us, while the actual device often just confirms some unreadable payload.
 
-At this point I’m wondering what setups you actually trust for daily DeFi use now, because after going deeper into blind signing I can’t unsee how sketchy a lot of the current flows still are.",2026-05-20,7,https://www.reddit.com/r/defi/comments/1titoja/are_people_finally_taking_blind_signing_seriously/,https://www.reddit.com/r/defi/comments/1titoja/are_people_finally_taking_blind_signing_seriously/,5,CommercialTerrible59,1.0
-1tiks8p,defi,My uniswap v3 positions barely make anything anymore,"I mostly provide liquidity on stable pairs because i don’t like the risk associated with volatile pairs and i just don’t like taking such risks with my money anyways. But  the returns i get have been a lot disappointing lately. Coupled with all the work of repositioning and moving ranges around and the fees, it’s like i’m doing all these work for barely anything back sometimes. Is it that i’m picking bad pools or is this normal with uniswap v3 or what
-
-",2026-05-20,7,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,25,Salt-Client-4251,1.0
-1fxj3zr,defi,Weekly DeFi discussion. What are your moves for this week?,What are you building or looking to take a position in? Let us know in the comments!,2024-10-06,5,https://www.reddit.com/r/defi/comments/1fxj3zr/weekly_defi_discussion_what_are_your_moves_for/,https://www.reddit.com/r/defi/comments/1fxj3zr/weekly_defi_discussion_what_are_your_moves_for/,38,Oddsnotinyourfavor,1.0
+At this point I’m wondering what setups you actually trust for daily DeFi use now, because after going deeper into blind signing I can’t unsee how sketchy a lot of the current flows still are.",2026-05-20,7,https://www.reddit.com/r/defi/comments/1titoja/are_people_finally_taking_blind_signing_seriously/,https://www.reddit.com/r/defi/comments/1titoja/are_people_finally_taking_blind_signing_seriously/,5,CommercialTerrible59,1.0,False
 1tiwul0,defi,"""Slippage tolerance in DeFi. What setting 0.5% actually means and when you should change it.""","Slippage tolerance is one of those settings everyone uses but few people think carefully about. Here's what it actually means:
 
 What it is:  The maximum acceptable deviation from the quoted rate you're willing to accept for a transaction to execute. If you set 0.5%, you're saying ""execute this trade as long as I receive at least 99.5% of the quoted amount.""
@@ -215,7 +241,10 @@ The reason this matters less on platforms with private routing (like RocketX): i
 
 Default slippage on most interfaces is 0.5%. That's usually fine, but understanding what it means helps you know when to adjust it.
 
-",2026-05-20,5,https://www.reddit.com/r/defi/comments/1tiwul0/slippage_tolerance_in_defi_what_setting_05/,https://www.reddit.com/r/defi/comments/1tiwul0/slippage_tolerance_in_defi_what_setting_05/,3,EvilzShadow52,1.0
+",2026-05-20,5,https://www.reddit.com/r/defi/comments/1tiwul0/slippage_tolerance_in_defi_what_setting_05/,https://www.reddit.com/r/defi/comments/1tiwul0/slippage_tolerance_in_defi_what_setting_05/,3,EvilzShadow52,1.0,False
+1tiks8p,defi,My uniswap v3 positions barely make anything anymore,"I mostly provide liquidity on stable pairs because i don’t like the risk associated with volatile pairs and i just don’t like taking such risks with my money anyways. But  the returns i get have been a lot disappointing lately. Coupled with all the work of repositioning and moving ranges around and the fees, it’s like i’m doing all these work for barely anything back sometimes. Is it that i’m picking bad pools or is this normal with uniswap v3 or what
+
+",2026-05-20,5,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,https://www.reddit.com/r/defi/comments/1tiks8p/my_uniswap_v3_positions_barely_make_anything/,25,Salt-Client-4251,0.86,False
 1tiyfhv,defi,After celsius i spent 2 years rebuilding how i think about yield. some thoughts.,"posted here a bit before but want to revisit since people in dms keep asking about my ""framework"". it's not really a framework, more like a list of things i wish i'd thought about in 2021.quick context. had a meaningful stack on celsius.   
   
 got something back through the bankruptcy process eventually but it was a multi-year slog and i don't want to relive it. since then i've been pretty selective about where stables sit.the biggest thing wasn't a checklist, it was a vibe shift. i used to think ""audited + popular = ok"". 
@@ -233,7 +262,7 @@ they have certik and cyberscope audits published which is the floor for me these
   
 goldfinch tried this category without that kind of off-chain track record and didn't end well in 2023.still smaller than my aave allocation by a lot. not because i think 8lends is worse, but because the risk profile is different and i'm still learning what i actually need to monitor on it.mostly posting because i'm tired of ""should i put my savings in (random custodial yield product)"" dms. read what happened to celsius users. read the goldfinch postmortems. 
 
-then decide for yourself.",2026-05-20,3,https://www.reddit.com/r/defi/comments/1tiyfhv/after_celsius_i_spent_2_years_rebuilding_how_i/,https://www.reddit.com/r/defi/comments/1tiyfhv/after_celsius_i_spent_2_years_rebuilding_how_i/,2,Crazywar17,1.0
+then decide for yourself.",2026-05-20,3,https://www.reddit.com/r/defi/comments/1tiyfhv/after_celsius_i_spent_2_years_rebuilding_how_i/,https://www.reddit.com/r/defi/comments/1tiyfhv/after_celsius_i_spent_2_years_rebuilding_how_i/,2,Crazywar17,1.0,False
 1tim5jb,defi,Alertio — Built a DeFi risk monitoring tool because I got tired of constantly checking dashboards (looking for feedback),"Like a lot of people here, I found myself checking dashboards way too often just to answer questions like:
 
 * Is my position still healthy? 
@@ -281,7 +310,18 @@ Risks / limitations:
 
 Would genuinely love feedback from DeFi users:
 
-What risk signal would actually make this useful for you?",2026-05-20,3,https://www.reddit.com/r/defi/comments/1tim5jb/alertio_built_a_defi_risk_monitoring_tool_because/,https://www.reddit.com/r/defi/comments/1tim5jb/alertio_built_a_defi_risk_monitoring_tool_because/,26,Altruistic_Map1060,0.81
+What risk signal would actually make this useful for you?",2026-05-20,3,https://www.reddit.com/r/defi/comments/1tim5jb/alertio_built_a_defi_risk_monitoring_tool_because/,https://www.reddit.com/r/defi/comments/1tim5jb/alertio_built_a_defi_risk_monitoring_tool_because/,26,Altruistic_Map1060,0.81,False
+1tijzdp,defi,Looking for feedback – Perps with no liquidation,"Think of ""perps,"" but – 
+
+* No liquidations
+* No funding rate
+* Only 2x leverage, though
+
+1. Would you consider buying it?
+2. What questions would you have before trying it?
+
+Thanks folks!",2026-05-20,3,https://www.reddit.com/r/defi/comments/1tijzdp/looking_for_feedback_perps_with_no_liquidation/,https://www.reddit.com/r/defi/comments/1tijzdp/looking_for_feedback_perps_with_no_liquidation/,20,poudelswaroop,1.0,False
+1tig1u7,defi,What's your favorite stablecoin yield strategy right now?,Looking for a reliable way to stay on top of health factors without being glued to the screen,2026-05-20,3,https://www.reddit.com/r/defi/comments/1tig1u7/whats_your_favorite_stablecoin_yield_strategy/,https://www.reddit.com/r/defi/comments/1tig1u7/whats_your_favorite_stablecoin_yield_strategy/,7,dyloum84,1.0,False
 1tj3sd5,defi,Your aggregate DeFi risk across chains is invisible to you right now. Here's what that actually means during a cascade.,"Following up on a discussion post I made a few weeks ago about why $150B in liquidations happened in 2025. Want to go deeper on exactly what that means in practice.
 
 The specific problem: you don't know your real health factor.
@@ -334,172 +374,37 @@ Three things need to exist simultaneously:
 
 The third one is the hardest. Flash loan deleveraging works and is the right mechanism, but automating it cross-chain at the exact moment of peak gas and maximum slippage is the unsolved distribution problem.
 
-Wonder whether anyone here has actually used anything that gets close to point 1, genuine aggregate cross-chain position tracking. Everything I've found either covers one chain well or aggregates poorly.",2026-05-21,1,https://www.reddit.com/r/defi/comments/1tj3sd5/your_aggregate_defi_risk_across_chains_is/,https://www.reddit.com/r/defi/comments/1tj3sd5/your_aggregate_defi_risk_across_chains_is/,1,Jaded_Solid_1948,1.0
-1tgciuc,ethereum,"Daily General Discussion May 18, 2026","**Welcome to the Daily General Discussion on** r/ethereum
+Wonder whether anyone here has actually used anything that gets close to point 1, genuine aggregate cross-chain position tracking. Everything I've found either covers one chain well or aggregates poorly.",2026-05-21,1,https://www.reddit.com/r/defi/comments/1tj3sd5/your_aggregate_defi_risk_across_chains_is/,https://www.reddit.com/r/defi/comments/1tj3sd5/your_aggregate_defi_risk_across_chains_is/,1,Jaded_Solid_1948,1.0,False
+1tip487,defi,Any low fee Mainnet to Base dex?,"I've been struggling to find a proper way to convert ETH from Mainnet to Base without getting a ton of fees on each transaction.
 
+Any recommendations would be appreciated, thanks!
 
+Edit, solved : [XBridge](https://xbridge.space/)",2026-05-20,1,https://www.reddit.com/r/defi/comments/1tip487/any_low_fee_mainnet_to_base_dex/,https://www.reddit.com/r/defi/comments/1tip487/any_low_fee_mainnet_to_base_dex/,2,GoddamnFelicia,1.0,False
+1tbzzvi,ethereum,I cracked Vitalik’s 2015 on-chain ad platform. He was the only bidder. Total cost: $2.,"Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin.
 
-[https://imgur.com/3y7vezP](https://imgur.com/3y7vezP)
+I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts.
 
+The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today.
 
+Some details:  
+Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator.
 
-Bookmarking this link will always bring you to the current daily:  [https://old.reddit.com/r/ethereum/about/sticky/?num=2](https://old.reddit.com/r/ethereum/about/sticky/?num=2)
+Gas cost more than the bids. Vitalik burned \~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2.
 
+Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding.  
+Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math.
 
+The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code.
 
-Please use this thread to discuss Ethereum topics, news, events, and even *price*!
+0.029 ETH (\~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids.  
+This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years.
 
+I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived.
 
+Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e
 
-Price discussion posted elsewhere in the subreddit will **continue to be removed.**
-
-
-
-As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/)
-
-
-
-Want to stake?  Learn more at r/ethstaker
-
-
-
-**Community Links**
-
-
-
-* [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum)
-
-* [EVMavericks YouTube](https://www.youtube.com/@evmavericks),  [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/)
-
-* [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu
-
-
-
-Calendar:  [https://dailydoots.com/events/](https://dailydoots.com/events/)",2026-05-18,127,https://www.reddit.com/r/ethereum/comments/1tgciuc/daily_general_discussion_may_18_2026/,https://www.reddit.com/r/ethereum/comments/1tgciuc/daily_general_discussion_may_18_2026/,211,EthereumDailyThread,0.98
-1thcqp2,ethereum,"Daily General Discussion May 19, 2026","**Welcome to the Daily General Discussion on** r/ethereum
-
-
-
-[https://imgur.com/3y7vezP](https://imgur.com/3y7vezP)
-
-
-
-Bookmarking this link will always bring you to the current daily:  [https://old.reddit.com/r/ethereum/about/sticky/?num=2](https://old.reddit.com/r/ethereum/about/sticky/?num=2)
-
-
-
-Please use this thread to discuss Ethereum topics, news, events, and even *price*!
-
-
-
-Price discussion posted elsewhere in the subreddit will **continue to be removed.**
-
-
-
-As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/)
-
-
-
-Want to stake?  Learn more at r/ethstaker
-
-
-
-**Community Links**
-
-
-
-* [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum)
-
-* [EVMavericks YouTube](https://www.youtube.com/@evmavericks),  [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/)
-
-* [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu
-
-
-
-Calendar:  [https://dailydoots.com/events/](https://dailydoots.com/events/)",2026-05-19,124,https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/,https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/,45,EthereumDailyThread,1.0
-1tibkz7,ethereum,"Daily General Discussion May 20, 2026","**Welcome to the Daily General Discussion on** r/ethereum
-
-
-
-[https://imgur.com/3y7vezP](https://imgur.com/3y7vezP)
-
-
-
-Bookmarking this link will always bring you to the current daily:  [https://old.reddit.com/r/ethereum/about/sticky/?num=2](https://old.reddit.com/r/ethereum/about/sticky/?num=2)
-
-
-
-Please use this thread to discuss Ethereum topics, news, events, and even *price*!
-
-
-
-Price discussion posted elsewhere in the subreddit will **continue to be removed.**
-
-
-
-As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/)
-
-
-
-Want to stake?  Learn more at r/ethstaker
-
-
-
-**Community Links**
-
-
-
-* [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum)
-
-* [EVMavericks YouTube](https://www.youtube.com/@evmavericks),  [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/)
-
-* [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu
-
-
-
-Calendar:  [https://dailydoots.com/events/](https://dailydoots.com/events/)",2026-05-20,105,https://www.reddit.com/r/ethereum/comments/1tibkz7/daily_general_discussion_may_20_2026/,https://www.reddit.com/r/ethereum/comments/1tibkz7/daily_general_discussion_may_20_2026/,99,EthereumDailyThread,1.0
-1tffsqu,ethereum,"Daily General Discussion May 17, 2026","**Welcome to the Daily General Discussion on** r/ethereum
-
-
-
-[https://imgur.com/3y7vezP](https://imgur.com/3y7vezP)
-
-
-
-Bookmarking this link will always bring you to the current daily:  [https://old.reddit.com/r/ethereum/about/sticky/?num=2](https://old.reddit.com/r/ethereum/about/sticky/?num=2)
-
-
-
-Please use this thread to discuss Ethereum topics, news, events, and even *price*!
-
-
-
-Price discussion posted elsewhere in the subreddit will **continue to be removed.**
-
-
-
-As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/)
-
-
-
-Want to stake?  Learn more at r/ethstaker
-
-
-
-**Community Links**
-
-
-
-* [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum)
-
-* [EVMavericks YouTube](https://www.youtube.com/@evmavericks),  [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/)
-
-* [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu
-
-
-
-Calendar:  [https://dailydoots.com/events/](https://dailydoots.com/events/)",2026-05-17,103,https://www.reddit.com/r/ethereum/comments/1tffsqu/daily_general_discussion_may_17_2026/,https://www.reddit.com/r/ethereum/comments/1tffsqu/daily_general_discussion_may_17_2026/,81,EthereumDailyThread,1.0
-1th3gq8,ethereum,The SEC Is About to Allow Tokenized Stocks on Blockchain,,2026-05-18,85,https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/,https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/,24,zakoal,0.97
+This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.",2026-05-13,148,https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e,https://www.reddit.com/r/ethereum/comments/1tbzzvi/i_cracked_vitaliks_2015_onchain_ad_platform_he/,6,gorewndis,0.95,False
+1th3gq8,ethereum,The SEC Is About to Allow Tokenized Stocks on Blockchain,,2026-05-18,85,https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/,https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/,24,zakoal,0.97,False
 1tgodmq,ethereum,Vitalik’s AI + formal verification take feels bigger than another “AI in crypto” headline,"Vitalik’s point here is pretty interesting imo.
 
 The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money.
@@ -508,16 +413,43 @@ That matters a lot for Ethereum because smart contract bugs are not normal softw
 
 Article: [https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/](https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/?utm_source=chatgpt.com)
 
-I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?",2026-05-18,49,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,10,Enough_Angle_7839,0.96
-1tim0be,ethereum,The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before,,2026-05-20,35,https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/,https://www.reddit.com/r/ethereum/comments/1tim0be/the_fed_has_120_days_to_explain_why_crypto_cant/,2,zakoal,0.93
+I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?",2026-05-18,48,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/,10,Enough_Angle_7839,0.95,False
+1tcu2m4,ethereum,$770 million stolen in defi this year. 40+ protocols shut down. bridges are the common denominator and nobody is fixing the actual problem.,"the numbers from 2026 so far are genuinely scary:
+
+* kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them
+* drift protocol: $285M. north korean hackers spent 6 months social engineering their way in
+* 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door
+* april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history
+
+40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched.
+
+the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream.
+
+what bugs me is the response is always the same. ""we need better audits."" ""we need better monitoring."" nobody is questioning whether the bridge model itself is fundamentally broken.
+
+bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate.
+
+the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof.
+
+DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem.
+
+at what point do we stop patching bridges and start replacing them?",2026-05-14,43,https://www.reddit.com/r/ethereum/comments/1tcu2m4/770_million_stolen_in_defi_this_year_40_protocols/,https://www.reddit.com/r/ethereum/comments/1tcu2m4/770_million_stolen_in_defi_this_year_40_protocols/,27,ginete_tech,0.84,False
+1tf06ed,ethereum,Instant way to Unstake stETH?,"I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT
+
+Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating",2026-05-16,42,https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/,https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/,18,JestonT,0.87,False
+1tim0be,ethereum,The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before,,2026-05-20,40,https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/,https://www.reddit.com/r/ethereum/comments/1tim0be/the_fed_has_120_days_to_explain_why_crypto_cant/,2,zakoal,0.98,False
 1titnxf,ethereum,The Ethereum Foundation security discussions this week made me rethink my wallet setup,"Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated.
 
 I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important.
 
 Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols.
 
-Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.",2026-05-20,25,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,17,Relative-Coach-501,0.88
-1r8pk7s,ethereum,Glamsterdam Gas Repricing: share your feedback in the stakeholder survey,,2026-02-19,20,https://gasrepricing.com/,https://www.reddit.com/r/ethereum/comments/1r8pk7s/glamsterdam_gas_repricing_share_your_feedback_in/,10,abcoathup,0.9
+Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.",2026-05-20,26,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/,17,Relative-Coach-501,0.91,False
+1tdr5oj,ethereum,"put $2.5k into a mid-cap through a dex and walked away $180 short, what went wrong?","swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I
+
+s this expected at this size or did I mess something up?
+
+EDIT: looked into fixed-rate options after this thread, SimpleSwap has one. you lock in the rate before sending, so pool movements between quote and execution don't affect you. would have saved me the headache here.",2026-05-15,22,https://www.reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/,https://www.reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/,28,NickoGermish,0.84,False
 1tioe3q,ethereum,meet the hardware wallet that looks like a game boy and possesses the ethos of a seasoned self-sovereign vet,"the keycard shell understood the assignment.
 
 because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise.
@@ -543,316 +475,59 @@ what's r/ethereum's thoughts? can you get behind this clunker aesthetically for 
 
 —————
 
-if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!",2026-05-20,18,https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/,https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/,8,haochizzle,0.87
-1tgm700,ethereum,"I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance &amp; wallet blacklist checker",,2026-05-18,8,/r/ethdev/comments/1tgm6pr/i_built_a_stablecoin_technical_reference_contract/,https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/,1,jimbobbins,1.0
-1tirbet,ethereum,148 - Justin from Besu + Luis from Shutter - Encrypt The Mempool,,2026-05-20,5,https://youtu.be/RlOUkKDoRoQ,https://www.reddit.com/r/ethereum/comments/1tirbet/148_justin_from_besu_luis_from_shutter_encrypt/,0,jtnichol,0.86
-1jmghap,solana,Welcome to /r/Solana - Read This To Get Started,"# "" Hello World ""
+if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!",2026-05-20,18,https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/,https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/,8,haochizzle,0.87,False
+1tdy4x1,ethereum,"Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan",,2026-05-15,18,https://ethereal.news/ethereal-news-weekly-23/,https://www.reddit.com/r/ethereum/comments/1tdy4x1/ethereal_news_weekly_23_clear_signing_clarity_act/,2,abcoathup,0.85,False
+1tfq5kj,ethereum,Build projects or learn Uniswap v4 ??,"Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet.
 
-Welcome To r/solana \- Please Read This To Get Started
+I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects..
 
-# ❗️ Disclaimer ❗️
+So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps..
 
-\- This subreddit is used for informational purposes only.
+Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap..
 
-\- Applicable laws vary by jurisdiction and may limit or prohibit you from accessing or using various platforms or products discussed in this subreddit.
+Thanks in advance...",2026-05-17,11,https://www.reddit.com/r/ethereum/comments/1tfq5kj/build_projects_or_learn_uniswap_v4/,https://www.reddit.com/r/ethereum/comments/1tfq5kj/build_projects_or_learn_uniswap_v4/,9,Syed_Abdullah_,1.0,False
+1tgm700,ethereum,"I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance &amp; wallet blacklist checker",,2026-05-18,8,/r/ethdev/comments/1tgm6pr/i_built_a_stablecoin_technical_reference_contract/,https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/,1,jimbobbins,1.0,False
+1tepe86,ethereum,"Architectural Breakdown: EVM Events, Transaction Receipts, and RPC Log Filtering","Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing.
 
-\- Discussion of any project or product ≠ endorsement.
+Under the hood, an emitted event is partitioned into `topics` and `data`:
 
-# ⛔️Safety is A Priority In This Subreddit To Protect Solana Community:
+**Topics are the search keys:** Capped at 4 topics per log. `Topic[0]` is always the `keccak256` hash of the event signature (e.g., `Transfer(address,address,uint256)`). `Topic[1]` through `Topic[3]` are your `indexed` parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient `eth_getLogs` queries over millions of blocks without reading the full log payload.
 
-**Do Not Download Random Browser Extensions** you have no idea where they come from or who built them, the risks are too high it's malicious and will drain or compromise your crypto wallet security. This thread below is an example of how **RISKY** a browser extension can be:
+**Data (The Blob):** All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side.
 
-[https://www.reddit.com/r/solana/comments/1ewcf4c/urgent\_malicious\_extension\_targeting\_solana\_reddit/](https://www.reddit.com/r/solana/comments/1ewcf4c/urgent_malicious_extension_targeting_solana_reddit/)
+When querying an RPC provider via `eth_getLogs`, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment.
 
-⚠️ **Solana Subreddit Posting RULES** ⚠️
+Source/Full Breakdown:[https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built](https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built)
 
-The Solana Subreddit Does Not Tolerate🪓The Below Mentioned Behavior:
-
-\- Spam / Promotional Content: This includes mentioning Telegram groups, channels, Discord servers, memecoins, websites, dApps, other subreddits ... If you built something on Solana, that's so great, but please keep the promotional part outside this subreddit.
-
-\- Baseless Claims
-
-\- Misleading Distortion Of Facts Or News
-
-\- Duplicate Posting
-
-\- Targeted Harassment
-
-\- Personal Attacks
-
-\- Swearing
-
-\- Slander
-
-💡 **What Is Solana?**
-
-Solana is a fast, secure and censorship-resistant blockchain providing the open infrastructure required for global adoption.
-
-Say goodbye to high fees and slow confirmations.
-
-Solana is built for speed, without trade-offs.
-
-🤓☝️ **The Basics On All Things Solana And Web3:**
-
-[https://solana.com/learn/blockchain-basics](https://solana.com/learn/blockchain-basics)
-
-🤔 **How Solana Works - An Executive Overview Of The Solana Protocol:**
-
-[https://www.helius.dev/blog/solana-executive-overview](https://www.helius.dev/blog/solana-executive-overview)
-
-💥 **Solana Foundation:**
-
-The Solana Foundation Is A Non-profit Foundation Based In Zug, Switzerland, Dedicated To The Decentralization, Adoption, And Security Of The Solana Ecosystem.
-
-💥 **Solana Labs** ([https://solanalabs.com](https://solanalabs.com))**:**
-
-Solana Labs Builds Products and Tools That Can Be Used On The Solana Blockchain.
-
-💥 **Anza (**[**https://www.anza.xyz**](https://www.anza.xyz)**):**
-
-Anza is the leading Solana-focused software development firm, building resilient, elegant, and impactful protocols.
-
-💥**Solana Ecosystem (**[**https://www.solanaecosystem.com**](https://www.solanaecosystem.com)**):**
-
-You're a developer &amp; want to expose your project to Solana ecosystem users, great, submit it there. It's also a great place to explore the Solana ecosystem &amp; discover powerful tools and integrations from companies around the world.
-
-🌎 **Solana Official / Relevant Links:**
-
-\- Website: [https://solana.com](https://solana.com)
-
-\- News: [https://solana.com/news](https://solana.com/news)
-
-\- Newsletter: [https://solana.com/newsletter](https://solana.com/newsletter)
-
-\- Whitepaper: [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)
-
-\- X (Twitter): [https://twitter.com/solana](https://twitter.com/solana)
-
-\- Instagram: [https://www.instagram.com/solana](https://www.instagram.com/solana)
-
-\- Telegram: [https://t.me/solana](https://t.me/solana)
-
-\- TikTok: [https://www.tiktok.com/@solanafndn](https://www.tiktok.com/@solanafndn)
-
-\- YouTube: [https://www.youtube.com/channel/UC9AdQPUe4BdVJ8M9X7wxHUA](https://www.youtube.com/channel/UC9AdQPUe4BdVJ8M9X7wxHUA)
-
-\- Reddit: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
-
-\- LinkedIn: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
-
-💻 **TECHNICAL Relevant Links:**
-
-\- Docs: [https://docs.solana.com](https://docs.solana.com)
-
-\- Discord: [https://solana.com/discord](https://solana.com/discord)
-
-\- GitHub: [https://github.com/solana-labs](https://github.com/solana-labs)
-
-🔎 **Solana ""Third Party"" Explorers:**
-
-\- Solana Explorer: [https://explorer.solana.com](https://explorer.solana.com)
-
-\- SolScan: [https://solscan.io](https://solscan.io)
-
-\- SolanaFM: [https://solana.fm](https://solana.fm)
-
-\- HeliusLab: [https://orb.helius.dev](https://orb.helius.dev)
-
-💰 **Grants, Funding &amp; Acelerators:**
-
-Learn More About Different Grant And Funding Opportunities Within The Solana Ecosystem
-
-\- Solana Foundation Grants: [https://solana.org/grants-funding](https://solana.org/grants-funding)
-
-\- SuperTeam Grants: [https://earn.superteam.fun/grants](https://earn.superteam.fun/grants)
-
-\- SuperteamBlack: (https://www.superteamblack.com)  
-Scale Your Solana Startup with Superteam Black   
-[https://www.reddit.com/r/solana/comments/1stt9bd/introducing\_superteamblack\_a\_founder\_success/](https://www.reddit.com/r/solana/comments/1stt9bd/introducing_superteamblack_a_founder_success/)
-
-\- Active Accelerators &amp; Growth Programs for Solana Builders: [https://x.com/solana\_stream/status/2034527576061055401](https://x.com/solana_stream/status/2034527576061055401)
-
-**🧑🏻‍💻Looking For A Job? Join The Solana Talent Network, Your Portal To Leading Solana Jobs**
-
-[https://talent.superteam.fun](https://talent.superteam.fun)
-
-**💡 Here's why you should join Superteam:**  
-[https://www.reddit.com/r/solana/comments/1sld8es/heres\_why\_you\_should\_join\_superteam\_by\_ivan\_nomadz/](https://www.reddit.com/r/solana/comments/1sld8es/heres_why_you_should_join_superteam_by_ivan_nomadz/)
-
-🛠️ **Developer Resources:**
-
-**Solana Developer Bootcamp 2026: Learn Blockchain and Full-Stack Crypto Development \[Full Course\]**
-
-[https://www.reddit.com/r/solana/comments/1sezso6/solana\_developer\_bootcamp\_2026\_learn\_blockchain/](https://www.reddit.com/r/solana/comments/1sezso6/solana_developer_bootcamp_2026_learn_blockchain/)
-
-Check The Subreddit Menu / Side Bar For More Relevant Developer Resources.
-
-\- Top 10 Must-have Resources For Developers Diving Into The Solana Ecosystem | By AmalnathSathyan (X - Twitter)
-
-**How To Get Solana Devnet SOL (Including Airdrops And Faucets):**  
-[https://new.reddit.com/r/solana/comments/1gxxyk8/top\_10\_musthave\_resources\_for\_developers\_diving](https://new.reddit.com/r/solana/comments/1gxxyk8/top_10_musthave_resources_for_developers_diving)
-
-[https://www.reddit.com/r/solana/comments/1rzy3a5/how\_to\_get\_solana\_devnet\_sol\_including\_airdrops/](https://www.reddit.com/r/solana/comments/1rzy3a5/how_to_get_solana_devnet_sol_including_airdrops/)
-
-👨🏻‍🔧 **You're A Developer &amp; You Want To Hangout With Solana Developer Communities?**
-
-You May Always Join The Below Communities (Unaffiliated With Solana Foundation or Solana Labs):
-
-\- The 76 DEVs: [https://discord.gg/7yryzdyFKx](https://discord.gg/7yryzdyFKx)
-
-\- Solana Community: [https://discord.gg/solana-community-926762104667648000](https://discord.gg/solana-community-926762104667648000)
-
-\- Solana Developer Community: [https://discord.gg/qcMZEgydXP](https://discord.gg/qcMZEgydXP)
-
-\- Lamport DAO: [https://discord.gg/FDKrxC5pxj](https://discord.gg/FDKrxC5pxj)
-
-📱 **Solana Mobile Developer Resources:**
-
-All The Tools Necessary To Start Building Mobile Crypto Apps For The DApp Store:
-
-[https://www.reddit.com/r/solana/comments/1kh8ch9/solana\_mobile\_developer\_resources\_all\_the\_tools/](https://www.reddit.com/r/solana/comments/1kh8ch9/solana_mobile_developer_resources_all_the_tools/)
-
-👨‍👨‍👦‍👦  **Solana Collective:**
-
-Empowering Solana Content Creators
-
-\- Website: [https://www.solanacollective.com](https://www.solanacollective.com)
-
-\- Discord: [https://discord.gg/solanacollective](https://discord.gg/solanacollective)
-
-👨‍👨  **Solana SuperTeam:**
-
-Join The Talent Layer Of Solana Superteam, A Community Of The Best Talent Learning, Earning And Building In Crypto
-
-\- Website: [https://superteam.fun](https://superteam.fun)
-
-🏚️ **Solana Events:**
-
-Community hosted Solana events and regional summits for connecting with founders, partners, and builders in the ecosystem.
-
-**- Events:** [https://solana.com/events](https://solana.com/events)
-
-**- HackerHouses:** [https://x.com/hackerhouses](https://x.com/hackerhouses)
-
-**- Tips &amp; Trick On How To Pitch / Win In Solana Hackathons:**
-
-[https://www.reddit.com/r/solana/comments/1s8ii0f/i\_participated\_in\_3\_colosseum\_hackathons\_won\_2/](https://www.reddit.com/r/solana/comments/1s8ii0f/i_participated_in_3_colosseum_hackathons_won_2/)
-
-🕵 **Solana Token Sniffer (❗️USE AT YOU OW RISK❗️):**
-
-Use The Below Tools To Read, Understand, Capitalize Blockchain On-chain Data And The Security Analysis Of Tokens And Detailed Wallet Insights
-
-\- [https://rugcheck.xyz](https://rugcheck.xyz)
-
-\- [https://solsniffer.com](https://solsniffer.com)
-
-\- [https://solintel.io](https://solintel.io)
-
-👜 **List Of Wallets Supporting Solana - Browser Extensions, Web Wallets, Hot Wallets, Cold Wallets**
-
-[https://www.reddit.com/r/solana/comments/1jsq9qy/list\_of\_wallets\_supporting\_solana\_browser/](https://www.reddit.com/r/solana/comments/1jsq9qy/list_of_wallets_supporting_solana_browser/)
-
-💬 **Weekly Discussion (Random Talk Goes Here ONLY❗)**
-
-[https://new.reddit.com/r/solana/comments/1go9qh5/weekly\_discussion\_thread](https://new.reddit.com/r/solana/comments/1go9qh5/weekly_discussion_thread)
-
-📖 **How to Avoid the Biggest Crypto Scams and Blunders, for Dummies :)**
-
-[https://www.reddit.com/r/solana/comments/18er2c8/how\_to\_avoid\_the\_biggest\_crypto\_scams\_and](https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and)
-
-**📈 SolanaFloor ETF Tracker:**
-
-[https://solanafloor.com/etf-tracker](https://solanafloor.com/etf-tracker)",2025-03-29,21,https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/,https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/,15,ansi09,0.9
+Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?",2026-05-16,7,https://www.reddit.com/r/ethereum/comments/1tepe86/architectural_breakdown_evm_events_transaction/,https://www.reddit.com/r/ethereum/comments/1tepe86/architectural_breakdown_evm_events_transaction/,11,Resident_Anteater_35,0.89,False
+1tirbet,ethereum,148 - Justin from Besu + Luis from Shutter - Encrypt The Mempool,,2026-05-20,6,https://youtu.be/RlOUkKDoRoQ,https://www.reddit.com/r/ethereum/comments/1tirbet/148_justin_from_besu_luis_from_shutter_encrypt/,0,jtnichol,1.0,False
+1tdp2jc,ethereum,"Without stablecoin treasury yield, defi is a proof that finance is zero sum",,2026-05-15,4,/r/defi/comments/1tdp1p6/without_stablecoin_treasury_yield_defi_is_a_proof/,https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/,1,flersion,0.83,False
 1tig0e4,solana,Messari’s State of Solana Q1 2026 report,"Messari’s State of Solana Q1 2026 report highlights a quarter of steady progress amid market headwinds. Real-world asset (RWA) market cap on Solana rose 43% quarter-over-quarter to $2.01 billion, driven by strong growth in tokenized funds like BlackRock’s BUIDL. Chain GDP remained resilient at $342.2 million, supported by leading applications such as Pump.fun.
 
 Despite a 22% decline in DeFi TVL to $6.16 billion—largely tied to SOL’s price movement—Solana maintained its position as a top ecosystem. Validator revenue held steady, and the upcoming Alpenglow upgrade promises to slash finality times dramatically, reinforcing the network’s technical edge.
 
 Solana continues to attract builders and institutional interest with robust fundamentals and forward-looking infrastructure.
 
-[https://messari.io/report/state-of-solana-q1-2026](https://messari.io/report/state-of-solana-q1-2026)",2026-05-20,19,https://i.redd.it/4jfnr7n9c92h1.png,https://www.reddit.com/r/solana/comments/1tig0e4/messaris_state_of_solana_q1_2026_report/,5,SolBrothers_,0.92
+[https://messari.io/report/state-of-solana-q1-2026](https://messari.io/report/state-of-solana-q1-2026)",2026-05-20,21,https://i.redd.it/4jfnr7n9c92h1.png,https://www.reddit.com/r/solana/comments/1tig0e4/messaris_state_of_solana_q1_2026_report/,5,SolBrothers_,0.96,False
 1tifsjz,solana,Phantom vs Solflare: What's the best wallet?,"Been using Phantom since I started on Solana. Works fine, no complaints. But I keep seeing people mention Solflare for better staking features and more control.
 
-Curious what people here actually use day to day. Is Phantom still the king or is Solflare worth switching to?",2026-05-20,18,https://www.reddit.com/r/solana/comments/1tifsjz/phantom_vs_solflare_whats_the_best_wallet/,https://www.reddit.com/r/solana/comments/1tifsjz/phantom_vs_solflare_whats_the_best_wallet/,24,Dense-Strawberry8115,1.0
+Curious what people here actually use day to day. Is Phantom still the king or is Solflare worth switching to?",2026-05-20,18,https://www.reddit.com/r/solana/comments/1tifsjz/phantom_vs_solflare_whats_the_best_wallet/,https://www.reddit.com/r/solana/comments/1tifsjz/phantom_vs_solflare_whats_the_best_wallet/,24,Dense-Strawberry8115,1.0,False
 1tigehl,solana,What's the fastest cross-chain DEX ?,"I tried using Synapse to bridge some tokens yesterday and it's been stuck on ""processing"" for way too long. Has this happened to anyone else?  
   
 Why do bridges still take this long sometimes? Is it congestion, or is the platform just slow?  
   
-Looking for a faster alternative if anyone knows one , something reliable that doesn't leave you waiting half a day",2026-05-20,16,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,14,AdComprehensive9301,0.95
-1tfr2p8,solana,Solana Ecosystem News - May 17-2026,"**Source:** [https://x.com/solana/status/2056006219161022828](https://x.com/solana/status/2056006219161022828)
+Looking for a faster alternative if anyone knows one , something reliable that doesn't leave you waiting half a day",2026-05-20,17,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,https://www.reddit.com/r/solana/comments/1tigehl/whats_the_fastest_crosschain_dex/,14,AdComprehensive9301,0.96,False
+1tidx0t,solana,Why is my SOL swap always worse than quoted?,"Fine on anything under $5k but above that the slippage gets ugly fast. Put in $20k last week and got $19,200 out. Tried breaking it into smaller chunks which helped a bit but then I am paying fees multiple times for the same position.
 
-[@Perps](https://x.com/Perps) 🤝 Solana.  
-  
-Europe's largest asset manager picks Solana, $1B in Spot ETFs, record-breaking collectibles.  
-  
-Here’s everything else that happened over the week:  
-  
-**📰  Headline News**  
-  
-\- [@Amundi\_ENG](https://x.com/Amundi_ENG), Europe's largest asset manager (€2.4T AUM) and [@Spiko\_finance](https://x.com/Spiko_finance) ($1.7B AUM) announced their UCITS fund on Solana  
-\- [@anza\_xyz](https://x.com/anza_xyz) shipped P-Token to mainnet and Alpenglow on the community test cluster  
-\- [@kamino](https://x.com/kamino) Ethena market crossed $400M in 24h, its fastest market expansion  
-  
-  
-📰 **Launches**  
-  
-\- [@KrwqCash](https://x.com/KrwqCash)’s Korean won-pegged stablecoin, KRWQ, expanded to Solana  
-\- [@KrakenInsto](https://x.com/KrakenInsto) rolled out regulated SPL custody, starting with 18 tokens  
-\- [@JupiterExchange](https://x.com/JupiterExchange) partnered with [@Bitwise](https://x.com/Bitwise) to curate an institutional-grade Ethena lending market  
-\- [@reflectmoney](https://x.com/reflectmoney) integrated [@BlockworksAdv](https://x.com/BlockworksAdv) for institutional risk analysis and capital allocation  
-\- [@crymbotech](https://x.com/crymbotech) integrated with Solana to bring identity-verified execution to institutional and RWA platforms  
-\- [@ethena](https://x.com/ethena)’s ENA went live natively on Solana via [@sunrisedefi](https://x.com/sunrisedefi)  
-\- [@jito\_sol](https://x.com/jito_sol) introduced FireBAM, a Frankendancer-compatible client pairing Firedancer's performance with BAM’s privacy and deterministic execution  
-\- [@jup\_mobile](https://x.com/jup_mobile) rolled out a new redesigned app  
-\- [@PhoenixTrade](https://x.com/PhoenixTrade) activated 24/7 onchain crude oil and gold perps trading  
-\- [@ProofMarkets](https://x.com/ProofMarkets) debuted ""consequence markets,"" a new derivative category for pricing the impact of probable events  
-\- [@Collector\_Crypt](https://x.com/Collector_Crypt) teamed with [@ComicBook](https://x.com/ComicBook) to launch a collectibles Gacha machine for 40M users  
-\- [@Beezie](https://x.com/Beezie) expanded its tokenized collectibles platform to Solana  
-\- [@cesto\_co](https://x.com/cesto_co) launched 3 new baskets, including a product built on [@DDDTracker](https://x.com/DDDTracker) data  
-\- [@kem\_app](https://x.com/kem_app) introduced a USDT-native bank built on Solana  
-\- [@zerion](https://x.com/zerion) shipped a CLI giving agents a full trading and data stack  
-\- [@FlashTrade](https://x.com/FlashTrade) activated MCP for prompt-to-transaction execution  
-\- [@Dune](https://x.com/Dune) launched Solana MCP support for querying Solana activity  
-\- [@glider\_\_](https://x.com/glider__) introduced the Solana Ecosystem Portfolio for auto-rebalancing across major assets  
-\- [@ScorelyGG](https://x.com/ScorelyGG) debuted Scorely Monitor, an x402-powered terminal for real-time sports betting  
-\- [@MiloOnChains](https://x.com/MiloOnChains) rolled out v2 of its trading agent platform for autonomous strategies  
-\- [@TryNoahAI](https://x.com/TryNoahAI) launched Noah 3.0 with a more efficient AI engine  
-\- [@MeteoraAG](https://x.com/MeteoraAG) launched DLMM Quote Token Fees  
-\- [@craftsdev](https://x.com/craftsdev) debuted Solana’s first sealed-bid auction for demand-based price discovery  
-\- [@askthehive\_ai](https://x.com/askthehive_ai) went live its non-custodial stablecoin yield aggregator on Solana  
-\- [@agentscoretrust](https://x.com/agentscoretrust) facilitated the first autonomous AI agent wine purchase from [@martinestateai](https://x.com/martinestateai) with verified age-gating  
-\- [@GetRektApp](https://x.com/GetRektApp) launched Rekt, a perps + prediction markets app  
-\- [@DartExchange](https://x.com/DartExchange) opened early access for low-slippage swaps  
-\- [@](https://x.com/StarchildOnX)[S](https://x.com/StarchildOnX)[tarchildOnX](https://x.com/StarchildOnX) integrated Solana Skills into its marketplace, enabling AI agents to build applications autonomously  
-\- Breakpoint 2026 Early Bird tickets are on sale through May 31  
-\- [@incubator](https://x.com/incubator)'s Cohort 4 Demo Day lands in NYC on May 20  
-\- [@MonkeFoundry](https://x.com/MonkeFoundry) opened applications for cohort 2  
-  
-  
-📰 **Milestones**  
-  
-\- US Solana Spot ETFs crossed $1B AUM  
-\- [@bitget](https://x.com/bitget)'s preOPAI launch sale on IPO Prime closed with $119M committed across 5K+ participants  
-\- [@onrefinance](https://x.com/onrefinance)’s ONyc surpassed $100M market cap  
-\- [@RockawayX](https://x.com/RockawayX)’s USDC RWA vault on Kamino hit $40M in total supply  
-\- [@streamflow\_fi](https://x.com/streamflow_fi) celebrated five years as a core provider of Solana token vesting and payment infrastructure  
-\- [@)phygitals](https://x.com/phygitals) hit a new ATH of $250M total platform volume  
-\- [@solflare](https://x.com/solflare) Private Send crossed $10M+ in volume  
-\- [@AviciMoney](https://x.com/AviciMoney) crossed $20M in card spends  
-  
-If you enjoyed this week’s newsletter, please share it with an RT.  
-  
-Artwork by [@SCUMSOL](https://x.com/SCUMSOL) 🔥
-
-https://preview.redd.it/r55euz9vip1h1.png?width=543&amp;format=png&amp;auto=webp&amp;s=c8d4bb004970414ab9186b3e645d8639a261f7ef
-
-",2026-05-17,9,https://www.reddit.com/r/solana/comments/1tfr2p8/solana_ecosystem_news_may_172026/,https://www.reddit.com/r/solana/comments/1tfr2p8/solana_ecosystem_news_may_172026/,2,ansi09,0.91
+Is there a platform that actually handles larger SOL to USDC swaps without destroying the rate?",2026-05-20,11,https://www.reddit.com/r/solana/comments/1tidx0t/why_is_my_sol_swap_always_worse_than_quoted/,https://www.reddit.com/r/solana/comments/1tidx0t/why_is_my_sol_swap_always_worse_than_quoted/,13,VorpalSpartan,0.92,False
 1tii4wj,solana,Jupiter Launches Metis V8 to Eliminate Swap Drift on Solana,"Jupiter Exchange has released Metis V8, the latest upgrade to its routing engine.   
   
 The new version significantly reduces quotation-execution drift by combining smarter slippage filtering, real-time onchain finalization, ultra-low latency infrastructure, and rapid quoting for volatile trades.   
   
 Users can now expect more reliable token amounts and better execution on jup.ag.
 
-[https://x.com/JupiterExchange/status/2057037276295864734](https://x.com/JupiterExchange/status/2057037276295864734)",2026-05-20,8,https://i.redd.it/x8r39ex8w92h1.png,https://www.reddit.com/r/solana/comments/1tii4wj/jupiter_launches_metis_v8_to_eliminate_swap_drift/,3,SolBrothers_,0.91
+[https://x.com/JupiterExchange/status/2057037276295864734](https://x.com/JupiterExchange/status/2057037276295864734)",2026-05-20,7,https://i.redd.it/x8r39ex8w92h1.png,https://www.reddit.com/r/solana/comments/1tii4wj/jupiter_launches_metis_v8_to_eliminate_swap_drift/,3,SolBrothers_,0.9,False
+1tiq7mw,solana,📢 Solana Tech Pulse (May 12 – May 19),,2026-05-20,5,https://i.redd.it/xh5rkhb1gb2h1.png,https://www.reddit.com/r/solana/comments/1tiq7mw/solana_tech_pulse_may_12_may_19/,2,jpoolone,1.0,False
 1tipe2k,solana,"Another Week, Another TPS Lead for Solana","Solana once again finished the week as the leading blockchain by average daily TPS, processing more than 1,216 transactions per second on average over the past seven days.
 
 And honestly, it’s important to recognize that many ecosystems across the industry are making real progress right now. Scalability, execution efficiency, and user experience have improved significantly across multiple chains over the last few years.
@@ -869,10 +544,10 @@ Still, maintaining this level of throughput consistently is not easy, and it hig
 
 At this point, Solana’s performance leadership no longer feels temporary, it’s becoming part of the network’s identity.
 
-Full post: [https://x.com/everstake\_pool/status/2057123074315546627](https://x.com/everstake_pool/status/2057123074315546627)",2026-05-20,6,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,2,everstake,1.0
-1tiq7mw,solana,📢 Solana Tech Pulse (May 12 – May 19),,2026-05-20,4,https://i.redd.it/xh5rkhb1gb2h1.png,https://www.reddit.com/r/solana/comments/1tiq7mw/solana_tech_pulse_may_12_may_19/,2,jpoolone,0.84
-1tiny7e,solana,"SolanaFloor Podcast - CLARITY Act Advances, Solana Perps ATH, Alpenglow 100x &amp; More",[https://www.youtube.com/watch?v=98ZBr77jzB0](https://www.youtube.com/watch?v=98ZBr77jzB0),2026-05-20,4,https://www.reddit.com/r/solana/comments/1tiny7e/solanafloor_podcast_clarity_act_advances_solana/,https://www.reddit.com/r/solana/comments/1tiny7e/solanafloor_podcast_clarity_act_advances_solana/,2,ansi09,1.0
-1tj0p6r,solana,Jupiter Swap vs Solana DEXs: Simple Natural Breakdown (May 2026),Which dex are you using the most and why?,2026-05-20,3,https://i.redd.it/6vsx91bt7d2h1.jpeg,https://www.reddit.com/r/solana/comments/1tj0p6r/jupiter_swap_vs_solana_dexs_simple_natural/,1,Grouchy-Currency-953,1.0
+Full post: [https://x.com/everstake\_pool/status/2057123074315546627](https://x.com/everstake_pool/status/2057123074315546627)",2026-05-20,5,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,https://www.reddit.com/r/solana/comments/1tipe2k/another_week_another_tps_lead_for_solana/,2,everstake,1.0,False
+1tiny7e,solana,"SolanaFloor Podcast - CLARITY Act Advances, Solana Perps ATH, Alpenglow 100x &amp; More",[https://www.youtube.com/watch?v=98ZBr77jzB0](https://www.youtube.com/watch?v=98ZBr77jzB0),2026-05-20,4,https://www.reddit.com/r/solana/comments/1tiny7e/solanafloor_podcast_clarity_act_advances_solana/,https://www.reddit.com/r/solana/comments/1tiny7e/solanafloor_podcast_clarity_act_advances_solana/,2,ansi09,0.84,False
+1tiktov,solana,Metis v8: Solving The Quotation-Execution Drift,,2026-05-20,4,/r/jupiterexchange/comments/1tijh1d/metis_v8_solving_the_quotationexecution_drift/,https://www.reddit.com/r/solana/comments/1tiktov/metis_v8_solving_the_quotationexecution_drift/,1,agaltsow,1.0,False
+1tj0p6r,solana,Jupiter Swap vs Solana DEXs: Simple Natural Breakdown (May 2026),Which dex are you using the most and why?,2026-05-20,3,https://i.redd.it/6vsx91bt7d2h1.jpeg,https://www.reddit.com/r/solana/comments/1tj0p6r/jupiter_swap_vs_solana_dexs_simple_natural/,1,Grouchy-Currency-953,1.0,False
 1tinshv,solana,RWAs Reached New ATHs On Solana In Q1 2026,"**Source:** [https://x.com/AvgJoesCrypto/status/2056810298158551127](https://x.com/AvgJoesCrypto/status/2056810298158551127)
 
 RWAs reached new ATHs on [@solana](https://x.com/solana) in Q1!  
@@ -887,7 +562,14 @@ RWA market cap increased 43% QoQ to $2.0 billion, ranking Solana third amongst a
 
 https://preview.redd.it/ghwk6ff61b2h1.png?width=680&amp;format=png&amp;auto=webp&amp;s=164b7555b3c71554c96afbc7a29b5eb016f38c25
 
-",2026-05-20,3,https://www.reddit.com/r/solana/comments/1tinshv/rwas_reached_new_aths_on_solana_in_q1_2026/,https://www.reddit.com/r/solana/comments/1tinshv/rwas_reached_new_aths_on_solana_in_q1_2026/,1,ansi09,0.81
+",2026-05-20,3,https://www.reddit.com/r/solana/comments/1tinshv/rwas_reached_new_aths_on_solana_in_q1_2026/,https://www.reddit.com/r/solana/comments/1tinshv/rwas_reached_new_aths_on_solana_in_q1_2026/,1,ansi09,0.81,False
+1tinqia,solana,Solana Liquid Staking Protocol Sanctum Has Reached A New All-time High Of ~17.07M $SOL In TVL,"**Source:** [https://x.com/SolanaFloor/status/2056804790563201070](https://x.com/SolanaFloor/status/2056804790563201070)
+
+BREAKING: Solana liquid staking protocol [@sanctumso](https://x.com/sanctumso) has reached a new all-time high of \~17.07M [$SOL](https://x.com/search?q=%24SOL&amp;src=cashtag_click) in TVL.
+
+https://preview.redd.it/c9h9pkks0b2h1.png?width=680&amp;format=png&amp;auto=webp&amp;s=33d7bf4ddfb2c9f3389ca2fe5ebcdc6f33540cff
+
+",2026-05-20,3,https://www.reddit.com/r/solana/comments/1tinqia/solana_liquid_staking_protocol_sanctum_has/,https://www.reddit.com/r/solana/comments/1tinqia/solana_liquid_staking_protocol_sanctum_has/,3,ansi09,1.0,False
 1tiyukl,solana,BREAKING: USDF Is Now Live On Flipcash On Solana,"**Source:** [https://x.com/solana/status/2057121464650698767](https://x.com/solana/status/2057121464650698767)
 
 BREAKING: USDF is now live on [@flipcash](https://x.com/flipcash) on Solana  
@@ -904,38 +586,35 @@ https://preview.redd.it/cgfirsn4wc2h1.png?width=680&amp;format=png&amp;auto=webp
   
 Every currency on Flipcash is priced on a gradual but exponential pricing curve, with USDF as the liquidity layer  
   
-The future has many currencies. It's time to create yours",2026-05-20,2,https://www.reddit.com/r/solana/comments/1tiyukl/breaking_usdf_is_now_live_on_flipcash_on_solana/,https://www.reddit.com/r/solana/comments/1tiyukl/breaking_usdf_is_now_live_on_flipcash_on_solana/,3,ansi09,1.0
-1pqnm3c,web3,Web3 Career &amp; Jobs Megathread,"This is the designated space for all career-related discussions, job postings, and professional development questions related to Web3 and decentralized web technologies..
+The future has many currencies. It's time to create yours",2026-05-20,2,https://www.reddit.com/r/solana/comments/1tiyukl/breaking_usdf_is_now_live_on_flipcash_on_solana/,https://www.reddit.com/r/solana/comments/1tiyukl/breaking_usdf_is_now_live_on_flipcash_on_solana/,3,ansi09,1.0,False
+1tinzo0,solana,The Index Podcast - Solana’s Perps Renaissance with Hunter Simmons &amp; Jordan Prince of Imperial Perps,,2026-05-20,2,https://www.youtube.com/watch?v=ppu4dCkNy_Y,https://www.reddit.com/r/solana/comments/1tinzo0/the_index_podcast_solanas_perps_renaissance_with/,1,ansi09,1.0,False
+1tinwbo,solana,Solandy - Token Program Upgrade [Solana Tutorial] - May 14th '26,,2026-05-20,2,https://www.youtube.com/watch?v=nc3vziW9UOM,https://www.reddit.com/r/solana/comments/1tinwbo/solandy_token_program_upgrade_solana_tutorial_may/,1,ansi09,1.0,False
+1tas51z,web3,"after 2 years writing smart contracts, the web3 use cases that actually justify the complexity (and the ones that probably dont)","been shipping smart contracts for the last 2 years across a few different applications. seen a lot of web3 use cases up close  both ones that work and ones that probably shouldnt have been built.
 
-Rule 6 prohibits job postings and career advice since r/web3 prioritizes discussions. Due to frequent violations indicating community demand for this content, we've established this megathread for career-related topics that would otherwise be removed.
+clients keep asking us to put things on chain that have no real reason to be on chain. starting to form a clearer opinion on where the complexity is actually worth it.
 
-⚠️ Please read about crypto job scams: [https://cointelegraph.com/learn/articles/crypto-job-scams](https://cointelegraph.com/learn/articles/crypto-job-scams) ⚠️
+what i think genuinely justifies web3 complexity:
 
-What belongs here:
+1. adversarial financial systems perpetuals, lending, DEXs. when counterparty trust is impossible, on chain settlement is the answer. the audit and verification value is real here. shipped one of these last year, the trust minimization is what made the project viable at all.
+2. decentralized identity for credentials  academic degrees, professional certifications, where the issuing institution might disappear, refuse to verify years later, or revoke unfairly. self sovereign + verifiable solves something centralized systems cant. this is the use case i think is the most underrated right now.
+3. content authenticity for high stakes media  provenance for journalism, legal evidence, scientific data. timestamping immutability matters when the source needs to be defensible 10 years later.
+4. bearer asset rights  niche but real where state level seizure is the actual threat model. not relevant to most people but real for some.
 
-Job postings (hiring and seeking)
+what doesnt justify the complexity (despite clients asking):
 
-Career advice and guidance
+1. NFT marketplaces for content distribution  immutability adds little, UX cost is high, royalty enforcement is unsolved at the protocol level. built one and the lesson was clear: most NFT use cases would have been better as a centralized system with cryptographic signatures.
+2. token gated communities discord roles solve this 100x better at 0% the cost. token gating is a tax on community access, not a feature.
+3. most supply chain on blockchain the data quality problem is upstream. on chain doesnt make bad input data correct.
+4. decentralized social media  twitter alternatives keep failing because of moderation tradeoffs, not centralization. the bottleneck isnt the architecture.
 
-Resume/portfolio feedback requests
+the pattern i see: web3 wins when the trust model genuinely cant be solved another way. it loses when the team is using it because its trendy.
 
-Interview preparation questions
+decentralized identity for academic and professional credentials is where i see the most underrated real world utility right now. its boring, infrastructure level, and actually solves a problem nobody else can. but its also the one nobody is funding because there's no token narrative attached.
 
-Salary and compensation discussions
+curious what others here think. where are you seeing real utility vs hype? specifically interested in decentralized identity  feels like the use case that finally matches the original web3 promise.",2026-05-12,24,https://www.reddit.com/r/web3/comments/1tas51z/after_2_years_writing_smart_contracts_the_web3/,https://www.reddit.com/r/web3/comments/1tas51z/after_2_years_writing_smart_contracts_the_web3/,5,Consistent-Arm-875,0.94,False
+1t9yt80,web3,Finding web3 consulting that prioritizes actual utility over hype,"I’m tired of seeing projects that are just a token looking for a problem. Our organization wants to use web3 consulting to build a decentralized identity system for academic credentials. 
 
-Professional networking
-
-Education pathway questions
-
-Skill development recommendations
-
-Guidelines:
-
-Job posters: Include location, remote options, and key requirements.
-
-Job seekers: Be specific about your skills and what you're looking for.
-
-Please note: All other career/job-related posts outside this thread will be removed and redirected here.",2025-12-19,24,https://www.reddit.com/r/web3/comments/1pqnm3c/web3_career_jobs_megathread/,https://www.reddit.com/r/web3/comments/1pqnm3c/web3_career_jobs_megathread/,27,AdolphSilvia,0.97
+We need something functional, secure, and user-friendly for non-crypto people. Is there anyone left in the space who focuses on the boring, essential infrastructure of web3?",2026-05-11,18,https://www.reddit.com/r/web3/comments/1t9yt80/finding_web3_consulting_that_prioritizes_actual/,https://www.reddit.com/r/web3/comments/1t9yt80/finding_web3_consulting_that_prioritizes_actual/,14,grand001,0.92,False
 1tdtww9,web3,I Think Web3 Became Popular Because People Got Tired of Renting Their Online Lives,"One thing I find interesting about internet evolution:
 
 Web1 let people read.
@@ -954,7 +633,7 @@ Because ownership online started mattering more.
 
 I still think the space has too much hype and noise.
 
-But the bigger conversation around digital ownership, creator control, and internet identity feels important - especially now when so much of life exists online.",2026-05-15,16,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,11,GreenEngineering324,0.99
+But the bigger conversation around digital ownership, creator control, and internet identity feels important - especially now when so much of life exists online.",2026-05-15,15,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,https://www.reddit.com/r/web3/comments/1tdtww9/i_think_web3_became_popular_because_people_got/,11,GreenEngineering324,0.9,False
 1tey5gl,web3,The REAL reason most Web3 projects will NEVER build genuine community in 2026 (advice from someone who’s spent over half a decade in the trenches),"Most of the community building advice you see online is still recycling the 2021/2022 playbook: target a niche, post educational content, run ambassador programmes, do quests and giveaways, get micro influencers, engage on X and Discord. All the perfect tick box items that sound smart in a pitch deck.
 
 I have lived and breathed this for more than five years on marketing teams, helping launch projects, managing communities day in and day out. And I can tell you the uncomfortable truth that almost nobody wants to say out loud:
@@ -1011,7 +690,7 @@ That is how you convert users into a community that lasts beyond the next bull r
 
 Everything else like quests, ambassador programmes, gamification, paid ads, is temporary noise once the incentives dry up.
 
-The projects that understand this and actually act on it will be the very few that build something real in 2026. The rest will continue wondering why their perfectly executed marketing checklists produce nothing but ghost towns.",2026-05-16,11,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,30,MediumLibrarian7100,0.77
+The projects that understand this and actually act on it will be the very few that build something real in 2026. The rest will continue wondering why their perfectly executed marketing checklists produce nothing but ghost towns.",2026-05-16,12,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/,30,MediumLibrarian7100,0.8,False
 1td8l7l,web3,Gaming needs to change its narrative if we're going to survive,"&amp;#x200B;
 
 We seriously need to stop calling it “Web3 gaming.”
@@ -1080,10 +759,20 @@ The future isn’t “Web3 gaming.”
 
 The future is just gaming…
 
-that happens to use blockchain infrastructure in smart ways.",2026-05-14,10,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,3,wesmonkeyman,0.86
-1tgdgtv,web3,What’s one crypto lesson you learned too late?,"For me, risk management matters more than hype.
-A good project can still fail if timing and emotions take over.
-What’s one lesson you wish you knew earlier in crypto?",2026-05-18,6,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,17,Odd_Turnover_1625,0.8
+that happens to use blockchain infrastructure in smart ways.",2026-05-14,12,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,https://www.reddit.com/r/web3/comments/1td8l7l/gaming_needs_to_change_its_narrative_if_were/,3,wesmonkeyman,0.93,False
+1t8kbi7,web3,How much should I charge weekly for crypto KOL outreach work?,"Got offered a role at a crypto company (upcoming cex). The job is basically:
+
+\- Filtering a list of KOLs (Twitter + Telegram)
+
+\- Sending cold DMs and negotiating rates
+
+\- Tracking everything in a spreadsheet
+
+\- Reporting interested KOLs to the team
+
+What's a fair weekly rate to ask? Anyone done similar work before?
+
+I told them i will work 1 week for free then charge.",2026-05-09,11,https://www.reddit.com/r/web3/comments/1t8kbi7/how_much_should_i_charge_weekly_for_crypto_kol/,https://www.reddit.com/r/web3/comments/1t8kbi7/how_much_should_i_charge_weekly_for_crypto_kol/,19,Far-Stretch5237,0.92,False
 1tfw2zw,web3,The real problem is trust,"BTC solved one problem cleanly: agreeing on who owns the value without a trusted third party. That's the main web3 achievement to this day.
 
 Everything else quietly brings trust through the side door - and does it poorly.
@@ -1102,26 +791,17 @@ BTC works because it never tried to be anything else than a provable store of da
 
 What are we to make out of this? Admit that the central problem is trust - how, across many different interactions with people, platforms, services and posts on the internet, could we trust information and outcomes from specific identities.
 
-And this is not simple in era, where for each legitimate, unique human, you might have hundreds of bots and almost undistinguishable AI actors.",2026-05-17,6,https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/,https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/,2,EagleApprehensive,0.8
+And this is not simple in era, where for each legitimate, unique human, you might have hundreds of bots and almost undistinguishable AI actors.",2026-05-17,6,https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/,https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/,2,EagleApprehensive,0.88,False
+1tgdgtv,web3,What’s one crypto lesson you learned too late?,"For me, risk management matters more than hype.
+A good project can still fail if timing and emotions take over.
+What’s one lesson you wish you knew earlier in crypto?",2026-05-18,5,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,https://www.reddit.com/r/web3/comments/1tgdgtv/whats_one_crypto_lesson_you_learned_too_late/,17,Odd_Turnover_1625,0.78,False
 1tbbxwj,web3,why is it so hard to just talk about the tech anymore,"the signal to noise ratio in web3 right now is genuinely depressing. I used to be able to hop into a discord and actually discuss decentralized infrastructure or dweb protocols, but now its just endless bot spam and people begging for airdrop alpha  
   
 it feels like genuine community building online is dead. The big conferences aren't much better either, just endless corporate booths, overhyped panels, and tickets that cost a months rent.  
   
 Im noticing a lot of actual builders are just giving up on the massive public spaces and going back to small IRL stuff. read a piece this morning about stratosphere and pudgy penguins doing these private founder dinners instead of big massive events. kinda makes total sense tbh. when the digital town square is just a megaphone for grifters and engagement farming, sitting around a table with like 10 people who actually care about the space is probably the only way to stay sane.  
   
-I dont know, maybe im just completely burnt out on the constant noise. just miss when we actually talked about building things instead of shouting over each other.",2026-05-12,4,https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/,https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/,4,lljasonvoorheesll,0.84
-1koqefn,web3,Useful Tools,"Comment useful tools down below and I will add them to the list:  
-  
-Axiom:
-
-This is basically the fastest and most useful trading platform out there rn:  
-[https://axiom.trade/@gokh](https://axiom.trade/@gokh)
-
-Maestro
-
-A telegram bot in which you can trade or manage assets in basically every chain. One of the biggest trading interfaces.
-
-[https://t.me/maestro?start=r-cmsupvoteboost](https://t.me/maestro?start=r-cmsupvoteboost)",2025-05-17,3,https://www.reddit.com/r/web3/comments/1koqefn/useful_tools/,https://www.reddit.com/r/web3/comments/1koqefn/useful_tools/,23,AdolphSilvia,0.81
+I dont know, maybe im just completely burnt out on the constant noise. just miss when we actually talked about building things instead of shouting over each other.",2026-05-12,4,https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/,https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/,4,lljasonvoorheesll,0.84,False
 1thuj4z,web3,"Smart contract payment infrastructure for freight. Token, stablecoin, or no crypto at all? Honest opinions wanted","Posted in r/investors recently and got some great feedback. Figured this community might have useful perspective on the technical side.
 
 I built an AI freight marketplace. 13 years in trucking, ran a brokerage, sold it, built this. First 30 days: $109,951 MRR, 572 paid carriers, 4,200 loads, zero fraud, 91% retention.
@@ -1138,15 +818,16 @@ Honest feedback so far has pointed toward Option 2 or 3. The token adds investor
 
 Has anyone built conditional escrow and automated payment release in a B2B context? What did you learn? Is there a compelling case for a native token here that goes beyond the obvious tokenomics arguments?
 
-Not looking for hype. Looking for people who have actually built something in this space.",2026-05-19,3,https://www.reddit.com/r/web3/comments/1thuj4z/smart_contract_payment_infrastructure_for_freight/,https://www.reddit.com/r/web3/comments/1thuj4z/smart_contract_payment_infrastructure_for_freight/,3,crypto_batman_,0.71
+Not looking for hype. Looking for people who have actually built something in this space.",2026-05-19,3,https://www.reddit.com/r/web3/comments/1thuj4z/smart_contract_payment_infrastructure_for_freight/,https://www.reddit.com/r/web3/comments/1thuj4z/smart_contract_payment_infrastructure_for_freight/,3,crypto_batman_,0.71,False
 1teb5zu,web3,What AI image tool are web3 folks using? Looking for the best price?,"Curious what people building / vibing in web3 use for AI image gen.
 
 What's your daily driver, and what are you paying per image (or per month)?
 
 Anyone found something crypto-native, pay in stables/wallet,
 
-No SaaS subscription?",2026-05-15,3,https://www.reddit.com/r/web3/comments/1teb5zu/what_ai_image_tool_are_web3_folks_using_looking/,https://www.reddit.com/r/web3/comments/1teb5zu/what_ai_image_tool_are_web3_folks_using_looking/,6,rvwvb,1.0
-1tinf8k,web3,What’s the biggest problem in Web3 that nobody seems to be solving properly?,I’m not talking about the obvious answers like volatility or regulation. More interested in the structural/product problems that people in the space keep running into but still don’t seem close to fixing properly.,2026-05-20,1,https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/,https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/,3,Academic-Row-5423,0.67
+No SaaS subscription?",2026-05-15,3,https://www.reddit.com/r/web3/comments/1teb5zu/what_ai_image_tool_are_web3_folks_using_looking/,https://www.reddit.com/r/web3/comments/1teb5zu/what_ai_image_tool_are_web3_folks_using_looking/,6,rvwvb,1.0,False
+1taf3zo,web3,Mayors of tech cities want the clarity act to pass  asap,Many mayors in tech cities are voicing support for the clarity act to pass. Lots of Blue cities as they don't want the tech companies who are working on Blockchain and web 3 to leave for other more tech friendly countries. The Democrats in DC have to take notice or the Democrats will continue to lose the support of the tech communities. ,2026-05-11,3,https://www.reddit.com/r/web3/comments/1taf3zo/mayors_of_tech_cities_want_the_clarity_act_to/,https://www.reddit.com/r/web3/comments/1taf3zo/mayors_of_tech_cities_want_the_clarity_act_to/,1,NewspaperWrong809,1.0,False
+1tinf8k,web3,What’s the biggest problem in Web3 that nobody seems to be solving properly?,I’m not talking about the obvious answers like volatility or regulation. More interested in the structural/product problems that people in the space keep running into but still don’t seem close to fixing properly.,2026-05-20,1,https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/,https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/,3,Academic-Row-5423,0.67,False
 1tbyyuh,web3,Redirect on-ramps vs. white-label: which one are you actually building with and why?,"Building a wallet or Web3 app and adding fiat on-ramp? There are two broad approaches and the difference isn't just visual.
 
 Redirect flow: user leaves your app, enters payment details on a third-party domain, comes back. Easy to integrate, but you lose the user at the most critical moment in the journey.
@@ -1157,4 +838,25 @@ The conversion argument for white-label is pretty clear. But there's a less obvi
 
 The tradeoff on the white-label side is integration complexity. It's a heavier lift upfront.
 
-What's everyone building with right now? Redirect because it's faster to ship, or white-label because you care about the full product experience? Genuinely curious where the community lands on this.",2026-05-13,1,https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/,https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/,1,transak,0.67
+What's everyone building with right now? Redirect because it's faster to ship, or white-label because you care about the full product experience? Genuinely curious where the community lands on this.",2026-05-13,1,https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/,https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/,1,transak,0.67,False
+1tb3fuc,web3,What features would actually make you trust a newer NFT marketplace?,"I’m working on an XRPL-native NFT marketplace and wanted to ask collectors/creators here what features actually matter before a marketplace deserves trust.
+
+Not posting a link or trying to promote a drop — I’m mostly looking for feedback from people who have used NFT marketplaces enough to know what breaks.
+
+Some things we’re thinking about:
+
+* native minting instead of smart-contract wrappers
+* creator royalties enforced at the protocol level
+* fixed-price listings and auctions
+* collection verification
+* decentralized storage options for metadata/artwork
+* low marketplace rake
+* support for XRP and stablecoin pricing
+* tools for launchpads, allowlists, and fair mint limits
+* better protection against spam collections and fake projects
+
+For creators: what would make you comfortable minting somewhere new?
+
+For collectors: what makes you trust a collection or marketplace enough to buy?
+
+And what features sound useful in theory but usually end up being noise?",2026-05-12,1,https://www.reddit.com/r/web3/comments/1tb3fuc/what_features_would_actually_make_you_trust_a/,https://www.reddit.com/r/web3/comments/1tb3fuc/what_features_would_actually_make_you_trust_a/,0,XRPresso_io,1.0,False

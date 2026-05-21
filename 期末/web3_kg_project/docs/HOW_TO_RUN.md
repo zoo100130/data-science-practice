@@ -169,7 +169,35 @@ python .\src\pipeline.py --input .\data\your_web3_posts.csv --output .\outputs
 
 再重新整理瀏覽器頁面即可看到新的圖譜。
 
-## 10. 常見問題
+## 10. 從 Reddit 爬取 Web3 資料
+
+本專案已提供不需要 API key 的 Reddit crawler，會使用 Reddit 公開 JSON endpoint。
+
+執行：
+
+```powershell
+python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 15 --output .\data\reddit_web3_posts.csv
+```
+
+爬完後，用真實 Reddit 資料建立圖譜：
+
+```powershell
+python .\src\pipeline.py --input .\data\reddit_web3_posts.csv --output .\outputs\reddit_live
+```
+
+打開 live graph：
+
+```text
+http://localhost:8080/outputs/reddit_live/interactive_graph.html
+```
+
+如果你想學爬蟲程式怎麼寫，請打開：
+
+```text
+docs/Reddit_Web3_Crawler_Tutorial.ipynb
+```
+
+## 11. 常見問題
 
 ### 問題 1：ModuleNotFoundError
 
@@ -207,7 +235,15 @@ http://localhost:8090/outputs/interactive_graph.html
 post_id, subreddit, title, selftext, created_utc, score, url
 ```
 
-## 11. 展示建議
+### 問題 4：Reddit 暫時拒絕請求
+
+請降低請求量，或增加等待時間：
+
+```powershell
+python .\src\reddit_crawler.py --sleep-seconds 3 --posts-per-subreddit 8
+```
+
+## 12. 展示建議
 
 課堂展示可以照這個順序：
 

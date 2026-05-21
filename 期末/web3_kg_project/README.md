@@ -25,6 +25,26 @@ Then open:
 http://localhost:8080/outputs/interactive_graph.html
 ```
 
+## Crawl Live Reddit Web3 Posts
+
+```powershell
+python .\src\reddit_crawler.py --subreddits ethereum defi CryptoCurrency solana web3 NFT --posts-per-subreddit 15 --output .\data\reddit_web3_posts.csv
+python .\src\pipeline.py --input .\data\reddit_web3_posts.csv --output .\outputs\reddit_live
+python -m http.server 8080
+```
+
+Open:
+
+```text
+http://localhost:8080/outputs/reddit_live/interactive_graph.html
+```
+
+Crawler tutorial notebook:
+
+```text
+docs/Reddit_Web3_Crawler_Tutorial.ipynb
+```
+
 ## Outputs
 
 - `outputs/nodes.csv`
@@ -33,6 +53,7 @@ http://localhost:8080/outputs/interactive_graph.html
 - `outputs/neo4j_import.cypher`
 - `outputs/interactive_graph.html`
 - `outputs/analysis_summary.md`
+- `outputs/reddit_live/interactive_graph.html` when using crawled Reddit data
 
 ## Replace With Your Own Data
 
