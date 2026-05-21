@@ -63,6 +63,81 @@ STOPWORDS = {
     "with",
 }
 
+ENTITY_STOPWORDS = {
+    "A",
+    "About",
+    "After",
+    "All",
+    "An",
+    "And",
+    "Anyone",
+    "Are",
+    "As",
+    "At",
+    "Be",
+    "Before",
+    "Bookmarking",
+    "But",
+    "By",
+    "Can",
+    "Could",
+    "Daily",
+    "Discussion",
+    "Do",
+    "Does",
+    "Don",
+    "For",
+    "From",
+    "Get",
+    "Giveaway",
+    "Has",
+    "Have",
+    "Here",
+    "How",
+    "I",
+    "If",
+    "In",
+    "Is",
+    "It",
+    "Just",
+    "Like",
+    "May",
+    "Megathread",
+    "My",
+    "New",
+    "No",
+    "Not",
+    "Now",
+    "Of",
+    "On",
+    "One",
+    "Or",
+    "Please",
+    "Post",
+    "Question",
+    "Should",
+    "So",
+    "Some",
+    "That",
+    "The",
+    "This",
+    "To",
+    "Today",
+    "Trading",
+    "Want",
+    "We",
+    "Welcome",
+    "What",
+    "When",
+    "Where",
+    "Who",
+    "Why",
+    "With",
+    "Would",
+    "You",
+    "Your",
+}
+
 ENTITY_TYPE_RULES = {
     "Aave": "Protocol",
     "Actively Validated Services": "Concept",
@@ -181,7 +256,7 @@ def extract_entities(text: str) -> list[Entity]:
         "US",
         "Web3",
         "Ethereum DeFi",
-    }
+    } | ENTITY_STOPWORDS
     for phrase in capital_phrases:
         phrase = phrase.strip()
         if phrase in ignored or len(phrase) <= 2:
@@ -415,6 +490,17 @@ def export_summary(
 
 def export_html(nodes_df: pd.DataFrame, edges_df: pd.DataFrame, output_path: Path) -> None:
     entity_nodes = nodes_df[nodes_df["label"].isin(["Entity", "Topic"])].copy()
+    entity_nodes["mentions_numeric"] = pd.to_numeric(
+        entity_nodes.get("mentions", 0), errors="coerce"
+    ).fillna(0)
+    if len(entity_nodes) > 120:
+        topic_nodes = entity_nodes[entity_nodes["label"] == "Topic"]
+        top_entities = entity_nodes[entity_nodes["label"] == "Entity"].sort_values(
+            ["mentions_numeric", "name"], ascending=[False, True]
+        ).head(90)
+        entity_nodes = pd.concat([top_entities, topic_nodes], ignore_index=True).drop_duplicates(
+            subset=["id"]
+        )
     display_node_ids = set(entity_nodes["id"])
     display_edges = edges_df[
         edges_df["source"].isin(display_node_ids) & edges_df["target"].isin(display_node_ids)
