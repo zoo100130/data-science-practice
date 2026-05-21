@@ -149,7 +149,8 @@ def load_posts(input_path: Path) -> pd.DataFrame:
     df = df.copy()
     df["title"] = df["title"].fillna("")
     df["selftext"] = df["selftext"].fillna("")
-    df["clean_text"] = (df["title"] + " " + df["selftext"]).map(normalize_text)
+    df["raw_text"] = df["title"] + " " + df["selftext"]
+    df["clean_text"] = df["raw_text"].map(normalize_text)
     return df
 
 
@@ -241,7 +242,7 @@ def build_graph_tables(posts: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame,
             url=post.url,
         )
 
-        entities = extract_entities(post.clean_text)
+        entities = extract_entities(post.raw_text)
         topics = extract_topics(post.clean_text)
         entity_ids = []
 

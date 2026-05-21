@@ -1,0 +1,1884 @@
+{
+  "nodes": [
+    {
+      "id": "post_p001",
+      "label": "Post",
+      "name": "Taiwan chip exports rise as TSMC expands Arizona investment",
+      "post_id": "p001",
+      "subreddit": "worldnews",
+      "score": 428.0,
+      "created_utc": "2026-05-01",
+      "url": "https://example.com/news/p001",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_apple",
+      "label": "Entity",
+      "name": "Apple",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 2.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_arizona",
+      "label": "Entity",
+      "name": "Arizona",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_nvidia",
+      "label": "Entity",
+      "name": "Nvidia",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 4.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_tsmc",
+      "label": "Entity",
+      "name": "TSMC",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "entity_taiwan",
+      "label": "Entity",
+      "name": "Taiwan",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 2.0,
+      "community": 0.0
+    },
+    {
+      "id": "topic_semiconductors",
+      "label": "Topic",
+      "name": "Semiconductors",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_p002",
+      "label": "Post",
+      "name": "OpenAI and Microsoft discuss new AI infrastructure deal",
+      "post_id": "p002",
+      "subreddit": "technology",
+      "score": 376.0,
+      "created_utc": "2026-05-02",
+      "url": "https://example.com/news/p002",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_analysts",
+      "label": "Entity",
+      "name": "Analysts",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_microsoft",
+      "label": "Entity",
+      "name": "Microsoft",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 3.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_nvidia_gpu",
+      "label": "Entity",
+      "name": "Nvidia GPU",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_openai",
+      "label": "Entity",
+      "name": "OpenAI",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 2.0,
+      "community": 1.0
+    },
+    {
+      "id": "topic_ai",
+      "label": "Topic",
+      "name": "AI",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "topic_cloud_infrastructure",
+      "label": "Topic",
+      "name": "Cloud Infrastructure",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_p003",
+      "label": "Post",
+      "name": "US and China resume trade talks in Geneva",
+      "post_id": "p003",
+      "subreddit": "news",
+      "score": 512.0,
+      "created_utc": "2026-05-03",
+      "url": "https://example.com/news/p003",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_china",
+      "label": "Entity",
+      "name": "China",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "entity_geneva",
+      "label": "Entity",
+      "name": "Geneva",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "entity_geneva_officials",
+      "label": "Entity",
+      "name": "Geneva Officials",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 2.0
+    },
+    {
+      "id": "entity_united_states",
+      "label": "Entity",
+      "name": "United States",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 4.0,
+      "community": 5.0
+    },
+    {
+      "id": "topic_geopolitics",
+      "label": "Topic",
+      "name": "Geopolitics",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_p004",
+      "label": "Post",
+      "name": "Ukraine energy grid hit by new Russian missile attack",
+      "post_id": "p004",
+      "subreddit": "worldnews",
+      "score": 691.0,
+      "created_utc": "2026-05-04",
+      "url": "https://example.com/news/p004",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_european_union",
+      "label": "Entity",
+      "name": "European Union",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 2.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_russian",
+      "label": "Entity",
+      "name": "Russian",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_ukraine",
+      "label": "Entity",
+      "name": "Ukraine",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "post_p005",
+      "label": "Post",
+      "name": "Google launches new AI search features at developer conference",
+      "post_id": "p005",
+      "subreddit": "technology",
+      "score": 294.0,
+      "created_utc": "2026-05-05",
+      "url": "https://example.com/news/p005",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_android",
+      "label": "Entity",
+      "name": "Android",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Product",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_developers",
+      "label": "Entity",
+      "name": "Developers",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_google",
+      "label": "Entity",
+      "name": "Google",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 2.0,
+      "community": 1.0
+    },
+    {
+      "id": "post_p006",
+      "label": "Post",
+      "name": "European Union debates climate policy after Germany floods",
+      "post_id": "p006",
+      "subreddit": "worldnews",
+      "score": 238.0,
+      "created_utc": "2026-05-06",
+      "url": "https://example.com/news/p006",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_germany",
+      "label": "Entity",
+      "name": "Germany",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_local",
+      "label": "Entity",
+      "name": "Local",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "entity_the_european_union",
+      "label": "Entity",
+      "name": "The European Union",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 3.0
+    },
+    {
+      "id": "topic_climate",
+      "label": "Topic",
+      "name": "Climate",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_p007",
+      "label": "Post",
+      "name": "Apple supplier Foxconn reports stronger demand for AI servers",
+      "post_id": "p007",
+      "subreddit": "news",
+      "score": 333.0,
+      "created_utc": "2026-05-07",
+      "url": "https://example.com/news/p007",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_foxconn",
+      "label": "Entity",
+      "name": "Foxconn",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 0.0
+    },
+    {
+      "id": "post_p008",
+      "label": "Post",
+      "name": "Meta expands open-source AI model strategy",
+      "post_id": "p008",
+      "subreddit": "technology",
+      "score": 275.0,
+      "created_utc": "2026-05-08",
+      "url": "https://example.com/news/p008",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_europe",
+      "label": "Entity",
+      "name": "Europe",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 2.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_india",
+      "label": "Entity",
+      "name": "India",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 2.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_meta",
+      "label": "Entity",
+      "name": "Meta",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "post_p009",
+      "label": "Post",
+      "name": "Japan and South Korea strengthen semiconductor cooperation",
+      "post_id": "p009",
+      "subreddit": "worldnews",
+      "score": 312.0,
+      "created_utc": "2026-05-09",
+      "url": "https://example.com/news/p009",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_japan",
+      "label": "Entity",
+      "name": "Japan",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "entity_south_korea",
+      "label": "Entity",
+      "name": "South Korea",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 4.0
+    },
+    {
+      "id": "post_p010",
+      "label": "Post",
+      "name": "United Nations warns about misinformation during elections",
+      "post_id": "p010",
+      "subreddit": "news",
+      "score": 421.0,
+      "created_utc": "2026-05-10",
+      "url": "https://example.com/news/p010",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_ai_generated",
+      "label": "Entity",
+      "name": "AI-generated",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_the_united_nations",
+      "label": "Entity",
+      "name": "The United Nations",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_united_nations",
+      "label": "Entity",
+      "name": "United Nations",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 2.0,
+      "community": 5.0
+    },
+    {
+      "id": "topic_misinformation",
+      "label": "Topic",
+      "name": "Misinformation",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Topic",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "post_p011",
+      "label": "Post",
+      "name": "Nvidia announces new GPU platform for data centers",
+      "post_id": "p011",
+      "subreddit": "technology",
+      "score": 589.0,
+      "created_utc": "2026-05-11",
+      "url": "https://example.com/news/p011",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_amazon",
+      "label": "Entity",
+      "name": "Amazon",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "entity_cloud",
+      "label": "Entity",
+      "name": "Cloud",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Entity",
+      "mentions": 1.0,
+      "community": 1.0
+    },
+    {
+      "id": "post_p012",
+      "label": "Post",
+      "name": "Middle East ceasefire talks continue in Qatar",
+      "post_id": "p012",
+      "subreddit": "worldnews",
+      "score": 358.0,
+      "created_utc": "2026-05-12",
+      "url": "https://example.com/news/p012",
+      "entity_type": "",
+      "mentions": "",
+      "community": ""
+    },
+    {
+      "id": "entity_middle_east",
+      "label": "Entity",
+      "name": "Middle East",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_qatar",
+      "label": "Entity",
+      "name": "Qatar",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Location",
+      "mentions": 1.0,
+      "community": 5.0
+    },
+    {
+      "id": "entity_qatar_negotiators",
+      "label": "Entity",
+      "name": "Qatar Negotiators",
+      "post_id": "",
+      "subreddit": "",
+      "score": "",
+      "created_utc": "",
+      "url": "",
+      "entity_type": "Organization",
+      "mentions": 1.0,
+      "community": 5.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "post_p001",
+      "target": "entity_apple",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p001",
+      "target": "entity_arizona",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p001",
+      "target": "entity_nvidia",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p001",
+      "target": "entity_tsmc",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p001",
+      "target": "entity_taiwan",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "entity_arizona",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "entity_taiwan",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "entity_tsmc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arizona",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arizona",
+      "target": "entity_taiwan",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_arizona",
+      "target": "entity_tsmc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "entity_taiwan",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "entity_tsmc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_taiwan",
+      "target": "entity_tsmc",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_arizona",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_tsmc",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_taiwan",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "post_p002",
+      "target": "entity_analysts",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p002",
+      "target": "entity_microsoft",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p002",
+      "target": "entity_nvidia",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p002",
+      "target": "entity_nvidia_gpu",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p002",
+      "target": "entity_openai",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "entity_nvidia_gpu",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_microsoft",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_microsoft",
+      "target": "entity_nvidia_gpu",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_microsoft",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "entity_nvidia_gpu",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_nvidia_gpu",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_microsoft",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_nvidia_gpu",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_openai",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_analysts",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_microsoft",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_nvidia",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 3.0
+    },
+    {
+      "source": "entity_nvidia_gpu",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_openai",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p003",
+      "target": "entity_china",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p003",
+      "target": "entity_geneva",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p003",
+      "target": "entity_geneva_officials",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p003",
+      "target": "entity_united_states",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_china",
+      "target": "entity_geneva",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_china",
+      "target": "entity_geneva_officials",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_china",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva",
+      "target": "entity_geneva_officials",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva_officials",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_china",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva_officials",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_china",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_geneva_officials",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "post_p004",
+      "target": "entity_european_union",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p004",
+      "target": "entity_russian",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p004",
+      "target": "entity_ukraine",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "entity_russian",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "entity_ukraine",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_russian",
+      "target": "entity_ukraine",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_russian",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ukraine",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p005",
+      "target": "entity_android",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p005",
+      "target": "entity_developers",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p005",
+      "target": "entity_google",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p005",
+      "target": "entity_microsoft",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p005",
+      "target": "entity_openai",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_android",
+      "target": "entity_developers",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_android",
+      "target": "entity_google",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_android",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_android",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_developers",
+      "target": "entity_google",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_developers",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_developers",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_google",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_google",
+      "target": "entity_openai",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_android",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_developers",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_google",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 2.0
+    },
+    {
+      "source": "post_p006",
+      "target": "entity_european_union",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p006",
+      "target": "entity_germany",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p006",
+      "target": "entity_local",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p006",
+      "target": "entity_the_european_union",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "entity_germany",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "entity_local",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "entity_the_european_union",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_germany",
+      "target": "entity_local",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_germany",
+      "target": "entity_the_european_union",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_local",
+      "target": "entity_the_european_union",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_european_union",
+      "target": "topic_climate",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_germany",
+      "target": "topic_climate",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_local",
+      "target": "topic_climate",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_european_union",
+      "target": "topic_climate",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p007",
+      "target": "entity_apple",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p007",
+      "target": "entity_foxconn",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p007",
+      "target": "entity_nvidia",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p007",
+      "target": "entity_taiwan",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "entity_foxconn",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_foxconn",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_foxconn",
+      "target": "entity_taiwan",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_foxconn",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_taiwan",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_foxconn",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_apple",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_foxconn",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_taiwan",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p008",
+      "target": "entity_europe",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p008",
+      "target": "entity_india",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p008",
+      "target": "entity_meta",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p008",
+      "target": "entity_united_states",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "entity_india",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "entity_meta",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_india",
+      "target": "entity_meta",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_india",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_meta",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_india",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_meta",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p009",
+      "target": "entity_japan",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p009",
+      "target": "entity_south_korea",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_japan",
+      "target": "entity_south_korea",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_japan",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_south_korea",
+      "target": "topic_semiconductors",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_ai_generated",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_europe",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_india",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_the_united_nations",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_united_nations",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p010",
+      "target": "entity_united_states",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "entity_europe",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "entity_india",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "entity_the_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "entity_the_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_india",
+      "target": "entity_the_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_india",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_united_nations",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_united_nations",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_nations",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 2.0
+    },
+    {
+      "source": "entity_ai_generated",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_europe",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_india",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_the_united_nations",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_nations",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_states",
+      "target": "topic_misinformation",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p011",
+      "target": "entity_amazon",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p011",
+      "target": "entity_cloud",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p011",
+      "target": "entity_google",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p011",
+      "target": "entity_microsoft",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p011",
+      "target": "entity_nvidia",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "entity_cloud",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "entity_google",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_cloud",
+      "target": "entity_google",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_cloud",
+      "target": "entity_microsoft",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_cloud",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_google",
+      "target": "entity_nvidia",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_cloud",
+      "target": "topic_ai",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_amazon",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_cloud",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_google",
+      "target": "topic_cloud_infrastructure",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p012",
+      "target": "entity_middle_east",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p012",
+      "target": "entity_qatar",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p012",
+      "target": "entity_qatar_negotiators",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p012",
+      "target": "entity_united_nations",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "post_p012",
+      "target": "entity_united_states",
+      "relation": "MENTIONS",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_middle_east",
+      "target": "entity_qatar",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_middle_east",
+      "target": "entity_qatar_negotiators",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_middle_east",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_middle_east",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar",
+      "target": "entity_qatar_negotiators",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar_negotiators",
+      "target": "entity_united_nations",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar_negotiators",
+      "target": "entity_united_states",
+      "relation": "CO_MENTIONED_WITH",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_middle_east",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_qatar_negotiators",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_united_nations",
+      "target": "topic_geopolitics",
+      "relation": "BELONGS_TO",
+      "weight": 1.0
+    }
+  ]
+}

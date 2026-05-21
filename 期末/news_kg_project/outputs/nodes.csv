@@ -1,0 +1,55 @@
+id,label,name,post_id,subreddit,score,created_utc,url,entity_type,mentions,community
+post_p001,Post,Taiwan chip exports rise as TSMC expands Arizona investment,p001,worldnews,428.0,2026-05-01,https://example.com/news/p001,,,
+entity_apple,Entity,Apple,,,,,,Organization,2.0,0.0
+entity_arizona,Entity,Arizona,,,,,,Entity,1.0,0.0
+entity_nvidia,Entity,Nvidia,,,,,,Organization,4.0,0.0
+entity_tsmc,Entity,TSMC,,,,,,Organization,1.0,0.0
+entity_taiwan,Entity,Taiwan,,,,,,Location,2.0,0.0
+topic_semiconductors,Topic,Semiconductors,,,,,,Topic,,
+post_p002,Post,OpenAI and Microsoft discuss new AI infrastructure deal,p002,technology,376.0,2026-05-02,https://example.com/news/p002,,,
+entity_analysts,Entity,Analysts,,,,,,Entity,1.0,1.0
+entity_microsoft,Entity,Microsoft,,,,,,Organization,3.0,1.0
+entity_nvidia_gpu,Entity,Nvidia GPU,,,,,,Organization,1.0,1.0
+entity_openai,Entity,OpenAI,,,,,,Organization,2.0,1.0
+topic_ai,Topic,AI,,,,,,Topic,,
+topic_cloud_infrastructure,Topic,Cloud Infrastructure,,,,,,Topic,,
+post_p003,Post,US and China resume trade talks in Geneva,p003,news,512.0,2026-05-03,https://example.com/news/p003,,,
+entity_china,Entity,China,,,,,,Location,1.0,2.0
+entity_geneva,Entity,Geneva,,,,,,Location,1.0,2.0
+entity_geneva_officials,Entity,Geneva Officials,,,,,,Organization,1.0,2.0
+entity_united_states,Entity,United States,,,,,,Location,4.0,5.0
+topic_geopolitics,Topic,Geopolitics,,,,,,Topic,,
+post_p004,Post,Ukraine energy grid hit by new Russian missile attack,p004,worldnews,691.0,2026-05-04,https://example.com/news/p004,,,
+entity_european_union,Entity,European Union,,,,,,Organization,2.0,3.0
+entity_russian,Entity,Russian,,,,,,Entity,1.0,3.0
+entity_ukraine,Entity,Ukraine,,,,,,Location,1.0,3.0
+post_p005,Post,Google launches new AI search features at developer conference,p005,technology,294.0,2026-05-05,https://example.com/news/p005,,,
+entity_android,Entity,Android,,,,,,Product,1.0,1.0
+entity_developers,Entity,Developers,,,,,,Entity,1.0,1.0
+entity_google,Entity,Google,,,,,,Organization,2.0,1.0
+post_p006,Post,European Union debates climate policy after Germany floods,p006,worldnews,238.0,2026-05-06,https://example.com/news/p006,,,
+entity_germany,Entity,Germany,,,,,,Location,1.0,3.0
+entity_local,Entity,Local,,,,,,Entity,1.0,3.0
+entity_the_european_union,Entity,The European Union,,,,,,Organization,1.0,3.0
+topic_climate,Topic,Climate,,,,,,Topic,,
+post_p007,Post,Apple supplier Foxconn reports stronger demand for AI servers,p007,news,333.0,2026-05-07,https://example.com/news/p007,,,
+entity_foxconn,Entity,Foxconn,,,,,,Organization,1.0,0.0
+post_p008,Post,Meta expands open-source AI model strategy,p008,technology,275.0,2026-05-08,https://example.com/news/p008,,,
+entity_europe,Entity,Europe,,,,,,Location,2.0,5.0
+entity_india,Entity,India,,,,,,Location,2.0,5.0
+entity_meta,Entity,Meta,,,,,,Organization,1.0,5.0
+post_p009,Post,Japan and South Korea strengthen semiconductor cooperation,p009,worldnews,312.0,2026-05-09,https://example.com/news/p009,,,
+entity_japan,Entity,Japan,,,,,,Location,1.0,4.0
+entity_south_korea,Entity,South Korea,,,,,,Location,1.0,4.0
+post_p010,Post,United Nations warns about misinformation during elections,p010,news,421.0,2026-05-10,https://example.com/news/p010,,,
+entity_ai_generated,Entity,AI-generated,,,,,,Entity,1.0,5.0
+entity_the_united_nations,Entity,The United Nations,,,,,,Organization,1.0,5.0
+entity_united_nations,Entity,United Nations,,,,,,Organization,2.0,5.0
+topic_misinformation,Topic,Misinformation,,,,,,Topic,,
+post_p011,Post,Nvidia announces new GPU platform for data centers,p011,technology,589.0,2026-05-11,https://example.com/news/p011,,,
+entity_amazon,Entity,Amazon,,,,,,Organization,1.0,1.0
+entity_cloud,Entity,Cloud,,,,,,Entity,1.0,1.0
+post_p012,Post,Middle East ceasefire talks continue in Qatar,p012,worldnews,358.0,2026-05-12,https://example.com/news/p012,,,
+entity_middle_east,Entity,Middle East,,,,,,Location,1.0,5.0
+entity_qatar,Entity,Qatar,,,,,,Location,1.0,5.0
+entity_qatar_negotiators,Entity,Qatar Negotiators,,,,,,Organization,1.0,5.0
