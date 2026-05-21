@@ -1,0 +1,61 @@
+﻿========================================
+資料科學實務 - 上課教材（整理後）
+========================================
+
+授課老師：梁德容、林家瑜
+整理日期：2026-05-21
+
+========================================
+教材文件（共 30 個）
+========================================
+
+【簡報/PPT】
+1. 1-Feature Data vs Histogram.pptx
+2. 1.Data_preprocessing_Lab-activity.pptx
+3. 2_Histogram_LAB_rev_2026.pptx
+4. 3-KL Divergence.pptx
+5. 5-EMD_New.pptx
+6. CNN_Testing_2022.pptx
+7. CNN_Training_2022.pptx
+8. Cross Validation.pptx
+9. Data Augmentation - GAN.pptx
+10. Data preprocessing.pptx
+11. Fabric_CNN_2022.pptx
+12. Introduction to Data Cleaning (with recording).pptx
+13. Online evaluation Form v3.pptx
+14. SRS.pptx
+15. Template Final Project3 (Good).pptx
+
+【PDF】
+16. 1.Data Preprocessing_python-code_2026DSP.pdf
+17. Evaluation Metrics.pdf
+18. GUIDELINE_UPDATED.pdf
+
+【壓縮檔】
+19. Fabric_CNN_Lab(2026-revised).rar
+20. HHT.rar
+21. Lab Session - Feature Importance2026.zip
+22. Lab session - Hypothesis testing_2026.rar
+23. Lab-session_Metrics.rar
+24. EM_Lab_Group_1.zip
+25. group_1.zip
+
+【其他】
+26. 109303208_1.LAB1-Data Preprocessing .ipynb (學生作業)
+27. GAN_lab_activity2026.docx
+28. lab CNN.mp4
+29. 2026 Syllabus for Data Science practices.docx
+30. 2026 Syllabus for Data Science practices (revised).docx
+
+========================================
+可能需要重新下載的教材
+========================================
+- Metrics(2026).pdf
+- GAN_Lab_2026.ipynb
+- PCA.rar
+（這些文件因下載時命名問題被刪除，需重新下載）
+
+========================================
+下載連結
+========================================
+https://ncueeclass.ncu.edu.tw/course/material/39195
